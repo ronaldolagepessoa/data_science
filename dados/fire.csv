@@ -1,0 +1,6455 @@
+state,number,Month
+Acre,0.0,1998-1
+Acre,0.0,1999-1
+Acre,0.0,2000-1
+Acre,0.0,2001-1
+Acre,0.0,2002-1
+Acre,10.0,2003-1
+Acre,0.0,2004-1
+Acre,12.0,2005-1
+Acre,4.0,2006-1
+Acre,0.0,2007-1
+Acre,0.0,2008-1
+Acre,0.0,2009-1
+Acre,1.0,2010-1
+Acre,0.0,2011-1
+Acre,0.0,2012-1
+Acre,0.0,2013-1
+Acre,0.0,2014-1
+Acre,1.0,2015-1
+Acre,12.0,2016-1
+Acre,0.0,2017-1
+Acre,0.0,1998-2
+Acre,0.0,1999-2
+Acre,0.0,2000-2
+Acre,0.0,2001-2
+Acre,1.0,2002-2
+Acre,0.0,2003-2
+Acre,3.0,2004-2
+Acre,0.0,2005-2
+Acre,0.0,2006-2
+Acre,5.0,2007-2
+Acre,0.0,2008-2
+Acre,2.0,2009-2
+Acre,0.0,2010-2
+Acre,0.0,2011-2
+Acre,0.0,2012-2
+Acre,0.0,2013-2
+Acre,0.0,2014-2
+Acre,2.0,2015-2
+Acre,5.0,2016-2
+Acre,1.0,2017-2
+Acre,0.0,1998-3
+Acre,0.0,1999-3
+Acre,11.0,2000-3
+Acre,0.0,2001-3
+Acre,0.0,2002-3
+Acre,0.0,2003-3
+Acre,0.0,2004-3
+Acre,3.0,2005-3
+Acre,0.0,2006-3
+Acre,2.0,2007-3
+Acre,0.0,2008-3
+Acre,1.0,2009-3
+Acre,0.0,2010-3
+Acre,0.0,2011-3
+Acre,1.0,2012-3
+Acre,2.0,2013-3
+Acre,1.0,2014-3
+Acre,2.0,2015-3
+Acre,0.0,2016-3
+Acre,0.0,2017-3
+Acre,0.0,1998-4
+Acre,0.0,1999-4
+Acre,1.0,2000-4
+Acre,0.0,2001-4
+Acre,0.0,2002-4
+Acre,1.0,2003-4
+Acre,2.0,2004-4
+Acre,1.0,2005-4
+Acre,0.0,2006-4
+Acre,0.0,2007-4
+Acre,0.0,2008-4
+Acre,0.0,2009-4
+Acre,3.0,2010-4
+Acre,2.0,2011-4
+Acre,1.0,2012-4
+Acre,19.0,2013-4
+Acre,7.0,2014-4
+Acre,3.0,2015-4
+Acre,0.0,2016-4
+Acre,1.0,2017-4
+Acre,0.0,1998-5
+Acre,0.0,1999-5
+Acre,1.0,2000-5
+Acre,0.0,2001-5
+Acre,0.0,2002-5
+Acre,6.0,2003-5
+Acre,7.0,2004-5
+Acre,2.0,2005-5
+Acre,8.0,2006-5
+Acre,1.0,2007-5
+Acre,0.0,2008-5
+Acre,3.0,2009-5
+Acre,9.0,2010-5
+Acre,3.0,2011-5
+Acre,3.0,2012-5
+Acre,4.0,2013-5
+Acre,1.0,2014-5
+Acre,2.0,2015-5
+Acre,21.0,2016-5
+Acre,10.0,2017-5
+Acre,3.0,1998-6
+Acre,0.0,1999-6
+Acre,1.0,2000-6
+Acre,1.0,2001-6
+Acre,0.0,2002-6
+Acre,0.0,2003-6
+Acre,5.0,2004-6
+Acre,27.0,2005-6
+Acre,1.0,2006-6
+Acre,4.0,2007-6
+Acre,0.0,2008-6
+Acre,0.0,2009-6
+Acre,1.0,2010-6
+Acre,10.0,2011-6
+Acre,7.0,2012-6
+Acre,8.0,2013-6
+Acre,17.0,2014-6
+Acre,40.0,2015-6
+Acre,87.0,2016-6
+Acre,45.0,2017-6
+Acre,37.0,1998-7
+Acre,1.0,1999-7
+Acre,1.0,2000-7
+Acre,3.0,2001-7
+Acre,39.0,2002-7
+Acre,168.0,2003-7
+Acre,42.0,2004-7
+Acre,368.0,2005-7
+Acre,33.0,2006-7
+Acre,29.0,2007-7
+Acre,41.0,2008-7
+Acre,31.0,2009-7
+Acre,126.0,2010-7
+Acre,93.0,2011-7
+Acre,71.0,2012-7
+Acre,54.0,2013-7
+Acre,60.0,2014-7
+Acre,109.0,2015-7
+Acre,533.0,2016-7
+Acre,457.0,2017-7
+Acre,130.0,1998-8
+Acre,63.0,1999-8
+Acre,136.0,2000-8
+Acre,396.0,2001-8
+Acre,728.0,2002-8
+Acre,1.976,2003-8
+Acre,645.0,2004-8
+Acre,4.198,2005-8
+Acre,839.0,2006-8
+Acre,960.0,2007-8
+Acre,445.0,2008-8
+Acre,194.0,2009-8
+Acre,1.682,2010-8
+Acre,425.0,2011-8
+Acre,739.0,2012-8
+Acre,679.0,2013-8
+Acre,1.1,2014-8
+Acre,1.3969999999999998,2015-8
+Acre,2.188,2016-8
+Acre,1.493,2017-8
+Acre,509.0,1998-9
+Acre,209.0,1999-9
+Acre,265.0,2000-9
+Acre,290.0,2001-9
+Acre,1.949,2002-9
+Acre,3.9419999999999997,2003-9
+Acre,1.9780000000000002,2004-9
+Acre,4.253,2005-9
+Acre,2.37,2006-9
+Acre,2.08,2007-9
+Acre,1.666,2008-9
+Acre,1.265,2009-9
+Acre,2.531,2010-9
+Acre,1.204,2011-9
+Acre,1.996,2012-9
+Acre,2.136,2013-9
+Acre,2.175,2014-9
+Acre,2.928,2015-9
+Acre,3.5860000000000003,2016-9
+Acre,3.429,2017-9
+Acre,44.0,1998-10
+Acre,60.0,1999-10
+Acre,18.0,2000-10
+Acre,137.0,2001-10
+Acre,687.0,2002-10
+Acre,740.0,2003-10
+Acre,461.0,2004-10
+Acre,547.0,2005-10
+Acre,316.0,2006-10
+Acre,203.0,2007-10
+Acre,652.0,2008-10
+Acre,565.0,2009-10
+Acre,292.0,2010-10
+Acre,97.0,2011-10
+Acre,348.0,2012-10
+Acre,258.0,2013-10
+Acre,406.0,2014-10
+Acre,905.0,2015-10
+Acre,509.0,2016-10
+Acre,1.508,2017-10
+Acre,0.0,1998-11
+Acre,0.0,1999-11
+Acre,0.0,2000-11
+Acre,1.0,2001-11
+Acre,86.0,2002-11
+Acre,15.0,2003-11
+Acre,10.0,2004-11
+Acre,14.0,2005-11
+Acre,18.0,2006-11
+Acre,7.0,2007-11
+Acre,4.0,2008-11
+Acre,33.0,2009-11
+Acre,39.0,2010-11
+Acre,74.0,2011-11
+Acre,13.0,2012-11
+Acre,79.0,2013-11
+Acre,56.0,2014-11
+Acre,115.0,2015-11
+Acre,46.0,2016-11
+Acre,98.0,2017-11
+Acre,7.0,1998-12
+Acre,0.0,1999-12
+Acre,0.0,2000-12
+Acre,0.0,2001-12
+Acre,1.0,2002-12
+Acre,1.0,2003-12
+Acre,7.0,2004-12
+Acre,2.0,2005-12
+Acre,0.0,2006-12
+Acre,0.0,2007-12
+Acre,0.0,2008-12
+Acre,1.0,2009-12
+Acre,0.0,2010-12
+Acre,4.0,2011-12
+Acre,1.0,2012-12
+Acre,3.0,2013-12
+Acre,6.0,2014-12
+Acre,8.0,2015-12
+Acre,6.0,2016-12
+Alagoas,0.0,1998-1
+Alagoas,58.0,1999-1
+Alagoas,11.0,2000-1
+Alagoas,5.0,2001-1
+Alagoas,12.0,2002-1
+Alagoas,150.0,2003-1
+Alagoas,9.0,2004-1
+Alagoas,83.0,2005-1
+Alagoas,29.0,2006-1
+Alagoas,33.0,2007-1
+Alagoas,55.0,2008-1
+Alagoas,104.0,2009-1
+Alagoas,23.0,2010-1
+Alagoas,41.0,2011-1
+Alagoas,36.0,2012-1
+Alagoas,49.0,2013-1
+Alagoas,54.0,2014-1
+Alagoas,81.0,2015-1
+Alagoas,24.0,2016-1
+Alagoas,38.0,2017-1
+Alagoas,38.0,2017-1
+Alagoas,0.0,1998-2
+Alagoas,20.0,1999-2
+Alagoas,16.0,2000-2
+Alagoas,4.0,2001-2
+Alagoas,15.0,2002-2
+Alagoas,33.0,2003-2
+Alagoas,7.0,2004-2
+Alagoas,31.0,2005-2
+Alagoas,14.0,2006-2
+Alagoas,28.0,2007-2
+Alagoas,74.0,2008-2
+Alagoas,32.0,2009-2
+Alagoas,26.0,2010-2
+Alagoas,33.0,2011-2
+Alagoas,41.0,2012-2
+Alagoas,19.0,2013-2
+Alagoas,29.0,2014-2
+Alagoas,46.0,2015-2
+Alagoas,14.0,2016-2
+Alagoas,21.0,2017-2
+Alagoas,0.0,1998-3
+Alagoas,52.0,1999-3
+Alagoas,32.0,2000-3
+Alagoas,0.0,2001-3
+Alagoas,27.0,2002-3
+Alagoas,15.0,2003-3
+Alagoas,16.0,2004-3
+Alagoas,35.0,2005-3
+Alagoas,37.0,2006-3
+Alagoas,7.0,2007-3
+Alagoas,31.0,2008-3
+Alagoas,31.0,2009-3
+Alagoas,70.0,2010-3
+Alagoas,34.0,2011-3
+Alagoas,44.0,2012-3
+Alagoas,31.0,2013-3
+Alagoas,28.0,2014-3
+Alagoas,32.0,2015-3
+Alagoas,9.0,2016-3
+Alagoas,23.0,2017-3
+Alagoas,0.0,1998-4
+Alagoas,4.0,1999-4
+Alagoas,20.0,2000-4
+Alagoas,0.0,2001-4
+Alagoas,6.0,2002-4
+Alagoas,20.0,2003-4
+Alagoas,6.0,2004-4
+Alagoas,1.0,2005-4
+Alagoas,2.0,2006-4
+Alagoas,1.0,2007-4
+Alagoas,18.0,2008-4
+Alagoas,5.0,2009-4
+Alagoas,3.0,2010-4
+Alagoas,17.0,2011-4
+Alagoas,18.0,2012-4
+Alagoas,25.0,2013-4
+Alagoas,16.0,2014-4
+Alagoas,63.0,2015-4
+Alagoas,13.0,2016-4
+Alagoas,7.0,2017-4
+Alagoas,0.0,1998-5
+Alagoas,1.0,1999-5
+Alagoas,1.0,2000-5
+Alagoas,2.0,2001-5
+Alagoas,1.0,2002-5
+Alagoas,1.0,2003-5
+Alagoas,3.0,2004-5
+Alagoas,0.0,2005-5
+Alagoas,0.0,2006-5
+Alagoas,0.0,2007-5
+Alagoas,0.0,2008-5
+Alagoas,0.0,2009-5
+Alagoas,0.0,2010-5
+Alagoas,0.0,2011-5
+Alagoas,21.0,2012-5
+Alagoas,2.0,2013-5
+Alagoas,1.0,2014-5
+Alagoas,18.0,2015-5
+Alagoas,4.0,2016-5
+Alagoas,1.0,2017-5
+Alagoas,0.0,1998-6
+Alagoas,0.0,1999-6
+Alagoas,0.0,2000-6
+Alagoas,2.0,2001-6
+Alagoas,0.0,2002-6
+Alagoas,0.0,2003-6
+Alagoas,0.0,2004-6
+Alagoas,0.0,2005-6
+Alagoas,0.0,2006-6
+Alagoas,0.0,2007-6
+Alagoas,0.0,2008-6
+Alagoas,0.0,2009-6
+Alagoas,0.0,2010-6
+Alagoas,2.0,2011-6
+Alagoas,4.0,2012-6
+Alagoas,1.0,2013-6
+Alagoas,2.0,2014-6
+Alagoas,2.0,2015-6
+Alagoas,5.0,2016-6
+Alagoas,2.0,2017-6
+Alagoas,0.0,1998-7
+Alagoas,0.0,1999-7
+Alagoas,0.0,2000-7
+Alagoas,0.0,2001-7
+Alagoas,5.0,2002-7
+Alagoas,0.0,2003-7
+Alagoas,0.0,2004-7
+Alagoas,0.0,2005-7
+Alagoas,0.0,2006-7
+Alagoas,0.0,2007-7
+Alagoas,0.0,2008-7
+Alagoas,0.0,2009-7
+Alagoas,2.0,2010-7
+Alagoas,0.0,2011-7
+Alagoas,0.0,2012-7
+Alagoas,0.0,2013-7
+Alagoas,1.0,2014-7
+Alagoas,0.0,2015-7
+Alagoas,3.0,2016-7
+Alagoas,0.0,2017-7
+Alagoas,1.0,1998-8
+Alagoas,3.0,1999-8
+Alagoas,4.0,2000-8
+Alagoas,1.0,2001-8
+Alagoas,3.0,2002-8
+Alagoas,2.0,2003-8
+Alagoas,2.0,2004-8
+Alagoas,2.0,2005-8
+Alagoas,1.0,2006-8
+Alagoas,3.0,2007-8
+Alagoas,1.0,2008-8
+Alagoas,0.0,2009-8
+Alagoas,1.0,2010-8
+Alagoas,4.0,2011-8
+Alagoas,0.0,2012-8
+Alagoas,0.0,2013-8
+Alagoas,3.0,2014-8
+Alagoas,3.0,2015-8
+Alagoas,5.0,2016-8
+Alagoas,1.0,2017-8
+Alagoas,14.0,1998-9
+Alagoas,3.0,1999-9
+Alagoas,22.0,2000-9
+Alagoas,5.0,2001-9
+Alagoas,14.0,2002-9
+Alagoas,8.0,2003-9
+Alagoas,5.0,2004-9
+Alagoas,7.0,2005-9
+Alagoas,4.0,2006-9
+Alagoas,2.0,2007-9
+Alagoas,9.0,2008-9
+Alagoas,13.0,2009-9
+Alagoas,5.0,2010-9
+Alagoas,5.0,2011-9
+Alagoas,6.0,2012-9
+Alagoas,4.0,2013-9
+Alagoas,11.0,2014-9
+Alagoas,7.0,2015-9
+Alagoas,18.0,2016-9
+Alagoas,4.0,2017-9
+Alagoas,20.0,1998-10
+Alagoas,4.0,1999-10
+Alagoas,13.0,2000-10
+Alagoas,15.0,2001-10
+Alagoas,30.0,2002-10
+Alagoas,10.0,2003-10
+Alagoas,12.0,2004-10
+Alagoas,17.0,2005-10
+Alagoas,32.0,2006-10
+Alagoas,6.0,2007-10
+Alagoas,18.0,2008-10
+Alagoas,30.0,2009-10
+Alagoas,16.0,2010-10
+Alagoas,23.0,2011-10
+Alagoas,28.0,2012-10
+Alagoas,25.0,2013-10
+Alagoas,7.0,2014-10
+Alagoas,40.0,2015-10
+Alagoas,74.0,2016-10
+Alagoas,14.0,2017-10
+Alagoas,19.0,1998-11
+Alagoas,15.0,1999-11
+Alagoas,2.0,2000-11
+Alagoas,22.0,2001-11
+Alagoas,50.0,2002-11
+Alagoas,17.0,2003-11
+Alagoas,28.0,2004-11
+Alagoas,25.0,2005-11
+Alagoas,12.0,2006-11
+Alagoas,15.0,2007-11
+Alagoas,37.0,2008-11
+Alagoas,55.0,2009-11
+Alagoas,31.0,2010-11
+Alagoas,23.0,2011-11
+Alagoas,95.0,2012-11
+Alagoas,10.0,2013-11
+Alagoas,14.0,2014-11
+Alagoas,162.0,2015-11
+Alagoas,76.0,2016-11
+Alagoas,10.0,2017-11
+Alagoas,32.0,1998-12
+Alagoas,12.0,1999-12
+Alagoas,2.0,2000-12
+Alagoas,30.0,2001-12
+Alagoas,95.0,2002-12
+Alagoas,43.0,2003-12
+Alagoas,71.0,2004-12
+Alagoas,16.0,2005-12
+Alagoas,30.0,2006-12
+Alagoas,33.0,2007-12
+Alagoas,34.0,2008-12
+Alagoas,55.0,2009-12
+Alagoas,45.0,2010-12
+Alagoas,50.0,2011-12
+Alagoas,59.0,2012-12
+Alagoas,42.0,2013-12
+Alagoas,24.0,2014-12
+Alagoas,136.0,2015-12
+Alagoas,155.0,2016-12
+Amapa,0.0,1998-1
+Amapa,0.0,1999-1
+Amapa,2.0,2000-1
+Amapa,0.0,2001-1
+Amapa,7.0,2002-1
+Amapa,31.0,2003-1
+Amapa,38.0,2004-1
+Amapa,109.0,2005-1
+Amapa,6.0,2006-1
+Amapa,0.0,2007-1
+Amapa,2.0,2008-1
+Amapa,4.0,2009-1
+Amapa,2.0,2010-1
+Amapa,0.0,2011-1
+Amapa,30.0,2012-1
+Amapa,3.0,2013-1
+Amapa,10.0,2014-1
+Amapa,14.0,2015-1
+Amapa,19.0,2016-1
+Amapa,2.0,2017-1
+Amapa,0.0,1998-2
+Amapa,1.0,1999-2
+Amapa,0.0,2000-2
+Amapa,0.0,2001-2
+Amapa,2.0,2002-2
+Amapa,0.0,2003-2
+Amapa,2.0,2004-2
+Amapa,1.0,2005-2
+Amapa,2.0,2006-2
+Amapa,0.0,2007-2
+Amapa,0.0,2008-2
+Amapa,0.0,2009-2
+Amapa,0.0,2010-2
+Amapa,3.0,2011-2
+Amapa,5.0,2012-2
+Amapa,0.0,2013-2
+Amapa,2.0,2014-2
+Amapa,1.0,2015-2
+Amapa,1.0,2016-2
+Amapa,0.0,2017-2
+Amapa,0.0,1998-3
+Amapa,2.0,1999-3
+Amapa,0.0,2000-3
+Amapa,0.0,2001-3
+Amapa,0.0,2002-3
+Amapa,1.0,2003-3
+Amapa,0.0,2004-3
+Amapa,0.0,2005-3
+Amapa,0.0,2006-3
+Amapa,0.0,2007-3
+Amapa,1.0,2008-3
+Amapa,1.0,2009-3
+Amapa,2.0,2010-3
+Amapa,0.0,2011-3
+Amapa,1.0,2012-3
+Amapa,0.0,2013-3
+Amapa,1.0,2014-3
+Amapa,2.0,2015-3
+Amapa,5.0,2016-3
+Amapa,0.0,2017-3
+Amapa,0.0,1998-4
+Amapa,0.0,1999-4
+Amapa,0.0,2000-4
+Amapa,0.0,2001-4
+Amapa,0.0,2002-4
+Amapa,2.0,2003-4
+Amapa,0.0,2004-4
+Amapa,0.0,2005-4
+Amapa,0.0,2006-4
+Amapa,0.0,2007-4
+Amapa,2.0,2008-4
+Amapa,0.0,2009-4
+Amapa,2.0,2010-4
+Amapa,0.0,2011-4
+Amapa,2.0,2012-4
+Amapa,2.0,2013-4
+Amapa,0.0,2014-4
+Amapa,0.0,2015-4
+Amapa,0.0,2016-4
+Amapa,3.0,2017-4
+Amapa,0.0,1998-5
+Amapa,0.0,1999-5
+Amapa,0.0,2000-5
+Amapa,0.0,2001-5
+Amapa,3.0,2002-5
+Amapa,0.0,2003-5
+Amapa,0.0,2004-5
+Amapa,0.0,2005-5
+Amapa,0.0,2006-5
+Amapa,0.0,2007-5
+Amapa,0.0,2008-5
+Amapa,2.0,2009-5
+Amapa,2.0,2010-5
+Amapa,2.0,2011-5
+Amapa,2.0,2012-5
+Amapa,0.0,2013-5
+Amapa,0.0,2014-5
+Amapa,0.0,2015-5
+Amapa,1.0,2016-5
+Amapa,1.0,2017-5
+Amapa,0.0,1998-6
+Amapa,2.0,1999-6
+Amapa,0.0,2000-6
+Amapa,0.0,2001-6
+Amapa,0.0,2002-6
+Amapa,0.0,2003-6
+Amapa,5.0,2004-6
+Amapa,2.0,2005-6
+Amapa,0.0,2006-6
+Amapa,0.0,2007-6
+Amapa,0.0,2008-6
+Amapa,1.0,2009-6
+Amapa,0.0,2010-6
+Amapa,0.0,2011-6
+Amapa,7.0,2012-6
+Amapa,1.0,2013-6
+Amapa,0.0,2014-6
+Amapa,3.0,2015-6
+Amapa,2.0,2016-6
+Amapa,2.0,2017-6
+Amapa,0.0,1998-7
+Amapa,0.0,1999-7
+Amapa,0.0,2000-7
+Amapa,1.0,2001-7
+Amapa,1.0,2002-7
+Amapa,0.0,2003-7
+Amapa,2.0,2004-7
+Amapa,0.0,2005-7
+Amapa,0.0,2006-7
+Amapa,0.0,2007-7
+Amapa,0.0,2008-7
+Amapa,4.0,2009-7
+Amapa,2.0,2010-7
+Amapa,5.0,2011-7
+Amapa,3.0,2012-7
+Amapa,1.0,2013-7
+Amapa,4.0,2014-7
+Amapa,5.0,2015-7
+Amapa,1.0,2016-7
+Amapa,3.0,2017-7
+Amapa,1.0,1998-8
+Amapa,0.0,1999-8
+Amapa,3.0,2000-8
+Amapa,12.0,2001-8
+Amapa,18.0,2002-8
+Amapa,14.0,2003-8
+Amapa,9.0,2004-8
+Amapa,4.0,2005-8
+Amapa,11.0,2006-8
+Amapa,5.0,2007-8
+Amapa,4.0,2008-8
+Amapa,20.0,2009-8
+Amapa,1.0,2010-8
+Amapa,16.0,2011-8
+Amapa,19.0,2012-8
+Amapa,9.0,2013-8
+Amapa,18.0,2014-8
+Amapa,40.0,2015-8
+Amapa,37.0,2016-8
+Amapa,33.0,2017-8
+Amapa,20.0,1998-9
+Amapa,4.0,1999-9
+Amapa,19.0,2000-9
+Amapa,95.0,2001-9
+Amapa,73.0,2002-9
+Amapa,88.0,2003-9
+Amapa,67.0,2004-9
+Amapa,97.0,2005-9
+Amapa,112.0,2006-9
+Amapa,61.0,2007-9
+Amapa,83.0,2008-9
+Amapa,188.0,2009-9
+Amapa,63.0,2010-9
+Amapa,128.0,2011-9
+Amapa,168.0,2012-9
+Amapa,85.0,2013-9
+Amapa,137.0,2014-9
+Amapa,192.0,2015-9
+Amapa,142.0,2016-9
+Amapa,95.0,2017-9
+Amapa,42.0,1998-10
+Amapa,25.0,1999-10
+Amapa,42.0,2000-10
+Amapa,194.0,2001-10
+Amapa,557.0,2002-10
+Amapa,355.0,2003-10
+Amapa,412.0,2004-10
+Amapa,335.0,2005-10
+Amapa,405.0,2006-10
+Amapa,162.0,2007-10
+Amapa,395.0,2008-10
+Amapa,765.0,2009-10
+Amapa,265.0,2010-10
+Amapa,304.0,2011-10
+Amapa,475.0,2012-10
+Amapa,385.0,2013-10
+Amapa,480.0,2014-10
+Amapa,827.0,2015-10
+Amapa,793.0,2016-10
+Amapa,468.0,2017-10
+Amapa,131.0,1998-11
+Amapa,26.0,1999-11
+Amapa,157.0,2000-11
+Amapa,406.0,2001-11
+Amapa,1.0959999999999999,2002-11
+Amapa,750.0,2003-11
+Amapa,949.0,2004-11
+Amapa,685.0,2005-11
+Amapa,207.0,2006-11
+Amapa,198.0,2007-11
+Amapa,266.0,2008-11
+Amapa,1.0190000000000001,2009-11
+Amapa,339.0,2010-11
+Amapa,282.0,2011-11
+Amapa,969.0,2012-11
+Amapa,341.0,2013-11
+Amapa,484.0,2014-11
+Amapa,1.3,2015-11
+Amapa,1.161,2016-11
+Amapa,858.0,2017-11
+Amapa,84.0,1998-12
+Amapa,41.0,1999-12
+Amapa,30.0,2000-12
+Amapa,593.0,2001-12
+Amapa,200.0,2002-12
+Amapa,411.0,2003-12
+Amapa,777.0,2004-12
+Amapa,38.0,2005-12
+Amapa,74.0,2006-12
+Amapa,14.0,2007-12
+Amapa,32.0,2008-12
+Amapa,123.0,2009-12
+Amapa,43.0,2010-12
+Amapa,360.0,2011-12
+Amapa,422.0,2012-12
+Amapa,148.0,2013-12
+Amapa,354.0,2014-12
+Amapa,269.0,2015-12
+Amapa,491.0,2016-12
+Amazonas,0.0,1998-1
+Amazonas,3.0,1999-1
+Amazonas,7.0,2000-1
+Amazonas,3.0,2001-1
+Amazonas,17.0,2002-1
+Amazonas,158.0,2003-1
+Amazonas,123.0,2004-1
+Amazonas,44.0,2005-1
+Amazonas,20.0,2006-1
+Amazonas,37.0,2007-1
+Amazonas,16.0,2008-1
+Amazonas,9.0,2009-1
+Amazonas,82.0,2010-1
+Amazonas,53.0,2011-1
+Amazonas,6.0,2012-1
+Amazonas,37.0,2013-1
+Amazonas,46.0,2014-1
+Amazonas,35.0,2015-1
+Amazonas,770.0,2016-1
+Amazonas,65.0,2017-1
+Amazonas,0.0,1998-2
+Amazonas,43.0,1999-2
+Amazonas,62.0,2000-2
+Amazonas,8.0,2001-2
+Amazonas,2.0,2002-2
+Amazonas,62.0,2003-2
+Amazonas,92.0,2004-2
+Amazonas,6.0,2005-2
+Amazonas,10.0,2006-2
+Amazonas,92.0,2007-2
+Amazonas,32.0,2008-2
+Amazonas,3.0,2009-2
+Amazonas,81.0,2010-2
+Amazonas,30.0,2011-2
+Amazonas,25.0,2012-2
+Amazonas,16.0,2013-2
+Amazonas,49.0,2014-2
+Amazonas,107.0,2015-2
+Amazonas,275.0,2016-2
+Amazonas,52.0,2017-2
+Amazonas,0.0,1998-3
+Amazonas,7.0,1999-3
+Amazonas,69.0,2000-3
+Amazonas,6.0,2001-3
+Amazonas,5.0,2002-3
+Amazonas,64.0,2003-3
+Amazonas,6.0,2004-3
+Amazonas,12.0,2005-3
+Amazonas,20.0,2006-3
+Amazonas,6.0,2007-3
+Amazonas,10.0,2008-3
+Amazonas,11.0,2009-3
+Amazonas,116.0,2010-3
+Amazonas,49.0,2011-3
+Amazonas,17.0,2012-3
+Amazonas,49.0,2013-3
+Amazonas,50.0,2014-3
+Amazonas,46.0,2015-3
+Amazonas,140.0,2016-3
+Amazonas,45.0,2017-3
+Amazonas,0.0,1998-4
+Amazonas,2.0,1999-4
+Amazonas,18.0,2000-4
+Amazonas,1.0,2001-4
+Amazonas,2.0,2002-4
+Amazonas,11.0,2003-4
+Amazonas,4.0,2004-4
+Amazonas,5.0,2005-4
+Amazonas,5.0,2006-4
+Amazonas,0.0,2007-4
+Amazonas,13.0,2008-4
+Amazonas,1.0,2009-4
+Amazonas,11.0,2010-4
+Amazonas,5.0,2011-4
+Amazonas,3.0,2012-4
+Amazonas,20.0,2013-4
+Amazonas,25.0,2014-4
+Amazonas,24.0,2015-4
+Amazonas,22.0,2016-4
+Amazonas,20.0,2017-4
+Amazonas,0.0,1998-5
+Amazonas,0.0,1999-5
+Amazonas,51.0,2000-5
+Amazonas,0.0,2001-5
+Amazonas,8.0,2002-5
+Amazonas,2.0,2003-5
+Amazonas,0.0,2004-5
+Amazonas,8.0,2005-5
+Amazonas,4.0,2006-5
+Amazonas,0.0,2007-5
+Amazonas,1.0,2008-5
+Amazonas,3.0,2009-5
+Amazonas,13.0,2010-5
+Amazonas,6.0,2011-5
+Amazonas,12.0,2012-5
+Amazonas,19.0,2013-5
+Amazonas,12.0,2014-5
+Amazonas,10.0,2015-5
+Amazonas,30.0,2016-5
+Amazonas,40.0,2017-5
+Amazonas,2.0,1998-6
+Amazonas,7.0,1999-6
+Amazonas,6.0,2000-6
+Amazonas,5.0,2001-6
+Amazonas,5.0,2002-6
+Amazonas,3.0,2003-6
+Amazonas,12.0,2004-6
+Amazonas,78.0,2005-6
+Amazonas,9.0,2006-6
+Amazonas,23.0,2007-6
+Amazonas,7.0,2008-6
+Amazonas,13.0,2009-6
+Amazonas,9.0,2010-6
+Amazonas,22.0,2011-6
+Amazonas,45.0,2012-6
+Amazonas,56.0,2013-6
+Amazonas,74.0,2014-6
+Amazonas,33.0,2015-6
+Amazonas,90.0,2016-6
+Amazonas,119.0,2017-6
+Amazonas,71.0,1998-7
+Amazonas,11.0,1999-7
+Amazonas,39.0,2000-7
+Amazonas,9.0,2001-7
+Amazonas,146.0,2002-7
+Amazonas,180.0,2003-7
+Amazonas,177.0,2004-7
+Amazonas,676.0,2005-7
+Amazonas,123.0,2006-7
+Amazonas,116.0,2007-7
+Amazonas,108.0,2008-7
+Amazonas,199.0,2009-7
+Amazonas,640.0,2010-7
+Amazonas,271.0,2011-7
+Amazonas,234.0,2012-7
+Amazonas,248.0,2013-7
+Amazonas,202.0,2014-7
+Amazonas,356.0,2015-7
+Amazonas,1.137,2016-7
+Amazonas,1.975,2017-7
+Amazonas,321.0,1998-8
+Amazonas,259.0,1999-8
+Amazonas,180.0,2000-8
+Amazonas,501.0,2001-8
+Amazonas,741.0,2002-8
+Amazonas,1.867,2003-8
+Amazonas,1.207,2004-8
+Amazonas,2.316,2005-8
+Amazonas,1.422,2006-8
+Amazonas,2.241,2007-8
+Amazonas,861.0,2008-8
+Amazonas,1.321,2009-8
+Amazonas,3.727,2010-8
+Amazonas,1.2429999999999999,2011-8
+Amazonas,3.011,2012-8
+Amazonas,1.276,2013-8
+Amazonas,3.852,2014-8
+Amazonas,4.564,2015-8
+Amazonas,3.611,2016-8
+Amazonas,6.316,2017-8
+Amazonas,267.0,1998-9
+Amazonas,216.0,1999-9
+Amazonas,189.0,2000-9
+Amazonas,166.0,2001-9
+Amazonas,928.0,2002-9
+Amazonas,1.401,2003-9
+Amazonas,911.0,2004-9
+Amazonas,2.812,2005-9
+Amazonas,2.218,2006-9
+Amazonas,1.36,2007-9
+Amazonas,998.0,2008-9
+Amazonas,3.091,2009-9
+Amazonas,2.781,2010-9
+Amazonas,1.295,2011-9
+Amazonas,2.392,2012-9
+Amazonas,1.739,2013-9
+Amazonas,3.057,2014-9
+Amazonas,5.882000000000001,2015-9
+Amazonas,3.1189999999999998,2016-9
+Amazonas,4.033,2017-9
+Amazonas,83.0,1998-10
+Amazonas,479.0,1999-10
+Amazonas,145.0,2000-10
+Amazonas,332.0,2001-10
+Amazonas,695.0,2002-10
+Amazonas,725.0,2003-10
+Amazonas,710.0,2004-10
+Amazonas,545.0,2005-10
+Amazonas,721.0,2006-10
+Amazonas,215.0,2007-10
+Amazonas,632.0,2008-10
+Amazonas,2.189,2009-10
+Amazonas,889.0,2010-10
+Amazonas,694.0,2011-10
+Amazonas,1.238,2012-10
+Amazonas,1.202,2013-10
+Amazonas,952.0,2014-10
+Amazonas,2.494,2015-10
+Amazonas,2.105,2016-10
+Amazonas,1.581,2017-10
+Amazonas,6.0,1998-11
+Amazonas,32.0,1999-11
+Amazonas,27.0,2000-11
+Amazonas,244.0,2001-11
+Amazonas,259.0,2002-11
+Amazonas,169.0,2003-11
+Amazonas,209.0,2004-11
+Amazonas,261.0,2005-11
+Amazonas,59.0,2006-11
+Amazonas,90.0,2007-11
+Amazonas,39.0,2008-11
+Amazonas,973.0,2009-11
+Amazonas,354.0,2010-11
+Amazonas,399.0,2011-11
+Amazonas,682.0,2012-11
+Amazonas,220.0,2013-11
+Amazonas,676.0,2014-11
+Amazonas,1.054,2015-11
+Amazonas,591.0,2016-11
+Amazonas,552.0,2017-11
+Amazonas,196.0,1998-12
+Amazonas,2.0,1999-12
+Amazonas,60.0,2000-12
+Amazonas,22.0,2001-12
+Amazonas,44.0,2002-12
+Amazonas,147.0,2003-12
+Amazonas,53.0,2004-12
+Amazonas,17.0,2005-12
+Amazonas,23.0,2006-12
+Amazonas,7.0,2007-12
+Amazonas,0.0,2008-12
+Amazonas,102.0,2009-12
+Amazonas,123.0,2010-12
+Amazonas,121.0,2011-12
+Amazonas,80.0,2012-12
+Amazonas,236.0,2013-12
+Amazonas,293.0,2014-12
+Amazonas,565.0,2015-12
+Amazonas,133.0,2016-12
+Bahia,0.0,1998-1
+Bahia,114.0,1999-1
+Bahia,31.0,2000-1
+Bahia,24.0,2001-1
+Bahia,125.0,2002-1
+Bahia,439.0,2003-1
+Bahia,158.0,2004-1
+Bahia,303.0,2005-1
+Bahia,225.0,2006-1
+Bahia,373.0,2007-1
+Bahia,314.0,2008-1
+Bahia,177.0,2009-1
+Bahia,297.0,2010-1
+Bahia,101.0,2011-1
+Bahia,179.0,2012-1
+Bahia,125.0,2013-1
+Bahia,132.0,2014-1
+Bahia,256.0,2015-1
+Bahia,285.0,2016-1
+Bahia,154.0,2017-1
+Bahia,0.0,1998-2
+Bahia,157.0,1999-2
+Bahia,32.0,2000-2
+Bahia,101.0,2001-2
+Bahia,204.0,2002-2
+Bahia,223.0,2003-2
+Bahia,122.0,2004-2
+Bahia,143.0,2005-2
+Bahia,277.0,2006-2
+Bahia,113.0,2007-2
+Bahia,235.0,2008-2
+Bahia,117.0,2009-2
+Bahia,206.0,2010-2
+Bahia,156.0,2011-2
+Bahia,200.0,2012-2
+Bahia,231.0,2013-2
+Bahia,107.0,2014-2
+Bahia,143.0,2015-2
+Bahia,418.0,2016-2
+Bahia,100.0,2017-2
+Bahia,0.0,1998-3
+Bahia,83.0,1999-3
+Bahia,65.0,2000-3
+Bahia,4.0,2001-3
+Bahia,146.0,2002-3
+Bahia,274.0,2003-3
+Bahia,115.0,2004-3
+Bahia,158.0,2005-3
+Bahia,199.0,2006-3
+Bahia,141.0,2007-3
+Bahia,135.0,2008-3
+Bahia,249.0,2009-3
+Bahia,156.0,2010-3
+Bahia,90.0,2011-3
+Bahia,404.0,2012-3
+Bahia,363.0,2013-3
+Bahia,148.0,2014-3
+Bahia,229.0,2015-3
+Bahia,281.0,2016-3
+Bahia,163.0,2017-3
+Bahia,0.0,1998-4
+Bahia,55.0,1999-4
+Bahia,23.0,2000-4
+Bahia,26.0,2001-4
+Bahia,110.0,2002-4
+Bahia,376.0,2003-4
+Bahia,89.0,2004-4
+Bahia,76.0,2005-4
+Bahia,60.0,2006-4
+Bahia,64.0,2007-4
+Bahia,151.0,2008-4
+Bahia,40.0,2009-4
+Bahia,103.0,2010-4
+Bahia,149.0,2011-4
+Bahia,396.0,2012-4
+Bahia,108.0,2013-4
+Bahia,183.0,2014-4
+Bahia,190.0,2015-4
+Bahia,217.0,2016-4
+Bahia,94.0,2017-4
+Bahia,0.0,1998-5
+Bahia,76.0,1999-5
+Bahia,71.0,2000-5
+Bahia,85.0,2001-5
+Bahia,166.0,2002-5
+Bahia,106.0,2003-5
+Bahia,124.0,2004-5
+Bahia,120.0,2005-5
+Bahia,43.0,2006-5
+Bahia,161.0,2007-5
+Bahia,56.0,2008-5
+Bahia,34.0,2009-5
+Bahia,198.0,2010-5
+Bahia,189.0,2011-5
+Bahia,326.0,2012-5
+Bahia,141.0,2013-5
+Bahia,224.0,2014-5
+Bahia,144.0,2015-5
+Bahia,259.0,2016-5
+Bahia,121.0,2017-5
+Bahia,55.0,1998-6
+Bahia,64.0,1999-6
+Bahia,178.0,2000-6
+Bahia,98.0,2001-6
+Bahia,118.0,2002-6
+Bahia,140.0,2003-6
+Bahia,289.0,2004-6
+Bahia,211.0,2005-6
+Bahia,68.0,2006-6
+Bahia,270.0,2007-6
+Bahia,72.0,2008-6
+Bahia,92.0,2009-6
+Bahia,192.0,2010-6
+Bahia,345.0,2011-6
+Bahia,385.0,2012-6
+Bahia,208.0,2013-6
+Bahia,243.0,2014-6
+Bahia,242.0,2015-6
+Bahia,416.0,2016-6
+Bahia,329.0,2017-6
+Bahia,219.0,1998-7
+Bahia,107.0,1999-7
+Bahia,202.0,2000-7
+Bahia,248.0,2001-7
+Bahia,549.0,2002-7
+Bahia,261.0,2003-7
+Bahia,310.0,2004-7
+Bahia,269.0,2005-7
+Bahia,229.0,2006-7
+Bahia,811.0,2007-7
+Bahia,271.0,2008-7
+Bahia,321.0,2009-7
+Bahia,519.0,2010-7
+Bahia,578.0,2011-7
+Bahia,906.0,2012-7
+Bahia,362.0,2013-7
+Bahia,249.0,2014-7
+Bahia,306.0,2015-7
+Bahia,345.0,2016-7
+Bahia,300.0,2017-7
+Bahia,815.0,1998-8
+Bahia,453.0,1999-8
+Bahia,633.0,2000-8
+Bahia,979.0,2001-8
+Bahia,1.827,2002-8
+Bahia,1.0390000000000001,2003-8
+Bahia,1.43,2004-8
+Bahia,948.0,2005-8
+Bahia,995.0,2006-8
+Bahia,3.734,2007-8
+Bahia,611.0,2008-8
+Bahia,439.0,2009-8
+Bahia,2.423,2010-8
+Bahia,1.795,2011-8
+Bahia,1.835,2012-8
+Bahia,610.0,2013-8
+Bahia,674.0,2014-8
+Bahia,829.0,2015-8
+Bahia,724.0,2016-8
+Bahia,1.018,2017-8
+Bahia,2.718,1998-9
+Bahia,1.275,1999-9
+Bahia,2.285,2000-9
+Bahia,3.964,2001-9
+Bahia,6.439,2002-9
+Bahia,8.847000000000001,2003-9
+Bahia,6.433,2004-9
+Bahia,4.066,2005-9
+Bahia,3.0060000000000002,2006-9
+Bahia,7.438,2007-9
+Bahia,4.837,2008-9
+Bahia,3.61,2009-9
+Bahia,5.3229999999999995,2010-9
+Bahia,7.086,2011-9
+Bahia,7.495,2012-9
+Bahia,2.681,2013-9
+Bahia,2.6039999999999996,2014-9
+Bahia,7.956,2015-9
+Bahia,1.819,2016-9
+Bahia,1.791,2017-9
+Bahia,1.969,1998-10
+Bahia,1.307,1999-10
+Bahia,3.35,2000-10
+Bahia,1.6869999999999998,2001-10
+Bahia,5.414,2002-10
+Bahia,4.263999999999999,2003-10
+Bahia,4.81,2004-10
+Bahia,8.405,2005-10
+Bahia,2.079,2006-10
+Bahia,4.981,2007-10
+Bahia,7.691,2008-10
+Bahia,2.552,2009-10
+Bahia,5.263999999999999,2010-10
+Bahia,2.166,2011-10
+Bahia,4.607,2012-10
+Bahia,1.969,2013-10
+Bahia,2.763,2014-10
+Bahia,4.989,2015-10
+Bahia,1.415,2016-10
+Bahia,4.005,2017-10
+Bahia,49.0,1998-11
+Bahia,49.0,1999-11
+Bahia,114.0,2000-11
+Bahia,699.0,2001-11
+Bahia,1.02,2002-11
+Bahia,533.0,2003-11
+Bahia,1.736,2004-11
+Bahia,1.595,2005-11
+Bahia,239.0,2006-11
+Bahia,2.126,2007-11
+Bahia,3.175,2008-11
+Bahia,402.0,2009-11
+Bahia,605.0,2010-11
+Bahia,176.0,2011-11
+Bahia,168.0,2012-11
+Bahia,288.0,2013-11
+Bahia,348.0,2014-11
+Bahia,1.705,2015-11
+Bahia,408.0,2016-11
+Bahia,174.0,2017-11
+Bahia,82.0,1998-12
+Bahia,37.0,1999-12
+Bahia,24.0,2000-12
+Bahia,158.0,2001-12
+Bahia,848.0,2002-12
+Bahia,710.0,2003-12
+Bahia,423.0,2004-12
+Bahia,116.0,2005-12
+Bahia,169.0,2006-12
+Bahia,259.0,2007-12
+Bahia,52.0,2008-12
+Bahia,308.0,2009-12
+Bahia,226.0,2010-12
+Bahia,230.0,2011-12
+Bahia,477.0,2012-12
+Bahia,131.0,2013-12
+Bahia,144.0,2014-12
+Bahia,1.4080000000000001,2015-12
+Bahia,164.0,2016-12
+Ceara,0.0,1998-1
+Ceara,47.0,1999-1
+Ceara,1.0,2000-1
+Ceara,11.0,2001-1
+Ceara,33.0,2002-1
+Ceara,264.0,2003-1
+Ceara,143.0,2004-1
+Ceara,384.0,2005-1
+Ceara,211.0,2006-1
+Ceara,304.0,2007-1
+Ceara,166.0,2008-1
+Ceara,347.0,2009-1
+Ceara,288.0,2010-1
+Ceara,32.0,2011-1
+Ceara,273.0,2012-1
+Ceara,103.0,2013-1
+Ceara,115.0,2014-1
+Ceara,207.0,2015-1
+Ceara,100.0,2016-1
+Ceara,91.0,2017-1
+Ceara,0.0,1998-2
+Ceara,16.0,1999-2
+Ceara,6.0,2000-2
+Ceara,0.0,2001-2
+Ceara,75.0,2002-2
+Ceara,9.0,2003-2
+Ceara,5.0,2004-2
+Ceara,25.0,2005-2
+Ceara,23.0,2006-2
+Ceara,3.0,2007-2
+Ceara,12.0,2008-2
+Ceara,8.0,2009-2
+Ceara,63.0,2010-2
+Ceara,2.0,2011-2
+Ceara,41.0,2012-2
+Ceara,49.0,2013-2
+Ceara,18.0,2014-2
+Ceara,25.0,2015-2
+Ceara,13.0,2016-2
+Ceara,9.0,2017-2
+Ceara,0.0,1998-3
+Ceara,30.0,1999-3
+Ceara,9.0,2000-3
+Ceara,0.0,2001-3
+Ceara,17.0,2002-3
+Ceara,3.0,2003-3
+Ceara,1.0,2004-3
+Ceara,5.0,2005-3
+Ceara,3.0,2006-3
+Ceara,2.0,2007-3
+Ceara,2.0,2008-3
+Ceara,3.0,2009-3
+Ceara,40.0,2010-3
+Ceara,6.0,2011-3
+Ceara,10.0,2012-3
+Ceara,17.0,2013-3
+Ceara,6.0,2014-3
+Ceara,20.0,2015-3
+Ceara,4.0,2016-3
+Ceara,4.0,2017-3
+Ceara,0.0,1998-4
+Ceara,6.0,1999-4
+Ceara,15.0,2000-4
+Ceara,2.0,2001-4
+Ceara,5.0,2002-4
+Ceara,3.0,2003-4
+Ceara,2.0,2004-4
+Ceara,4.0,2005-4
+Ceara,1.0,2006-4
+Ceara,1.0,2007-4
+Ceara,0.0,2008-4
+Ceara,0.0,2009-4
+Ceara,7.0,2010-4
+Ceara,1.0,2011-4
+Ceara,2.0,2012-4
+Ceara,4.0,2013-4
+Ceara,4.0,2014-4
+Ceara,3.0,2015-4
+Ceara,10.0,2016-4
+Ceara,6.0,2017-4
+Ceara,0.0,1998-5
+Ceara,5.0,1999-5
+Ceara,7.0,2000-5
+Ceara,81.0,2001-5
+Ceara,10.0,2002-5
+Ceara,0.0,2003-5
+Ceara,3.0,2004-5
+Ceara,1.0,2005-5
+Ceara,0.0,2006-5
+Ceara,0.0,2007-5
+Ceara,0.0,2008-5
+Ceara,0.0,2009-5
+Ceara,2.0,2010-5
+Ceara,0.0,2011-5
+Ceara,19.0,2012-5
+Ceara,4.0,2013-5
+Ceara,4.0,2014-5
+Ceara,17.0,2015-5
+Ceara,8.0,2016-5
+Ceara,9.0,2017-5
+Ceara,1.0,1998-6
+Ceara,16.0,1999-6
+Ceara,16.0,2000-6
+Ceara,38.0,2001-6
+Ceara,13.0,2002-6
+Ceara,2.0,2003-6
+Ceara,1.0,2004-6
+Ceara,6.0,2005-6
+Ceara,0.0,2006-6
+Ceara,1.0,2007-6
+Ceara,1.0,2008-6
+Ceara,0.0,2009-6
+Ceara,3.0,2010-6
+Ceara,5.0,2011-6
+Ceara,28.0,2012-6
+Ceara,5.0,2013-6
+Ceara,19.0,2014-6
+Ceara,22.0,2015-6
+Ceara,45.0,2016-6
+Ceara,23.0,2017-6
+Ceara,76.0,1998-7
+Ceara,83.0,1999-7
+Ceara,18.0,2000-7
+Ceara,146.0,2001-7
+Ceara,12.0,2002-7
+Ceara,14.0,2003-7
+Ceara,16.0,2004-7
+Ceara,14.0,2005-7
+Ceara,1.0,2006-7
+Ceara,11.0,2007-7
+Ceara,3.0,2008-7
+Ceara,7.0,2009-7
+Ceara,44.0,2010-7
+Ceara,18.0,2011-7
+Ceara,50.0,2012-7
+Ceara,4.0,2013-7
+Ceara,47.0,2014-7
+Ceara,25.0,2015-7
+Ceara,124.0,2016-7
+Ceara,26.0,2017-7
+Ceara,93.0,1998-8
+Ceara,131.0,1999-8
+Ceara,79.0,2000-8
+Ceara,219.0,2001-8
+Ceara,111.0,2002-8
+Ceara,109.0,2003-8
+Ceara,61.0,2004-8
+Ceara,51.0,2005-8
+Ceara,50.0,2006-8
+Ceara,182.0,2007-8
+Ceara,32.0,2008-8
+Ceara,26.0,2009-8
+Ceara,202.0,2010-8
+Ceara,53.0,2011-8
+Ceara,278.0,2012-8
+Ceara,32.0,2013-8
+Ceara,155.0,2014-8
+Ceara,127.0,2015-8
+Ceara,293.0,2016-8
+Ceara,121.0,2017-8
+Ceara,590.0,1998-9
+Ceara,124.0,1999-9
+Ceara,127.0,2000-9
+Ceara,801.0,2001-9
+Ceara,172.0,2002-9
+Ceara,384.0,2003-9
+Ceara,144.0,2004-9
+Ceara,185.0,2005-9
+Ceara,237.0,2006-9
+Ceara,241.0,2007-9
+Ceara,177.0,2008-9
+Ceara,101.0,2009-9
+Ceara,357.0,2010-9
+Ceara,239.0,2011-9
+Ceara,609.0,2012-9
+Ceara,177.0,2013-9
+Ceara,155.0,2014-9
+Ceara,214.0,2015-9
+Ceara,370.0,2016-9
+Ceara,505.0,2017-9
+Ceara,1.014,1998-10
+Ceara,309.0,1999-10
+Ceara,875.0,2000-10
+Ceara,2.045,2001-10
+Ceara,1.6059999999999999,2002-10
+Ceara,1.761,2003-10
+Ceara,1.217,2004-10
+Ceara,1.3780000000000001,2005-10
+Ceara,581.0,2006-10
+Ceara,964.0,2007-10
+Ceara,816.0,2008-10
+Ceara,435.0,2009-10
+Ceara,502.0,2010-10
+Ceara,415.0,2011-10
+Ceara,1.104,2012-10
+Ceara,466.0,2013-10
+Ceara,517.0,2014-10
+Ceara,658.0,2015-10
+Ceara,1.31,2016-10
+Ceara,949.0,2017-10
+Ceara,575.0,1998-11
+Ceara,524.0,1999-11
+Ceara,669.0,2000-11
+Ceara,2.456,2001-11
+Ceara,2.715,2002-11
+Ceara,3.327,2003-11
+Ceara,2.9,2004-11
+Ceara,2.483,2005-11
+Ceara,1.012,2006-11
+Ceara,1.443,2007-11
+Ceara,1.7530000000000001,2008-11
+Ceara,1.653,2009-11
+Ceara,1.652,2010-11
+Ceara,1.561,2011-11
+Ceara,995.0,2012-11
+Ceara,1.081,2013-11
+Ceara,829.0,2014-11
+Ceara,1.081,2015-11
+Ceara,1.328,2016-11
+Ceara,812.0,2017-11
+Ceara,276.0,1998-12
+Ceara,397.0,1999-12
+Ceara,389.0,2000-12
+Ceara,545.0,2001-12
+Ceara,1.787,2002-12
+Ceara,2.436,2003-12
+Ceara,3.158,2004-12
+Ceara,1.36,2005-12
+Ceara,1.161,2006-12
+Ceara,1.177,2007-12
+Ceara,1.655,2008-12
+Ceara,1.9869999999999999,2009-12
+Ceara,578.0,2010-12
+Ceara,1.4409999999999998,2011-12
+Ceara,631.0,2012-12
+Ceara,956.0,2013-12
+Ceara,643.0,2014-12
+Ceara,1.021,2015-12
+Ceara,819.0,2016-12
+Distrito Federal,0.0,1998-1
+Distrito Federal,0.0,1999-1
+Distrito Federal,0.0,2000-1
+Distrito Federal,0.0,2001-1
+Distrito Federal,0.0,2002-1
+Distrito Federal,0.0,2003-1
+Distrito Federal,0.0,2004-1
+Distrito Federal,0.0,2005-1
+Distrito Federal,0.0,2006-1
+Distrito Federal,0.0,2007-1
+Distrito Federal,0.0,2008-1
+Distrito Federal,1.0,2009-1
+Distrito Federal,2.0,2010-1
+Distrito Federal,2.0,2011-1
+Distrito Federal,0.0,2012-1
+Distrito Federal,0.0,2013-1
+Distrito Federal,0.0,2014-1
+Distrito Federal,1.0,2015-1
+Distrito Federal,1.0,2016-1
+Distrito Federal,1.0,2017-1
+Distrito Federal,0.0,1998-2
+Distrito Federal,2.0,1999-2
+Distrito Federal,0.0,2000-2
+Distrito Federal,1.0,2001-2
+Distrito Federal,0.0,2002-2
+Distrito Federal,1.0,2003-2
+Distrito Federal,0.0,2004-2
+Distrito Federal,0.0,2005-2
+Distrito Federal,0.0,2006-2
+Distrito Federal,0.0,2007-2
+Distrito Federal,0.0,2008-2
+Distrito Federal,0.0,2009-2
+Distrito Federal,4.0,2010-2
+Distrito Federal,1.0,2011-2
+Distrito Federal,0.0,2012-2
+Distrito Federal,1.0,2013-2
+Distrito Federal,1.0,2014-2
+Distrito Federal,0.0,2015-2
+Distrito Federal,2.0,2016-2
+Distrito Federal,0.0,2017-2
+Distrito Federal,0.0,1998-3
+Distrito Federal,0.0,1999-3
+Distrito Federal,0.0,2000-3
+Distrito Federal,0.0,2001-3
+Distrito Federal,0.0,2002-3
+Distrito Federal,0.0,2003-3
+Distrito Federal,0.0,2004-3
+Distrito Federal,0.0,2005-3
+Distrito Federal,0.0,2006-3
+Distrito Federal,1.0,2007-3
+Distrito Federal,2.0,2008-3
+Distrito Federal,0.0,2009-3
+Distrito Federal,0.0,2010-3
+Distrito Federal,0.0,2011-3
+Distrito Federal,0.0,2012-3
+Distrito Federal,1.0,2013-3
+Distrito Federal,1.0,2014-3
+Distrito Federal,0.0,2015-3
+Distrito Federal,1.0,2016-3
+Distrito Federal,0.0,2017-3
+Distrito Federal,0.0,1998-4
+Distrito Federal,0.0,1999-4
+Distrito Federal,0.0,2000-4
+Distrito Federal,0.0,2001-4
+Distrito Federal,1.0,2002-4
+Distrito Federal,0.0,2003-4
+Distrito Federal,1.0,2004-4
+Distrito Federal,0.0,2005-4
+Distrito Federal,0.0,2006-4
+Distrito Federal,0.0,2007-4
+Distrito Federal,1.0,2008-4
+Distrito Federal,0.0,2009-4
+Distrito Federal,8.0,2010-4
+Distrito Federal,1.0,2011-4
+Distrito Federal,4.0,2012-4
+Distrito Federal,1.0,2013-4
+Distrito Federal,2.0,2014-4
+Distrito Federal,0.0,2015-4
+Distrito Federal,5.0,2016-4
+Distrito Federal,1.0,2017-4
+Distrito Federal,0.0,1998-5
+Distrito Federal,0.0,1999-5
+Distrito Federal,2.0,2000-5
+Distrito Federal,0.0,2001-5
+Distrito Federal,1.0,2002-5
+Distrito Federal,0.0,2003-5
+Distrito Federal,9.0,2004-5
+Distrito Federal,2.0,2005-5
+Distrito Federal,3.0,2006-5
+Distrito Federal,4.0,2007-5
+Distrito Federal,6.0,2008-5
+Distrito Federal,9.0,2009-5
+Distrito Federal,23.0,2010-5
+Distrito Federal,3.0,2011-5
+Distrito Federal,0.0,2012-5
+Distrito Federal,2.0,2013-5
+Distrito Federal,9.0,2014-5
+Distrito Federal,2.0,2015-5
+Distrito Federal,15.0,2016-5
+Distrito Federal,6.0,2017-5
+Distrito Federal,2.0,1998-6
+Distrito Federal,3.0,1999-6
+Distrito Federal,1.0,2000-6
+Distrito Federal,3.0,2001-6
+Distrito Federal,7.0,2002-6
+Distrito Federal,11.0,2003-6
+Distrito Federal,6.0,2004-6
+Distrito Federal,3.0,2005-6
+Distrito Federal,2.0,2006-6
+Distrito Federal,21.0,2007-6
+Distrito Federal,0.0,2008-6
+Distrito Federal,4.0,2009-6
+Distrito Federal,21.0,2010-6
+Distrito Federal,18.0,2011-6
+Distrito Federal,6.0,2012-6
+Distrito Federal,4.0,2013-6
+Distrito Federal,6.0,2014-6
+Distrito Federal,1.0,2015-6
+Distrito Federal,42.0,2016-6
+Distrito Federal,23.0,2017-6
+Distrito Federal,17.0,1998-7
+Distrito Federal,4.0,1999-7
+Distrito Federal,15.0,2000-7
+Distrito Federal,22.0,2001-7
+Distrito Federal,33.0,2002-7
+Distrito Federal,19.0,2003-7
+Distrito Federal,37.0,2004-7
+Distrito Federal,24.0,2005-7
+Distrito Federal,10.0,2006-7
+Distrito Federal,25.0,2007-7
+Distrito Federal,12.0,2008-7
+Distrito Federal,33.0,2009-7
+Distrito Federal,85.0,2010-7
+Distrito Federal,53.0,2011-7
+Distrito Federal,29.0,2012-7
+Distrito Federal,22.0,2013-7
+Distrito Federal,27.0,2014-7
+Distrito Federal,15.0,2015-7
+Distrito Federal,79.0,2016-7
+Distrito Federal,44.0,2017-7
+Distrito Federal,48.0,1998-8
+Distrito Federal,16.0,1999-8
+Distrito Federal,9.0,2000-8
+Distrito Federal,25.0,2001-8
+Distrito Federal,53.0,2002-8
+Distrito Federal,36.0,2003-8
+Distrito Federal,108.0,2004-8
+Distrito Federal,20.0,2005-8
+Distrito Federal,40.0,2006-8
+Distrito Federal,137.0,2007-8
+Distrito Federal,30.0,2008-8
+Distrito Federal,37.0,2009-8
+Distrito Federal,159.0,2010-8
+Distrito Federal,61.0,2011-8
+Distrito Federal,55.0,2012-8
+Distrito Federal,34.0,2013-8
+Distrito Federal,99.0,2014-8
+Distrito Federal,53.0,2015-8
+Distrito Federal,29.0,2016-8
+Distrito Federal,147.0,2017-8
+Distrito Federal,33.0,1998-9
+Distrito Federal,12.0,1999-9
+Distrito Federal,3.0,2000-9
+Distrito Federal,12.0,2001-9
+Distrito Federal,33.0,2002-9
+Distrito Federal,17.0,2003-9
+Distrito Federal,100.0,2004-9
+Distrito Federal,23.0,2005-9
+Distrito Federal,20.0,2006-9
+Distrito Federal,73.0,2007-9
+Distrito Federal,54.0,2008-9
+Distrito Federal,5.0,2009-9
+Distrito Federal,196.0,2010-9
+Distrito Federal,133.0,2011-9
+Distrito Federal,64.0,2012-9
+Distrito Federal,31.0,2013-9
+Distrito Federal,72.0,2014-9
+Distrito Federal,76.0,2015-9
+Distrito Federal,58.0,2016-9
+Distrito Federal,122.0,2017-9
+Distrito Federal,3.0,1998-10
+Distrito Federal,8.0,1999-10
+Distrito Federal,18.0,2000-10
+Distrito Federal,0.0,2001-10
+Distrito Federal,19.0,2002-10
+Distrito Federal,12.0,2003-10
+Distrito Federal,18.0,2004-10
+Distrito Federal,18.0,2005-10
+Distrito Federal,1.0,2006-10
+Distrito Federal,13.0,2007-10
+Distrito Federal,6.0,2008-10
+Distrito Federal,3.0,2009-10
+Distrito Federal,6.0,2010-10
+Distrito Federal,0.0,2011-10
+Distrito Federal,15.0,2012-10
+Distrito Federal,3.0,2013-10
+Distrito Federal,34.0,2014-10
+Distrito Federal,21.0,2015-10
+Distrito Federal,9.0,2016-10
+Distrito Federal,66.0,2017-10
+Distrito Federal,0.0,1998-11
+Distrito Federal,1.0,1999-11
+Distrito Federal,0.0,2000-11
+Distrito Federal,0.0,2001-11
+Distrito Federal,1.0,2002-11
+Distrito Federal,0.0,2003-11
+Distrito Federal,0.0,2004-11
+Distrito Federal,2.0,2005-11
+Distrito Federal,0.0,2006-11
+Distrito Federal,0.0,2007-11
+Distrito Federal,4.0,2008-11
+Distrito Federal,0.0,2009-11
+Distrito Federal,0.0,2010-11
+Distrito Federal,1.0,2011-11
+Distrito Federal,0.0,2012-11
+Distrito Federal,0.0,2013-11
+Distrito Federal,0.0,2014-11
+Distrito Federal,3.0,2015-11
+Distrito Federal,1.0,2016-11
+Distrito Federal,0.0,2017-11
+Distrito Federal,0.0,1998-12
+Distrito Federal,0.0,1999-12
+Distrito Federal,0.0,2000-12
+Distrito Federal,1.0,2001-12
+Distrito Federal,1.0,2002-12
+Distrito Federal,0.0,2003-12
+Distrito Federal,0.0,2004-12
+Distrito Federal,0.0,2005-12
+Distrito Federal,0.0,2006-12
+Distrito Federal,0.0,2007-12
+Distrito Federal,0.0,2008-12
+Distrito Federal,0.0,2009-12
+Distrito Federal,1.0,2010-12
+Distrito Federal,0.0,2011-12
+Distrito Federal,0.0,2012-12
+Distrito Federal,2.0,2013-12
+Distrito Federal,0.0,2014-12
+Distrito Federal,0.0,2015-12
+Distrito Federal,0.0,2016-12
+Espirito Santo,0.0,1998-1
+Espirito Santo,33.0,1999-1
+Espirito Santo,5.0,2000-1
+Espirito Santo,1.0,2001-1
+Espirito Santo,2.0,2002-1
+Espirito Santo,4.0,2003-1
+Espirito Santo,1.0,2004-1
+Espirito Santo,4.0,2005-1
+Espirito Santo,13.0,2006-1
+Espirito Santo,0.0,2007-1
+Espirito Santo,12.0,2008-1
+Espirito Santo,4.0,2009-1
+Espirito Santo,52.0,2010-1
+Espirito Santo,3.0,2011-1
+Espirito Santo,1.0,2012-1
+Espirito Santo,10.0,2013-1
+Espirito Santo,11.0,2014-1
+Espirito Santo,76.0,2015-1
+Espirito Santo,43.0,2016-1
+Espirito Santo,13.0,2017-1
+Espirito Santo,0.0,1998-2
+Espirito Santo,10.0,1999-2
+Espirito Santo,5.0,2000-2
+Espirito Santo,5.0,2001-2
+Espirito Santo,4.0,2002-2
+Espirito Santo,11.0,2003-2
+Espirito Santo,5.0,2004-2
+Espirito Santo,1.0,2005-2
+Espirito Santo,45.0,2006-2
+Espirito Santo,3.0,2007-2
+Espirito Santo,20.0,2008-2
+Espirito Santo,12.0,2009-2
+Espirito Santo,15.0,2010-2
+Espirito Santo,42.0,2011-2
+Espirito Santo,25.0,2012-2
+Espirito Santo,15.0,2013-2
+Espirito Santo,17.0,2014-2
+Espirito Santo,60.0,2015-2
+Espirito Santo,24.0,2016-2
+Espirito Santo,8.0,2017-2
+Espirito Santo,0.0,1998-3
+Espirito Santo,8.0,1999-3
+Espirito Santo,1.0,2000-3
+Espirito Santo,2.0,2001-3
+Espirito Santo,4.0,2002-3
+Espirito Santo,28.0,2003-3
+Espirito Santo,3.0,2004-3
+Espirito Santo,3.0,2005-3
+Espirito Santo,14.0,2006-3
+Espirito Santo,9.0,2007-3
+Espirito Santo,5.0,2008-3
+Espirito Santo,11.0,2009-3
+Espirito Santo,3.0,2010-3
+Espirito Santo,5.0,2011-3
+Espirito Santo,35.0,2012-3
+Espirito Santo,13.0,2013-3
+Espirito Santo,15.0,2014-3
+Espirito Santo,25.0,2015-3
+Espirito Santo,107.0,2016-3
+Espirito Santo,9.0,2017-3
+Espirito Santo,0.0,1998-4
+Espirito Santo,2.0,1999-4
+Espirito Santo,3.0,2000-4
+Espirito Santo,2.0,2001-4
+Espirito Santo,2.0,2002-4
+Espirito Santo,22.0,2003-4
+Espirito Santo,0.0,2004-4
+Espirito Santo,4.0,2005-4
+Espirito Santo,1.0,2006-4
+Espirito Santo,2.0,2007-4
+Espirito Santo,8.0,2008-4
+Espirito Santo,8.0,2009-4
+Espirito Santo,7.0,2010-4
+Espirito Santo,3.0,2011-4
+Espirito Santo,74.0,2012-4
+Espirito Santo,16.0,2013-4
+Espirito Santo,15.0,2014-4
+Espirito Santo,33.0,2015-4
+Espirito Santo,57.0,2016-4
+Espirito Santo,7.0,2017-4
+Espirito Santo,0.0,1998-5
+Espirito Santo,16.0,1999-5
+Espirito Santo,2.0,2000-5
+Espirito Santo,8.0,2001-5
+Espirito Santo,5.0,2002-5
+Espirito Santo,1.0,2003-5
+Espirito Santo,0.0,2004-5
+Espirito Santo,5.0,2005-5
+Espirito Santo,0.0,2006-5
+Espirito Santo,1.0,2007-5
+Espirito Santo,2.0,2008-5
+Espirito Santo,7.0,2009-5
+Espirito Santo,3.0,2010-5
+Espirito Santo,2.0,2011-5
+Espirito Santo,20.0,2012-5
+Espirito Santo,14.0,2013-5
+Espirito Santo,18.0,2014-5
+Espirito Santo,17.0,2015-5
+Espirito Santo,48.0,2016-5
+Espirito Santo,10.0,2017-5
+Espirito Santo,6.0,1998-6
+Espirito Santo,6.0,1999-6
+Espirito Santo,9.0,2000-6
+Espirito Santo,9.0,2001-6
+Espirito Santo,18.0,2002-6
+Espirito Santo,19.0,2003-6
+Espirito Santo,3.0,2004-6
+Espirito Santo,8.0,2005-6
+Espirito Santo,5.0,2006-6
+Espirito Santo,4.0,2007-6
+Espirito Santo,4.0,2008-6
+Espirito Santo,12.0,2009-6
+Espirito Santo,3.0,2010-6
+Espirito Santo,7.0,2011-6
+Espirito Santo,15.0,2012-6
+Espirito Santo,22.0,2013-6
+Espirito Santo,9.0,2014-6
+Espirito Santo,18.0,2015-6
+Espirito Santo,49.0,2016-6
+Espirito Santo,37.0,2017-6
+Espirito Santo,37.0,1998-7
+Espirito Santo,9.0,1999-7
+Espirito Santo,16.0,2000-7
+Espirito Santo,12.0,2001-7
+Espirito Santo,9.0,2002-7
+Espirito Santo,27.0,2003-7
+Espirito Santo,4.0,2004-7
+Espirito Santo,9.0,2005-7
+Espirito Santo,11.0,2006-7
+Espirito Santo,13.0,2007-7
+Espirito Santo,5.0,2008-7
+Espirito Santo,25.0,2009-7
+Espirito Santo,5.0,2010-7
+Espirito Santo,18.0,2011-7
+Espirito Santo,35.0,2012-7
+Espirito Santo,20.0,2013-7
+Espirito Santo,17.0,2014-7
+Espirito Santo,30.0,2015-7
+Espirito Santo,42.0,2016-7
+Espirito Santo,3.0,2017-7
+Espirito Santo,38.0,1998-8
+Espirito Santo,60.0,1999-8
+Espirito Santo,26.0,2000-8
+Espirito Santo,30.0,2001-8
+Espirito Santo,60.0,2002-8
+Espirito Santo,118.0,2003-8
+Espirito Santo,12.0,2004-8
+Espirito Santo,12.0,2005-8
+Espirito Santo,29.0,2006-8
+Espirito Santo,82.0,2007-8
+Espirito Santo,13.0,2008-8
+Espirito Santo,17.0,2009-8
+Espirito Santo,39.0,2010-8
+Espirito Santo,93.0,2011-8
+Espirito Santo,12.0,2012-8
+Espirito Santo,53.0,2013-8
+Espirito Santo,47.0,2014-8
+Espirito Santo,35.0,2015-8
+Espirito Santo,78.0,2016-8
+Espirito Santo,30.0,2017-8
+Espirito Santo,108.0,1998-9
+Espirito Santo,64.0,1999-9
+Espirito Santo,14.0,2000-9
+Espirito Santo,38.0,2001-9
+Espirito Santo,46.0,2002-9
+Espirito Santo,252.0,2003-9
+Espirito Santo,47.0,2004-9
+Espirito Santo,8.0,2005-9
+Espirito Santo,87.0,2006-9
+Espirito Santo,63.0,2007-9
+Espirito Santo,78.0,2008-9
+Espirito Santo,57.0,2009-9
+Espirito Santo,53.0,2010-9
+Espirito Santo,108.0,2011-9
+Espirito Santo,48.0,2012-9
+Espirito Santo,30.0,2013-9
+Espirito Santo,61.0,2014-9
+Espirito Santo,228.0,2015-9
+Espirito Santo,128.0,2016-9
+Espirito Santo,58.0,2017-9
+Espirito Santo,20.0,1998-10
+Espirito Santo,23.0,1999-10
+Espirito Santo,88.0,2000-10
+Espirito Santo,19.0,2001-10
+Espirito Santo,113.0,2002-10
+Espirito Santo,159.0,2003-10
+Espirito Santo,48.0,2004-10
+Espirito Santo,62.0,2005-10
+Espirito Santo,10.0,2006-10
+Espirito Santo,79.0,2007-10
+Espirito Santo,100.0,2008-10
+Espirito Santo,13.0,2009-10
+Espirito Santo,32.0,2010-10
+Espirito Santo,38.0,2011-10
+Espirito Santo,62.0,2012-10
+Espirito Santo,37.0,2013-10
+Espirito Santo,89.0,2014-10
+Espirito Santo,307.0,2015-10
+Espirito Santo,58.0,2016-10
+Espirito Santo,56.0,2017-10
+Espirito Santo,4.0,1998-11
+Espirito Santo,9.0,1999-11
+Espirito Santo,3.0,2000-11
+Espirito Santo,3.0,2001-11
+Espirito Santo,22.0,2002-11
+Espirito Santo,49.0,2003-11
+Espirito Santo,42.0,2004-11
+Espirito Santo,0.0,2005-11
+Espirito Santo,0.0,2006-11
+Espirito Santo,112.0,2007-11
+Espirito Santo,3.0,2008-11
+Espirito Santo,18.0,2009-11
+Espirito Santo,3.0,2010-11
+Espirito Santo,6.0,2011-11
+Espirito Santo,7.0,2012-11
+Espirito Santo,11.0,2013-11
+Espirito Santo,20.0,2014-11
+Espirito Santo,141.0,2015-11
+Espirito Santo,8.0,2016-11
+Espirito Santo,3.0,2017-11
+Espirito Santo,5.0,1998-12
+Espirito Santo,0.0,1999-12
+Espirito Santo,3.0,2000-12
+Espirito Santo,1.0,2001-12
+Espirito Santo,12.0,2002-12
+Espirito Santo,18.0,2003-12
+Espirito Santo,9.0,2004-12
+Espirito Santo,5.0,2005-12
+Espirito Santo,0.0,2006-12
+Espirito Santo,14.0,2007-12
+Espirito Santo,1.0,2008-12
+Espirito Santo,32.0,2009-12
+Espirito Santo,10.0,2010-12
+Espirito Santo,1.0,2011-12
+Espirito Santo,18.0,2012-12
+Espirito Santo,9.0,2013-12
+Espirito Santo,28.0,2014-12
+Espirito Santo,61.0,2015-12
+Espirito Santo,12.0,2016-12
+Goias,0.0,1998-1
+Goias,14.0,1999-1
+Goias,10.0,2000-1
+Goias,29.0,2001-1
+Goias,12.0,2002-1
+Goias,14.0,2003-1
+Goias,10.0,2004-1
+Goias,27.0,2005-1
+Goias,85.0,2006-1
+Goias,28.0,2007-1
+Goias,23.0,2008-1
+Goias,30.0,2009-1
+Goias,59.0,2010-1
+Goias,39.0,2011-1
+Goias,21.0,2012-1
+Goias,33.0,2013-1
+Goias,80.0,2014-1
+Goias,118.0,2015-1
+Goias,52.0,2016-1
+Goias,53.0,2017-1
+Goias,0.0,1998-2
+Goias,334.0,1999-2
+Goias,11.0,2000-2
+Goias,9.0,2001-2
+Goias,9.0,2002-2
+Goias,47.0,2003-2
+Goias,11.0,2004-2
+Goias,84.0,2005-2
+Goias,21.0,2006-2
+Goias,13.0,2007-2
+Goias,25.0,2008-2
+Goias,29.0,2009-2
+Goias,86.0,2010-2
+Goias,45.0,2011-2
+Goias,37.0,2012-2
+Goias,86.0,2013-2
+Goias,44.0,2014-2
+Goias,53.0,2015-2
+Goias,117.0,2016-2
+Goias,75.0,2017-2
+Goias,0.0,1998-3
+Goias,1.0,1999-3
+Goias,4.0,2000-3
+Goias,10.0,2001-3
+Goias,48.0,2002-3
+Goias,29.0,2003-3
+Goias,36.0,2004-3
+Goias,36.0,2005-3
+Goias,29.0,2006-3
+Goias,49.0,2007-3
+Goias,20.0,2008-3
+Goias,32.0,2009-3
+Goias,65.0,2010-3
+Goias,19.0,2011-3
+Goias,57.0,2012-3
+Goias,79.0,2013-3
+Goias,80.0,2014-3
+Goias,76.0,2015-3
+Goias,136.0,2016-3
+Goias,115.0,2017-3
+Goias,0.0,1998-4
+Goias,25.0,1999-4
+Goias,16.0,2000-4
+Goias,49.0,2001-4
+Goias,78.0,2002-4
+Goias,87.0,2003-4
+Goias,32.0,2004-4
+Goias,55.0,2005-4
+Goias,22.0,2006-4
+Goias,17.0,2007-4
+Goias,36.0,2008-4
+Goias,11.0,2009-4
+Goias,105.0,2010-4
+Goias,71.0,2011-4
+Goias,89.0,2012-4
+Goias,42.0,2013-4
+Goias,138.0,2014-4
+Goias,89.0,2015-4
+Goias,167.0,2016-4
+Goias,60.0,2017-4
+Goias,0.0,1998-5
+Goias,99.0,1999-5
+Goias,58.0,2000-5
+Goias,85.0,2001-5
+Goias,171.0,2002-5
+Goias,57.0,2003-5
+Goias,157.0,2004-5
+Goias,164.0,2005-5
+Goias,33.0,2006-5
+Goias,94.0,2007-5
+Goias,41.0,2008-5
+Goias,104.0,2009-5
+Goias,239.0,2010-5
+Goias,136.0,2011-5
+Goias,103.0,2012-5
+Goias,150.0,2013-5
+Goias,210.0,2014-5
+Goias,129.0,2015-5
+Goias,233.0,2016-5
+Goias,135.0,2017-5
+Goias,172.0,1998-6
+Goias,250.0,1999-6
+Goias,222.0,2000-6
+Goias,212.0,2001-6
+Goias,302.0,2002-6
+Goias,321.0,2003-6
+Goias,422.0,2004-6
+Goias,189.0,2005-6
+Goias,70.0,2006-6
+Goias,186.0,2007-6
+Goias,55.0,2008-6
+Goias,179.0,2009-6
+Goias,278.0,2010-6
+Goias,314.0,2011-6
+Goias,245.0,2012-6
+Goias,192.0,2013-6
+Goias,318.0,2014-6
+Goias,277.0,2015-6
+Goias,289.0,2016-6
+Goias,442.0,2017-6
+Goias,512.0,1998-7
+Goias,311.0,1999-7
+Goias,332.0,2000-7
+Goias,371.0,2001-7
+Goias,686.0,2002-7
+Goias,322.0,2003-7
+Goias,778.0,2004-7
+Goias,363.0,2005-7
+Goias,169.0,2006-7
+Goias,399.0,2007-7
+Goias,193.0,2008-7
+Goias,470.0,2009-7
+Goias,941.0,2010-7
+Goias,607.0,2011-7
+Goias,564.0,2012-7
+Goias,350.0,2013-7
+Goias,446.0,2014-7
+Goias,347.0,2015-7
+Goias,837.0,2016-7
+Goias,577.0,2017-7
+Goias,2.218,1998-8
+Goias,1.198,1999-8
+Goias,925.0,2000-8
+Goias,787.0,2001-8
+Goias,1.4280000000000002,2002-8
+Goias,902.0,2003-8
+Goias,1.4980000000000002,2004-8
+Goias,639.0,2005-8
+Goias,588.0,2006-8
+Goias,2.3819999999999997,2007-8
+Goias,568.0,2008-8
+Goias,647.0,2009-8
+Goias,2.9139999999999997,2010-8
+Goias,1.6130000000000002,2011-8
+Goias,912.0,2012-8
+Goias,488.0,2013-8
+Goias,1.255,2014-8
+Goias,943.0,2015-8
+Goias,1.032,2016-8
+Goias,1.492,2017-8
+Goias,2.867,1998-9
+Goias,1.8980000000000001,1999-9
+Goias,1.2930000000000001,2000-9
+Goias,1.8630000000000002,2001-9
+Goias,3.52,2002-9
+Goias,1.662,2003-9
+Goias,2.965,2004-9
+Goias,1.341,2005-9
+Goias,1.463,2006-9
+Goias,3.745,2007-9
+Goias,1.255,2008-9
+Goias,685.0,2009-9
+Goias,5.075,2010-9
+Goias,2.259,2011-9
+Goias,2.452,2012-9
+Goias,684.0,2013-9
+Goias,1.6869999999999998,2014-9
+Goias,2.296,2015-9
+Goias,1.703,2016-9
+Goias,3.238,2017-9
+Goias,1.034,1998-10
+Goias,743.0,1999-10
+Goias,905.0,2000-10
+Goias,479.0,2001-10
+Goias,1.367,2002-10
+Goias,1.183,2003-10
+Goias,1.275,2004-10
+Goias,1.7169999999999999,2005-10
+Goias,178.0,2006-10
+Goias,1.195,2007-10
+Goias,1.2309999999999999,2008-10
+Goias,367.0,2009-10
+Goias,1.227,2010-10
+Goias,476.0,2011-10
+Goias,1.524,2012-10
+Goias,606.0,2013-10
+Goias,1.9469999999999998,2014-10
+Goias,1.807,2015-10
+Goias,522.0,2016-10
+Goias,2.401,2017-10
+Goias,47.0,1998-11
+Goias,110.0,1999-11
+Goias,26.0,2000-11
+Goias,15.0,2001-11
+Goias,192.0,2002-11
+Goias,168.0,2003-11
+Goias,291.0,2004-11
+Goias,144.0,2005-11
+Goias,91.0,2006-11
+Goias,79.0,2007-11
+Goias,90.0,2008-11
+Goias,89.0,2009-11
+Goias,67.0,2010-11
+Goias,59.0,2011-11
+Goias,57.0,2012-11
+Goias,183.0,2013-11
+Goias,181.0,2014-11
+Goias,547.0,2015-11
+Goias,123.0,2016-11
+Goias,117.0,2017-11
+Goias,13.0,1998-12
+Goias,20.0,1999-12
+Goias,6.0,2000-12
+Goias,18.0,2001-12
+Goias,115.0,2002-12
+Goias,129.0,2003-12
+Goias,56.0,2004-12
+Goias,5.0,2005-12
+Goias,7.0,2006-12
+Goias,16.0,2007-12
+Goias,6.0,2008-12
+Goias,39.0,2009-12
+Goias,48.0,2010-12
+Goias,39.0,2011-12
+Goias,93.0,2012-12
+Goias,86.0,2013-12
+Goias,68.0,2014-12
+Goias,179.0,2015-12
+Goias,64.0,2016-12
+Maranhao,0.0,1998-1
+Maranhao,54.0,1999-1
+Maranhao,19.0,2000-1
+Maranhao,29.0,2001-1
+Maranhao,48.0,2002-1
+Maranhao,436.0,2003-1
+Maranhao,241.0,2004-1
+Maranhao,450.0,2005-1
+Maranhao,221.0,2006-1
+Maranhao,428.0,2007-1
+Maranhao,121.0,2008-1
+Maranhao,240.0,2009-1
+Maranhao,319.0,2010-1
+Maranhao,124.0,2011-1
+Maranhao,326.0,2012-1
+Maranhao,209.0,2013-1
+Maranhao,195.0,2014-1
+Maranhao,494.0,2015-1
+Maranhao,412.0,2016-1
+Maranhao,187.0,2017-1
+Maranhao,0.0,1998-2
+Maranhao,6.0,1999-2
+Maranhao,11.0,2000-2
+Maranhao,1.0,2001-2
+Maranhao,116.0,2002-2
+Maranhao,11.0,2003-2
+Maranhao,22.0,2004-2
+Maranhao,56.0,2005-2
+Maranhao,22.0,2006-2
+Maranhao,13.0,2007-2
+Maranhao,45.0,2008-2
+Maranhao,20.0,2009-2
+Maranhao,93.0,2010-2
+Maranhao,9.0,2011-2
+Maranhao,46.0,2012-2
+Maranhao,62.0,2013-2
+Maranhao,29.0,2014-2
+Maranhao,95.0,2015-2
+Maranhao,318.0,2016-2
+Maranhao,47.0,2017-2
+Maranhao,0.0,1998-3
+Maranhao,17.0,1999-3
+Maranhao,6.0,2000-3
+Maranhao,0.0,2001-3
+Maranhao,16.0,2002-3
+Maranhao,16.0,2003-3
+Maranhao,18.0,2004-3
+Maranhao,9.0,2005-3
+Maranhao,14.0,2006-3
+Maranhao,52.0,2007-3
+Maranhao,4.0,2008-3
+Maranhao,33.0,2009-3
+Maranhao,82.0,2010-3
+Maranhao,22.0,2011-3
+Maranhao,49.0,2012-3
+Maranhao,30.0,2013-3
+Maranhao,59.0,2014-3
+Maranhao,53.0,2015-3
+Maranhao,113.0,2016-3
+Maranhao,32.0,2017-3
+Maranhao,0.0,1998-4
+Maranhao,4.0,1999-4
+Maranhao,6.0,2000-4
+Maranhao,2.0,2001-4
+Maranhao,28.0,2002-4
+Maranhao,79.0,2003-4
+Maranhao,44.0,2004-4
+Maranhao,43.0,2005-4
+Maranhao,9.0,2006-4
+Maranhao,5.0,2007-4
+Maranhao,26.0,2008-4
+Maranhao,14.0,2009-4
+Maranhao,128.0,2010-4
+Maranhao,37.0,2011-4
+Maranhao,97.0,2012-4
+Maranhao,62.0,2013-4
+Maranhao,78.0,2014-4
+Maranhao,119.0,2015-4
+Maranhao,113.0,2016-4
+Maranhao,91.0,2017-4
+Maranhao,0.0,1998-5
+Maranhao,3.0,1999-5
+Maranhao,28.0,2000-5
+Maranhao,21.0,2001-5
+Maranhao,71.0,2002-5
+Maranhao,60.0,2003-5
+Maranhao,145.0,2004-5
+Maranhao,74.0,2005-5
+Maranhao,5.0,2006-5
+Maranhao,73.0,2007-5
+Maranhao,26.0,2008-5
+Maranhao,19.0,2009-5
+Maranhao,273.0,2010-5
+Maranhao,73.0,2011-5
+Maranhao,286.0,2012-5
+Maranhao,100.0,2013-5
+Maranhao,148.0,2014-5
+Maranhao,194.0,2015-5
+Maranhao,206.0,2016-5
+Maranhao,142.0,2017-5
+Maranhao,78.0,1998-6
+Maranhao,32.0,1999-6
+Maranhao,94.0,2000-6
+Maranhao,100.0,2001-6
+Maranhao,230.0,2002-6
+Maranhao,338.0,2003-6
+Maranhao,706.0,2004-6
+Maranhao,529.0,2005-6
+Maranhao,131.0,2006-6
+Maranhao,515.0,2007-6
+Maranhao,235.0,2008-6
+Maranhao,279.0,2009-6
+Maranhao,494.0,2010-6
+Maranhao,602.0,2011-6
+Maranhao,915.0,2012-6
+Maranhao,498.0,2013-6
+Maranhao,812.0,2014-6
+Maranhao,887.0,2015-6
+Maranhao,709.0,2016-6
+Maranhao,885.0,2017-6
+Maranhao,274.0,1998-7
+Maranhao,258.0,1999-7
+Maranhao,233.0,2000-7
+Maranhao,549.0,2001-7
+Maranhao,1.271,2002-7
+Maranhao,1.103,2003-7
+Maranhao,1.3659999999999999,2004-7
+Maranhao,1.1520000000000001,2005-7
+Maranhao,512.0,2006-7
+Maranhao,1.205,2007-7
+Maranhao,502.0,2008-7
+Maranhao,972.0,2009-7
+Maranhao,2.323,2010-7
+Maranhao,1.024,2011-7
+Maranhao,3.548,2012-7
+Maranhao,1.111,2013-7
+Maranhao,2.068,2014-7
+Maranhao,1.642,2015-7
+Maranhao,2.096,2016-7
+Maranhao,2.521,2017-7
+Maranhao,1.176,1998-8
+Maranhao,895.0,1999-8
+Maranhao,839.0,2000-8
+Maranhao,2.037,2001-8
+Maranhao,3.4810000000000003,2002-8
+Maranhao,2.023,2003-8
+Maranhao,1.889,2004-8
+Maranhao,2.239,2005-8
+Maranhao,1.382,2006-8
+Maranhao,8.408999999999999,2007-8
+Maranhao,713.0,2008-8
+Maranhao,1.766,2009-8
+Maranhao,6.353,2010-8
+Maranhao,2.138,2011-8
+Maranhao,10.395,2012-8
+Maranhao,2.0980000000000003,2013-8
+Maranhao,5.5920000000000005,2014-8
+Maranhao,5.428,2015-8
+Maranhao,3.7230000000000003,2016-8
+Maranhao,3.875,2017-8
+Maranhao,3.935,1998-9
+Maranhao,1.739,1999-9
+Maranhao,1.365,2000-9
+Maranhao,4.618,2001-9
+Maranhao,3.181,2002-9
+Maranhao,5.877999999999999,2003-9
+Maranhao,4.673,2004-9
+Maranhao,6.292000000000001,2005-9
+Maranhao,2.907,2006-9
+Maranhao,8.524,2007-9
+Maranhao,2.761,2008-9
+Maranhao,2.404,2009-9
+Maranhao,9.795,2010-9
+Maranhao,4.632,2011-9
+Maranhao,7.626,2012-9
+Maranhao,3.88,2013-9
+Maranhao,4.373,2014-9
+Maranhao,6.422999999999999,2015-9
+Maranhao,3.1660000000000004,2016-9
+Maranhao,14.825,2017-9
+Maranhao,5.1370000000000005,1998-10
+Maranhao,3.208,1999-10
+Maranhao,2.654,2000-10
+Maranhao,6.6610000000000005,2001-10
+Maranhao,5.182,2002-10
+Maranhao,6.085,2003-10
+Maranhao,3.6039999999999996,2004-10
+Maranhao,6.472,2005-10
+Maranhao,3.0239999999999996,2006-10
+Maranhao,4.772,2007-10
+Maranhao,3.498,2008-10
+Maranhao,1.861,2009-10
+Maranhao,3.228,2010-10
+Maranhao,2.404,2011-10
+Maranhao,5.0,2012-10
+Maranhao,2.918,2013-10
+Maranhao,5.812,2014-10
+Maranhao,6.746,2015-10
+Maranhao,5.351,2016-10
+Maranhao,6.011,2017-10
+Maranhao,2.237,1998-11
+Maranhao,1.494,1999-11
+Maranhao,2.267,2000-11
+Maranhao,3.525,2001-11
+Maranhao,5.83,2002-11
+Maranhao,4.928999999999999,2003-11
+Maranhao,6.398,2004-11
+Maranhao,4.769,2005-11
+Maranhao,2.004,2006-11
+Maranhao,2.2969999999999997,2007-11
+Maranhao,2.331,2008-11
+Maranhao,5.0,2009-11
+Maranhao,4.005,2010-11
+Maranhao,2.261,2011-11
+Maranhao,2.01,2012-11
+Maranhao,2.529,2013-11
+Maranhao,3.8689999999999998,2014-11
+Maranhao,4.35,2015-11
+Maranhao,3.9819999999999998,2016-11
+Maranhao,2.3,2017-11
+Maranhao,1.399,1998-12
+Maranhao,1.001,1999-12
+Maranhao,1.4609999999999999,2000-12
+Maranhao,1.296,2001-12
+Maranhao,2.165,2002-12
+Maranhao,2.424,2003-12
+Maranhao,3.255,2004-12
+Maranhao,1.66,2005-12
+Maranhao,1.052,2006-12
+Maranhao,800.0,2007-12
+Maranhao,1.101,2008-12
+Maranhao,1.768,2009-12
+Maranhao,1.8030000000000002,2010-12
+Maranhao,1.629,2011-12
+Maranhao,1.296,2012-12
+Maranhao,2.6919999999999997,2013-12
+Maranhao,2.4,2014-12
+Maranhao,3.7060000000000004,2015-12
+Maranhao,1.577,2016-12
+Mato Grosso,0.0,1998-1
+Mato Grosso,39.0,1999-1
+Mato Grosso,44.0,2000-1
+Mato Grosso,44.0,2001-1
+Mato Grosso,172.0,2002-1
+Mato Grosso,896.0,2003-1
+Mato Grosso,301.0,2004-1
+Mato Grosso,438.0,2005-1
+Mato Grosso,947.0,2006-1
+Mato Grosso,476.0,2007-1
+Mato Grosso,245.0,2008-1
+Mato Grosso,527.0,2009-1
+Mato Grosso,298.0,2010-1
+Mato Grosso,171.0,2011-1
+Mato Grosso,166.0,2012-1
+Mato Grosso,269.0,2013-1
+Mato Grosso,315.0,2014-1
+Mato Grosso,960.0,2015-1
+Mato Grosso,374.0,2016-1
+Mato Grosso,482.0,2017-1
+Mato Grosso,0.0,1998-2
+Mato Grosso,28.0,1999-2
+Mato Grosso,35.0,2000-2
+Mato Grosso,54.0,2001-2
+Mato Grosso,22.0,2002-2
+Mato Grosso,592.0,2003-2
+Mato Grosso,272.0,2004-2
+Mato Grosso,871.0,2005-2
+Mato Grosso,383.0,2006-2
+Mato Grosso,213.0,2007-2
+Mato Grosso,180.0,2008-2
+Mato Grosso,248.0,2009-2
+Mato Grosso,431.0,2010-2
+Mato Grosso,119.0,2011-2
+Mato Grosso,193.0,2012-2
+Mato Grosso,375.0,2013-2
+Mato Grosso,199.0,2014-2
+Mato Grosso,542.0,2015-2
+Mato Grosso,1.05,2016-2
+Mato Grosso,337.0,2017-2
+Mato Grosso,0.0,1998-3
+Mato Grosso,18.0,1999-3
+Mato Grosso,60.0,2000-3
+Mato Grosso,24.0,2001-3
+Mato Grosso,103.0,2002-3
+Mato Grosso,554.0,2003-3
+Mato Grosso,743.0,2004-3
+Mato Grosso,362.0,2005-3
+Mato Grosso,448.0,2006-3
+Mato Grosso,476.0,2007-3
+Mato Grosso,180.0,2008-3
+Mato Grosso,325.0,2009-3
+Mato Grosso,605.0,2010-3
+Mato Grosso,252.0,2011-3
+Mato Grosso,423.0,2012-3
+Mato Grosso,563.0,2013-3
+Mato Grosso,655.0,2014-3
+Mato Grosso,705.0,2015-3
+Mato Grosso,1.085,2016-3
+Mato Grosso,719.0,2017-3
+Mato Grosso,0.0,1998-4
+Mato Grosso,76.0,1999-4
+Mato Grosso,59.0,2000-4
+Mato Grosso,309.0,2001-4
+Mato Grosso,641.0,2002-4
+Mato Grosso,903.0,2003-4
+Mato Grosso,441.0,2004-4
+Mato Grosso,372.0,2005-4
+Mato Grosso,161.0,2006-4
+Mato Grosso,79.0,2007-4
+Mato Grosso,274.0,2008-4
+Mato Grosso,169.0,2009-4
+Mato Grosso,769.0,2010-4
+Mato Grosso,345.0,2011-4
+Mato Grosso,521.0,2012-4
+Mato Grosso,338.0,2013-4
+Mato Grosso,859.0,2014-4
+Mato Grosso,947.0,2015-4
+Mato Grosso,1.77,2016-4
+Mato Grosso,606.0,2017-4
+Mato Grosso,0.0,1998-5
+Mato Grosso,731.0,1999-5
+Mato Grosso,1.194,2000-5
+Mato Grosso,1.193,2001-5
+Mato Grosso,2.528,2002-5
+Mato Grosso,942.0,2003-5
+Mato Grosso,2.4130000000000003,2004-5
+Mato Grosso,1.641,2005-5
+Mato Grosso,269.0,2006-5
+Mato Grosso,359.0,2007-5
+Mato Grosso,119.0,2008-5
+Mato Grosso,516.0,2009-5
+Mato Grosso,1.3130000000000002,2010-5
+Mato Grosso,547.0,2011-5
+Mato Grosso,812.0,2012-5
+Mato Grosso,739.0,2013-5
+Mato Grosso,933.0,2014-5
+Mato Grosso,541.0,2015-5
+Mato Grosso,1.081,2016-5
+Mato Grosso,845.0,2017-5
+Mato Grosso,2.201,1998-6
+Mato Grosso,2.201,1999-6
+Mato Grosso,4.3580000000000005,2000-6
+Mato Grosso,6.665,2001-6
+Mato Grosso,7.877999999999999,2002-6
+Mato Grosso,4.313,2003-6
+Mato Grosso,9.812999999999999,2004-6
+Mato Grosso,2.294,2005-6
+Mato Grosso,856.0,2006-6
+Mato Grosso,1.339,2007-6
+Mato Grosso,403.0,2008-6
+Mato Grosso,979.0,2009-6
+Mato Grosso,1.025,2010-6
+Mato Grosso,974.0,2011-6
+Mato Grosso,1.651,2012-6
+Mato Grosso,1.213,2013-6
+Mato Grosso,1.795,2014-6
+Mato Grosso,1.402,2015-6
+Mato Grosso,1.4169999999999998,2016-6
+Mato Grosso,2.041,2017-6
+Mato Grosso,3.7119999999999997,1998-7
+Mato Grosso,3.926,1999-7
+Mato Grosso,1.338,2000-7
+Mato Grosso,1.555,2001-7
+Mato Grosso,5.6610000000000005,2002-7
+Mato Grosso,5.435,2003-7
+Mato Grosso,11.517000000000001,2004-7
+Mato Grosso,4.172,2005-7
+Mato Grosso,1.9409999999999998,2006-7
+Mato Grosso,1.79,2007-7
+Mato Grosso,1.117,2008-7
+Mato Grosso,1.6130000000000002,2009-7
+Mato Grosso,3.4419999999999997,2010-7
+Mato Grosso,1.061,2011-7
+Mato Grosso,2.008,2012-7
+Mato Grosso,1.63,2013-7
+Mato Grosso,2.255,2014-7
+Mato Grosso,1.5330000000000001,2015-7
+Mato Grosso,3.495,2016-7
+Mato Grosso,2.79,2017-7
+Mato Grosso,15.405999999999999,1998-8
+Mato Grosso,18.566,1999-8
+Mato Grosso,6.063,2000-8
+Mato Grosso,7.7620000000000005,2001-8
+Mato Grosso,14.085999999999999,2002-8
+Mato Grosso,11.132,2003-8
+Mato Grosso,13.603,2004-8
+Mato Grosso,11.57,2005-8
+Mato Grosso,6.218,2006-8
+Mato Grosso,14.453,2007-8
+Mato Grosso,2.875,2008-8
+Mato Grosso,2.25,2009-8
+Mato Grosso,14.607999999999999,2010-8
+Mato Grosso,2.628,2011-8
+Mato Grosso,6.195,2012-8
+Mato Grosso,3.568,2013-8
+Mato Grosso,7.167000000000001,2014-8
+Mato Grosso,5.112,2015-8
+Mato Grosso,6.228,2016-8
+Mato Grosso,6.229,2017-8
+Mato Grosso,10.363,1998-9
+Mato Grosso,11.729000000000001,1999-9
+Mato Grosso,6.251,2000-9
+Mato Grosso,8.49,2001-9
+Mato Grosso,11.034,2002-9
+Mato Grosso,15.79,2003-9
+Mato Grosso,24.994,2004-9
+Mato Grosso,20.551,2005-9
+Mato Grosso,12.661,2006-9
+Mato Grosso,25.963,2007-9
+Mato Grosso,7.965,2008-9
+Mato Grosso,3.1289999999999996,2009-9
+Mato Grosso,18.366,2010-9
+Mato Grosso,6.332000000000001,2011-9
+Mato Grosso,10.344000000000001,2012-9
+Mato Grosso,5.5760000000000005,2013-9
+Mato Grosso,7.081,2014-9
+Mato Grosso,11.068,2015-9
+Mato Grosso,8.98,2016-9
+Mato Grosso,23.945,2017-9
+Mato Grosso,2.707,1998-10
+Mato Grosso,6.109,1999-10
+Mato Grosso,6.062,2000-10
+Mato Grosso,6.542999999999999,2001-10
+Mato Grosso,9.375,2002-10
+Mato Grosso,5.341,2003-10
+Mato Grosso,9.295,2004-10
+Mato Grosso,7.765,2005-10
+Mato Grosso,2.327,2006-10
+Mato Grosso,4.89,2007-10
+Mato Grosso,6.3260000000000005,2008-10
+Mato Grosso,2.5789999999999997,2009-10
+Mato Grosso,4.465,2010-10
+Mato Grosso,2.01,2011-10
+Mato Grosso,2.8369999999999997,2012-10
+Mato Grosso,1.986,2013-10
+Mato Grosso,5.281000000000001,2014-10
+Mato Grosso,6.49,2015-10
+Mato Grosso,2.7489999999999997,2016-10
+Mato Grosso,4.8,2017-10
+Mato Grosso,182.0,1998-11
+Mato Grosso,842.0,1999-11
+Mato Grosso,502.0,2000-11
+Mato Grosso,373.0,2001-11
+Mato Grosso,2.905,2002-11
+Mato Grosso,2.097,2003-11
+Mato Grosso,2.405,2004-11
+Mato Grosso,1.368,2005-11
+Mato Grosso,1.031,2006-11
+Mato Grosso,299.0,2007-11
+Mato Grosso,190.0,2008-11
+Mato Grosso,588.0,2009-11
+Mato Grosso,768.0,2010-11
+Mato Grosso,1.103,2011-11
+Mato Grosso,375.0,2012-11
+Mato Grosso,1.064,2013-11
+Mato Grosso,1.018,2014-11
+Mato Grosso,1.93,2015-11
+Mato Grosso,918.0,2016-11
+Mato Grosso,813.0,2017-11
+Mato Grosso,76.0,1998-12
+Mato Grosso,47.0,1999-12
+Mato Grosso,98.0,2000-12
+Mato Grosso,37.0,2001-12
+Mato Grosso,1.157,2002-12
+Mato Grosso,1.6219999999999999,2003-12
+Mato Grosso,1.217,2004-12
+Mato Grosso,246.0,2005-12
+Mato Grosso,23.0,2006-12
+Mato Grosso,81.0,2007-12
+Mato Grosso,159.0,2008-12
+Mato Grosso,171.0,2009-12
+Mato Grosso,846.0,2010-12
+Mato Grosso,431.0,2011-12
+Mato Grosso,492.0,2012-12
+Mato Grosso,447.0,2013-12
+Mato Grosso,466.0,2014-12
+Mato Grosso,1.777,2015-12
+Mato Grosso,425.0,2016-12
+Mato Grosso,0.0,1998-1
+Mato Grosso,239.0,1999-1
+Mato Grosso,326.0,2000-1
+Mato Grosso,97.0,2001-1
+Mato Grosso,304.0,2002-1
+Mato Grosso,182.0,2003-1
+Mato Grosso,258.0,2004-1
+Mato Grosso,59.0,2005-1
+Mato Grosso,59.0,2006-1
+Mato Grosso,19.0,2007-1
+Mato Grosso,63.0,2008-1
+Mato Grosso,229.0,2009-1
+Mato Grosso,72.0,2010-1
+Mato Grosso,129.0,2011-1
+Mato Grosso,201.0,2012-1
+Mato Grosso,174.0,2013-1
+Mato Grosso,197.0,2014-1
+Mato Grosso,226.0,2015-1
+Mato Grosso,127.0,2016-1
+Mato Grosso,355.0,2017-1
+Mato Grosso,0.0,1998-2
+Mato Grosso,69.0,1999-2
+Mato Grosso,81.0,2000-2
+Mato Grosso,89.0,2001-2
+Mato Grosso,98.0,2002-2
+Mato Grosso,108.0,2003-2
+Mato Grosso,169.0,2004-2
+Mato Grosso,221.0,2005-2
+Mato Grosso,104.0,2006-2
+Mato Grosso,111.0,2007-2
+Mato Grosso,78.0,2008-2
+Mato Grosso,164.0,2009-2
+Mato Grosso,157.0,2010-2
+Mato Grosso,61.0,2011-2
+Mato Grosso,112.0,2012-2
+Mato Grosso,100.0,2013-2
+Mato Grosso,139.0,2014-2
+Mato Grosso,148.0,2015-2
+Mato Grosso,187.0,2016-2
+Mato Grosso,165.0,2017-2
+Mato Grosso,0.0,1998-3
+Mato Grosso,100.0,1999-3
+Mato Grosso,23.0,2000-3
+Mato Grosso,39.0,2001-3
+Mato Grosso,115.0,2002-3
+Mato Grosso,137.0,2003-3
+Mato Grosso,225.0,2004-3
+Mato Grosso,158.0,2005-3
+Mato Grosso,137.0,2006-3
+Mato Grosso,137.0,2007-3
+Mato Grosso,97.0,2008-3
+Mato Grosso,118.0,2009-3
+Mato Grosso,149.0,2010-3
+Mato Grosso,37.0,2011-3
+Mato Grosso,169.0,2012-3
+Mato Grosso,158.0,2013-3
+Mato Grosso,95.0,2014-3
+Mato Grosso,190.0,2015-3
+Mato Grosso,143.0,2016-3
+Mato Grosso,170.0,2017-3
+Mato Grosso,0.0,1998-4
+Mato Grosso,97.0,1999-4
+Mato Grosso,90.0,2000-4
+Mato Grosso,108.0,2001-4
+Mato Grosso,230.0,2002-4
+Mato Grosso,126.0,2003-4
+Mato Grosso,97.0,2004-4
+Mato Grosso,126.0,2005-4
+Mato Grosso,51.0,2006-4
+Mato Grosso,46.0,2007-4
+Mato Grosso,72.0,2008-4
+Mato Grosso,291.0,2009-4
+Mato Grosso,136.0,2010-4
+Mato Grosso,23.0,2011-4
+Mato Grosso,97.0,2012-4
+Mato Grosso,78.0,2013-4
+Mato Grosso,129.0,2014-4
+Mato Grosso,65.0,2015-4
+Mato Grosso,161.0,2016-4
+Mato Grosso,59.0,2017-4
+Mato Grosso,0.0,1998-5
+Mato Grosso,206.0,1999-5
+Mato Grosso,127.0,2000-5
+Mato Grosso,112.0,2001-5
+Mato Grosso,88.0,2002-5
+Mato Grosso,74.0,2003-5
+Mato Grosso,25.0,2004-5
+Mato Grosso,328.0,2005-5
+Mato Grosso,99.0,2006-5
+Mato Grosso,62.0,2007-5
+Mato Grosso,34.0,2008-5
+Mato Grosso,927.0,2009-5
+Mato Grosso,105.0,2010-5
+Mato Grosso,81.0,2011-5
+Mato Grosso,157.0,2012-5
+Mato Grosso,72.0,2013-5
+Mato Grosso,70.0,2014-5
+Mato Grosso,58.0,2015-5
+Mato Grosso,97.0,2016-5
+Mato Grosso,72.0,2017-5
+Mato Grosso,82.0,1998-6
+Mato Grosso,127.0,1999-6
+Mato Grosso,157.0,2000-6
+Mato Grosso,249.0,2001-6
+Mato Grosso,517.0,2002-6
+Mato Grosso,170.0,2003-6
+Mato Grosso,394.0,2004-6
+Mato Grosso,439.0,2005-6
+Mato Grosso,89.0,2006-6
+Mato Grosso,141.0,2007-6
+Mato Grosso,24.0,2008-6
+Mato Grosso,376.0,2009-6
+Mato Grosso,149.0,2010-6
+Mato Grosso,104.0,2011-6
+Mato Grosso,96.0,2012-6
+Mato Grosso,35.0,2013-6
+Mato Grosso,84.0,2014-6
+Mato Grosso,299.0,2015-6
+Mato Grosso,120.0,2016-6
+Mato Grosso,175.0,2017-6
+Mato Grosso,360.0,1998-7
+Mato Grosso,1.297,1999-7
+Mato Grosso,160.0,2000-7
+Mato Grosso,591.0,2001-7
+Mato Grosso,935.0,2002-7
+Mato Grosso,182.0,2003-7
+Mato Grosso,529.0,2004-7
+Mato Grosso,859.0,2005-7
+Mato Grosso,289.0,2006-7
+Mato Grosso,197.0,2007-7
+Mato Grosso,116.0,2008-7
+Mato Grosso,354.0,2009-7
+Mato Grosso,589.0,2010-7
+Mato Grosso,250.0,2011-7
+Mato Grosso,538.0,2012-7
+Mato Grosso,201.0,2013-7
+Mato Grosso,193.0,2014-7
+Mato Grosso,371.0,2015-7
+Mato Grosso,687.0,2016-7
+Mato Grosso,1.05,2017-7
+Mato Grosso,228.0,1998-8
+Mato Grosso,4.355,1999-8
+Mato Grosso,530.0,2000-8
+Mato Grosso,2.484,2001-8
+Mato Grosso,3.984,2002-8
+Mato Grosso,953.0,2003-8
+Mato Grosso,1.4080000000000001,2004-8
+Mato Grosso,4.484,2005-8
+Mato Grosso,1.129,2006-8
+Mato Grosso,1.8230000000000002,2007-8
+Mato Grosso,456.0,2008-8
+Mato Grosso,816.0,2009-8
+Mato Grosso,1.7209999999999999,2010-8
+Mato Grosso,552.0,2011-8
+Mato Grosso,2.951,2012-8
+Mato Grosso,677.0,2013-8
+Mato Grosso,312.0,2014-8
+Mato Grosso,1.2930000000000001,2015-8
+Mato Grosso,1.4809999999999999,2016-8
+Mato Grosso,1.4880000000000002,2017-8
+Mato Grosso,457.0,1998-9
+Mato Grosso,2.969,1999-9
+Mato Grosso,510.0,2000-9
+Mato Grosso,1.383,2001-9
+Mato Grosso,2.252,2002-9
+Mato Grosso,1.124,2003-9
+Mato Grosso,2.511,2004-9
+Mato Grosso,1.87,2005-9
+Mato Grosso,1.078,2006-9
+Mato Grosso,4.446000000000001,2007-9
+Mato Grosso,1.62,2008-9
+Mato Grosso,1.146,2009-9
+Mato Grosso,1.505,2010-9
+Mato Grosso,1.072,2011-9
+Mato Grosso,2.2640000000000002,2012-9
+Mato Grosso,1.074,2013-9
+Mato Grosso,365.0,2014-9
+Mato Grosso,1.482,2015-9
+Mato Grosso,2.383,2016-9
+Mato Grosso,2.984,2017-9
+Mato Grosso,576.0,1998-10
+Mato Grosso,2.053,1999-10
+Mato Grosso,657.0,2000-10
+Mato Grosso,563.0,2001-10
+Mato Grosso,2.173,2002-10
+Mato Grosso,541.0,2003-10
+Mato Grosso,960.0,2004-10
+Mato Grosso,647.0,2005-10
+Mato Grosso,244.0,2006-10
+Mato Grosso,668.0,2007-10
+Mato Grosso,432.0,2008-10
+Mato Grosso,854.0,2009-10
+Mato Grosso,597.0,2010-10
+Mato Grosso,276.0,2011-10
+Mato Grosso,652.0,2012-10
+Mato Grosso,378.0,2013-10
+Mato Grosso,581.0,2014-10
+Mato Grosso,507.0,2015-10
+Mato Grosso,1.2,2016-10
+Mato Grosso,685.0,2017-10
+Mato Grosso,306.0,1998-11
+Mato Grosso,1.194,1999-11
+Mato Grosso,274.0,2000-11
+Mato Grosso,220.0,2001-11
+Mato Grosso,1.47,2002-11
+Mato Grosso,380.0,2003-11
+Mato Grosso,208.0,2004-11
+Mato Grosso,159.0,2005-11
+Mato Grosso,83.0,2006-11
+Mato Grosso,82.0,2007-11
+Mato Grosso,50.0,2008-11
+Mato Grosso,439.0,2009-11
+Mato Grosso,259.0,2010-11
+Mato Grosso,445.0,2011-11
+Mato Grosso,115.0,2012-11
+Mato Grosso,423.0,2013-11
+Mato Grosso,190.0,2014-11
+Mato Grosso,276.0,2015-11
+Mato Grosso,258.0,2016-11
+Mato Grosso,133.0,2017-11
+Mato Grosso,100.0,1998-12
+Mato Grosso,306.0,1999-12
+Mato Grosso,139.0,2000-12
+Mato Grosso,143.0,2001-12
+Mato Grosso,376.0,2002-12
+Mato Grosso,153.0,2003-12
+Mato Grosso,110.0,2004-12
+Mato Grosso,46.0,2005-12
+Mato Grosso,18.0,2006-12
+Mato Grosso,15.0,2007-12
+Mato Grosso,208.0,2008-12
+Mato Grosso,87.0,2009-12
+Mato Grosso,276.0,2010-12
+Mato Grosso,577.0,2011-12
+Mato Grosso,194.0,2012-12
+Mato Grosso,195.0,2013-12
+Mato Grosso,84.0,2014-12
+Mato Grosso,394.0,2015-12
+Mato Grosso,123.0,2016-12
+Minas Gerais,0.0,1998-1
+Minas Gerais,36.0,1999-1
+Minas Gerais,24.0,2000-1
+Minas Gerais,18.0,2001-1
+Minas Gerais,29.0,2002-1
+Minas Gerais,37.0,2003-1
+Minas Gerais,22.0,2004-1
+Minas Gerais,28.0,2005-1
+Minas Gerais,109.0,2006-1
+Minas Gerais,91.0,2007-1
+Minas Gerais,85.0,2008-1
+Minas Gerais,74.0,2009-1
+Minas Gerais,118.0,2010-1
+Minas Gerais,61.0,2011-1
+Minas Gerais,75.0,2012-1
+Minas Gerais,75.0,2013-1
+Minas Gerais,133.0,2014-1
+Minas Gerais,147.0,2015-1
+Minas Gerais,61.0,2016-1
+Minas Gerais,106.0,2017-1
+Minas Gerais,0.0,1998-2
+Minas Gerais,112.0,1999-2
+Minas Gerais,20.0,2000-2
+Minas Gerais,39.0,2001-2
+Minas Gerais,62.0,2002-2
+Minas Gerais,126.0,2003-2
+Minas Gerais,29.0,2004-2
+Minas Gerais,79.0,2005-2
+Minas Gerais,96.0,2006-2
+Minas Gerais,71.0,2007-2
+Minas Gerais,59.0,2008-2
+Minas Gerais,74.0,2009-2
+Minas Gerais,155.0,2010-2
+Minas Gerais,111.0,2011-2
+Minas Gerais,123.0,2012-2
+Minas Gerais,143.0,2013-2
+Minas Gerais,157.0,2014-2
+Minas Gerais,84.0,2015-2
+Minas Gerais,207.0,2016-2
+Minas Gerais,61.0,2017-2
+Minas Gerais,0.0,1998-3
+Minas Gerais,13.0,1999-3
+Minas Gerais,24.0,2000-3
+Minas Gerais,13.0,2001-3
+Minas Gerais,62.0,2002-3
+Minas Gerais,81.0,2003-3
+Minas Gerais,81.0,2004-3
+Minas Gerais,107.0,2005-3
+Minas Gerais,69.0,2006-3
+Minas Gerais,155.0,2007-3
+Minas Gerais,61.0,2008-3
+Minas Gerais,106.0,2009-3
+Minas Gerais,109.0,2010-3
+Minas Gerais,67.0,2011-3
+Minas Gerais,152.0,2012-3
+Minas Gerais,110.0,2013-3
+Minas Gerais,77.0,2014-3
+Minas Gerais,80.0,2015-3
+Minas Gerais,123.0,2016-3
+Minas Gerais,105.0,2017-3
+Minas Gerais,0.0,1998-4
+Minas Gerais,27.0,1999-4
+Minas Gerais,49.0,2000-4
+Minas Gerais,60.0,2001-4
+Minas Gerais,99.0,2002-4
+Minas Gerais,215.0,2003-4
+Minas Gerais,48.0,2004-4
+Minas Gerais,89.0,2005-4
+Minas Gerais,50.0,2006-4
+Minas Gerais,35.0,2007-4
+Minas Gerais,113.0,2008-4
+Minas Gerais,26.0,2009-4
+Minas Gerais,112.0,2010-4
+Minas Gerais,66.0,2011-4
+Minas Gerais,180.0,2012-4
+Minas Gerais,61.0,2013-4
+Minas Gerais,161.0,2014-4
+Minas Gerais,109.0,2015-4
+Minas Gerais,172.0,2016-4
+Minas Gerais,69.0,2017-4
+Minas Gerais,0.0,1998-5
+Minas Gerais,51.0,1999-5
+Minas Gerais,67.0,2000-5
+Minas Gerais,83.0,2001-5
+Minas Gerais,98.0,2002-5
+Minas Gerais,75.0,2003-5
+Minas Gerais,79.0,2004-5
+Minas Gerais,134.0,2005-5
+Minas Gerais,62.0,2006-5
+Minas Gerais,124.0,2007-5
+Minas Gerais,50.0,2008-5
+Minas Gerais,128.0,2009-5
+Minas Gerais,179.0,2010-5
+Minas Gerais,151.0,2011-5
+Minas Gerais,144.0,2012-5
+Minas Gerais,150.0,2013-5
+Minas Gerais,224.0,2014-5
+Minas Gerais,114.0,2015-5
+Minas Gerais,186.0,2016-5
+Minas Gerais,125.0,2017-5
+Minas Gerais,70.0,1998-6
+Minas Gerais,132.0,1999-6
+Minas Gerais,135.0,2000-6
+Minas Gerais,166.0,2001-6
+Minas Gerais,207.0,2002-6
+Minas Gerais,245.0,2003-6
+Minas Gerais,209.0,2004-6
+Minas Gerais,246.0,2005-6
+Minas Gerais,73.0,2006-6
+Minas Gerais,184.0,2007-6
+Minas Gerais,48.0,2008-6
+Minas Gerais,173.0,2009-6
+Minas Gerais,139.0,2010-6
+Minas Gerais,304.0,2011-6
+Minas Gerais,219.0,2012-6
+Minas Gerais,144.0,2013-6
+Minas Gerais,376.0,2014-6
+Minas Gerais,200.0,2015-6
+Minas Gerais,263.0,2016-6
+Minas Gerais,360.0,2017-6
+Minas Gerais,232.0,1998-7
+Minas Gerais,318.0,1999-7
+Minas Gerais,345.0,2000-7
+Minas Gerais,266.0,2001-7
+Minas Gerais,741.0,2002-7
+Minas Gerais,407.0,2003-7
+Minas Gerais,625.0,2004-7
+Minas Gerais,467.0,2005-7
+Minas Gerais,336.0,2006-7
+Minas Gerais,446.0,2007-7
+Minas Gerais,194.0,2008-7
+Minas Gerais,477.0,2009-7
+Minas Gerais,707.0,2010-7
+Minas Gerais,801.0,2011-7
+Minas Gerais,669.0,2012-7
+Minas Gerais,462.0,2013-7
+Minas Gerais,559.0,2014-7
+Minas Gerais,288.0,2015-7
+Minas Gerais,1.004,2016-7
+Minas Gerais,610.0,2017-7
+Minas Gerais,875.0,1998-8
+Minas Gerais,1.19,1999-8
+Minas Gerais,769.0,2000-8
+Minas Gerais,858.0,2001-8
+Minas Gerais,2.041,2002-8
+Minas Gerais,1.955,2003-8
+Minas Gerais,1.642,2004-8
+Minas Gerais,1.0290000000000001,2005-8
+Minas Gerais,959.0,2006-8
+Minas Gerais,2.975,2007-8
+Minas Gerais,605.0,2008-8
+Minas Gerais,685.0,2009-8
+Minas Gerais,3.353,2010-8
+Minas Gerais,2.742,2011-8
+Minas Gerais,901.0,2012-8
+Minas Gerais,911.0,2013-8
+Minas Gerais,1.952,2014-8
+Minas Gerais,1.0590000000000002,2015-8
+Minas Gerais,1.433,2016-8
+Minas Gerais,2.142,2017-8
+Minas Gerais,1.9809999999999999,1998-9
+Minas Gerais,2.6860000000000004,1999-9
+Minas Gerais,1.08,2000-9
+Minas Gerais,1.597,2001-9
+Minas Gerais,3.1,2002-9
+Minas Gerais,7.091,2003-9
+Minas Gerais,4.3389999999999995,2004-9
+Minas Gerais,2.0469999999999997,2005-9
+Minas Gerais,2.78,2006-9
+Minas Gerais,5.088,2007-9
+Minas Gerais,2.552,2008-9
+Minas Gerais,1.31,2009-9
+Minas Gerais,5.059,2010-9
+Minas Gerais,5.978,2011-9
+Minas Gerais,3.219,2012-9
+Minas Gerais,1.656,2013-9
+Minas Gerais,3.4539999999999997,2014-9
+Minas Gerais,3.088,2015-9
+Minas Gerais,2.093,2016-9
+Minas Gerais,4.697,2017-9
+Minas Gerais,1.093,1998-10
+Minas Gerais,1.3630000000000002,1999-10
+Minas Gerais,1.954,2000-10
+Minas Gerais,528.0,2001-10
+Minas Gerais,4.788,2002-10
+Minas Gerais,5.391,2003-10
+Minas Gerais,2.736,2004-10
+Minas Gerais,6.546,2005-10
+Minas Gerais,616.0,2006-10
+Minas Gerais,3.467,2007-10
+Minas Gerais,3.787,2008-10
+Minas Gerais,1.013,2009-10
+Minas Gerais,2.048,2010-10
+Minas Gerais,1.206,2011-10
+Minas Gerais,3.97,2012-10
+Minas Gerais,1.2209999999999999,2013-10
+Minas Gerais,4.735,2014-10
+Minas Gerais,3.708,2015-10
+Minas Gerais,948.0,2016-10
+Minas Gerais,3.062,2017-10
+Minas Gerais,32.0,1998-11
+Minas Gerais,271.0,1999-11
+Minas Gerais,43.0,2000-11
+Minas Gerais,62.0,2001-11
+Minas Gerais,417.0,2002-11
+Minas Gerais,399.0,2003-11
+Minas Gerais,914.0,2004-11
+Minas Gerais,422.0,2005-11
+Minas Gerais,59.0,2006-11
+Minas Gerais,1.305,2007-11
+Minas Gerais,892.0,2008-11
+Minas Gerais,246.0,2009-11
+Minas Gerais,82.0,2010-11
+Minas Gerais,153.0,2011-11
+Minas Gerais,220.0,2012-11
+Minas Gerais,277.0,2013-11
+Minas Gerais,398.0,2014-11
+Minas Gerais,1.453,2015-11
+Minas Gerais,126.0,2016-11
+Minas Gerais,136.0,2017-11
+Minas Gerais,21.0,1998-12
+Minas Gerais,32.0,1999-12
+Minas Gerais,14.0,2000-12
+Minas Gerais,44.0,2001-12
+Minas Gerais,225.0,2002-12
+Minas Gerais,225.0,2003-12
+Minas Gerais,125.0,2004-12
+Minas Gerais,65.0,2005-12
+Minas Gerais,32.0,2006-12
+Minas Gerais,95.0,2007-12
+Minas Gerais,25.0,2008-12
+Minas Gerais,108.0,2009-12
+Minas Gerais,105.0,2010-12
+Minas Gerais,43.0,2011-12
+Minas Gerais,189.0,2012-12
+Minas Gerais,98.0,2013-12
+Minas Gerais,155.0,2014-12
+Minas Gerais,295.0,2015-12
+Minas Gerais,91.0,2016-12
+Pará,0.0,1998-1
+Pará,87.0,1999-1
+Pará,30.0,2000-1
+Pará,34.0,2001-1
+Pará,144.0,2002-1
+Pará,900.0,2003-1
+Pará,579.0,2004-1
+Pará,1.768,2005-1
+Pará,403.0,2006-1
+Pará,467.0,2007-1
+Pará,131.0,2008-1
+Pará,241.0,2009-1
+Pará,437.0,2010-1
+Pará,108.0,2011-1
+Pará,392.0,2012-1
+Pará,167.0,2013-1
+Pará,251.0,2014-1
+Pará,725.0,2015-1
+Pará,1.3219999999999998,2016-1
+Pará,219.0,2017-1
+Pará,0.0,1998-2
+Pará,285.0,1999-2
+Pará,29.0,2000-2
+Pará,16.0,2001-2
+Pará,120.0,2002-2
+Pará,34.0,2003-2
+Pará,20.0,2004-2
+Pará,85.0,2005-2
+Pará,49.0,2006-2
+Pará,23.0,2007-2
+Pará,54.0,2008-2
+Pará,15.0,2009-2
+Pará,102.0,2010-2
+Pará,13.0,2011-2
+Pará,63.0,2012-2
+Pará,30.0,2013-2
+Pará,37.0,2014-2
+Pará,108.0,2015-2
+Pará,430.0,2016-2
+Pará,14.0,2017-2
+Pará,0.0,1998-3
+Pará,7.0,1999-3
+Pará,181.0,2000-3
+Pará,0.0,2001-3
+Pará,14.0,2002-3
+Pará,27.0,2003-3
+Pará,22.0,2004-3
+Pará,21.0,2005-3
+Pará,10.0,2006-3
+Pará,6.0,2007-3
+Pará,4.0,2008-3
+Pará,4.0,2009-3
+Pará,110.0,2010-3
+Pará,21.0,2011-3
+Pará,30.0,2012-3
+Pará,19.0,2013-3
+Pará,34.0,2014-3
+Pará,61.0,2015-3
+Pará,81.0,2016-3
+Pará,42.0,2017-3
+Pará,0.0,1998-4
+Pará,6.0,1999-4
+Pará,40.0,2000-4
+Pará,0.0,2001-4
+Pará,11.0,2002-4
+Pará,14.0,2003-4
+Pará,23.0,2004-4
+Pará,14.0,2005-4
+Pará,2.0,2006-4
+Pará,0.0,2007-4
+Pará,7.0,2008-4
+Pará,8.0,2009-4
+Pará,22.0,2010-4
+Pará,10.0,2011-4
+Pará,11.0,2012-4
+Pará,20.0,2013-4
+Pará,27.0,2014-4
+Pará,27.0,2015-4
+Pará,66.0,2016-4
+Pará,45.0,2017-4
+Pará,0.0,1998-5
+Pará,4.0,1999-5
+Pará,12.0,2000-5
+Pará,7.0,2001-5
+Pará,18.0,2002-5
+Pará,3.0,2003-5
+Pará,44.0,2004-5
+Pará,37.0,2005-5
+Pará,0.0,2006-5
+Pará,9.0,2007-5
+Pará,0.0,2008-5
+Pará,7.0,2009-5
+Pará,57.0,2010-5
+Pará,16.0,2011-5
+Pará,59.0,2012-5
+Pará,42.0,2013-5
+Pará,70.0,2014-5
+Pará,95.0,2015-5
+Pará,154.0,2016-5
+Pará,114.0,2017-5
+Pará,58.0,1998-6
+Pará,37.0,1999-6
+Pará,59.0,2000-6
+Pará,42.0,2001-6
+Pará,149.0,2002-6
+Pará,64.0,2003-6
+Pará,340.0,2004-6
+Pará,304.0,2005-6
+Pará,78.0,2006-6
+Pará,129.0,2007-6
+Pará,48.0,2008-6
+Pará,38.0,2009-6
+Pará,94.0,2010-6
+Pará,105.0,2011-6
+Pará,183.0,2012-6
+Pará,173.0,2013-6
+Pará,319.0,2014-6
+Pará,265.0,2015-6
+Pará,502.0,2016-6
+Pará,679.0,2017-6
+Pará,638.0,1998-7
+Pará,982.0,1999-7
+Pará,426.0,2000-7
+Pará,708.0,2001-7
+Pará,772.0,2002-7
+Pará,1.571,2003-7
+Pará,4.436,2004-7
+Pará,4.364,2005-7
+Pará,615.0,2006-7
+Pará,476.0,2007-7
+Pará,971.0,2008-7
+Pará,397.0,2009-7
+Pará,1.432,2010-7
+Pará,632.0,2011-7
+Pará,661.0,2012-7
+Pará,447.0,2013-7
+Pará,825.0,2014-7
+Pará,906.0,2015-7
+Pará,1.579,2016-7
+Pará,4.985,2017-7
+Pará,6.815,1998-8
+Pará,6.178,1999-8
+Pará,5.484,2000-8
+Pará,9.043,2001-8
+Pará,15.664000000000001,2002-8
+Pará,6.255,2003-8
+Pará,12.812000000000001,2004-8
+Pará,13.055,2005-8
+Pará,7.575,2006-8
+Pará,14.352,2007-8
+Pará,4.435,2008-8
+Pará,3.859,2009-8
+Pará,18.13,2010-8
+Pará,2.195,2011-8
+Pará,6.9639999999999995,2012-8
+Pará,2.161,2013-8
+Pará,8.555,2014-8
+Pará,7.912999999999999,2015-8
+Pará,4.863,2016-8
+Pará,11.962,2017-8
+Pará,6.237,1998-9
+Pará,4.419,1999-9
+Pará,2.569,2000-9
+Pará,6.138999999999999,2001-9
+Pará,5.609,2002-9
+Pará,8.447000000000001,2003-9
+Pará,9.471,2004-9
+Pará,9.032,2005-9
+Pará,8.372,2006-9
+Pará,14.59,2007-9
+Pará,6.294,2008-9
+Pará,6.051,2009-9
+Pará,10.81,2010-9
+Pará,5.185,2011-9
+Pará,6.87,2012-9
+Pará,3.36,2013-9
+Pará,6.787000000000001,2014-9
+Pará,11.068,2015-9
+Pará,3.9530000000000003,2016-9
+Pará,25.004,2017-9
+Pará,3.665,1998-10
+Pará,5.026,1999-10
+Pará,4.313,2000-10
+Pará,5.096,2001-10
+Pará,5.189,2002-10
+Pará,3.803,2003-10
+Pará,4.726,2004-10
+Pará,5.083,2005-10
+Pará,5.9639999999999995,2006-10
+Pará,2.504,2007-10
+Pará,6.653,2008-10
+Pará,6.3420000000000005,2009-10
+Pará,3.843,2010-10
+Pará,3.141,2011-10
+Pará,3.714,2012-10
+Pará,4.921,2013-10
+Pará,6.4479999999999995,2014-10
+Pará,7.781000000000001,2015-10
+Pará,5.281000000000001,2016-10
+Pará,7.627999999999999,2017-10
+Pará,1.861,1998-11
+Pará,2.682,1999-11
+Pará,3.366,2000-11
+Pará,4.938,2001-11
+Pará,7.996,2002-11
+Pará,6.195,2003-11
+Pará,9.842,2004-11
+Pará,4.968,2005-11
+Pará,2.883,2006-11
+Pará,2.89,2007-11
+Pará,2.403,2008-11
+Pará,10.012,2009-11
+Pará,4.417,2010-11
+Pará,3.043,2011-11
+Pará,6.156000000000001,2012-11
+Pará,3.688,2013-11
+Pará,7.767,2014-11
+Pará,9.642999999999999,2015-11
+Pará,7.879,2016-11
+Pará,9.079,2017-11
+Pará,1.008,1998-12
+Pará,766.0,1999-12
+Pará,1.6980000000000002,2000-12
+Pará,2.5639999999999996,2001-12
+Pará,3.1180000000000003,2002-12
+Pará,4.787,2003-12
+Pará,5.507999999999999,2004-12
+Pará,1.495,2005-12
+Pará,1.4169999999999998,2006-12
+Pará,689.0,2007-12
+Pará,684.0,2008-12
+Pará,2.832,2009-12
+Pará,1.6119999999999999,2010-12
+Pará,3.218,2011-12
+Pará,1.8119999999999998,2012-12
+Pará,5.513999999999999,2013-12
+Pará,4.828,2014-12
+Pará,6.61,2015-12
+Pará,3.3,2016-12
+Paraiba,0.0,1998-1
+Paraiba,26.0,1999-1
+Paraiba,0.0,2000-1
+Paraiba,11.0,2001-1
+Paraiba,5.0,2002-1
+Paraiba,70.0,2003-1
+Paraiba,33.0,2004-1
+Paraiba,178.0,2005-1
+Paraiba,83.0,2006-1
+Paraiba,69.0,2007-1
+Paraiba,77.0,2008-1
+Paraiba,115.0,2009-1
+Paraiba,46.0,2010-1
+Paraiba,11.0,2011-1
+Paraiba,61.0,2012-1
+Paraiba,38.0,2013-1
+Paraiba,75.0,2014-1
+Paraiba,42.0,2015-1
+Paraiba,18.0,2016-1
+Paraiba,23.0,2017-1
+Paraiba,0.0,1998-2
+Paraiba,2.0,1999-2
+Paraiba,11.0,2000-2
+Paraiba,6.0,2001-2
+Paraiba,18.0,2002-2
+Paraiba,3.0,2003-2
+Paraiba,3.0,2004-2
+Paraiba,15.0,2005-2
+Paraiba,7.0,2006-2
+Paraiba,7.0,2007-2
+Paraiba,20.0,2008-2
+Paraiba,9.0,2009-2
+Paraiba,15.0,2010-2
+Paraiba,5.0,2011-2
+Paraiba,15.0,2012-2
+Paraiba,9.0,2013-2
+Paraiba,6.0,2014-2
+Paraiba,15.0,2015-2
+Paraiba,4.0,2016-2
+Paraiba,8.0,2017-2
+Paraiba,0.0,1998-3
+Paraiba,1.0,1999-3
+Paraiba,5.0,2000-3
+Paraiba,0.0,2001-3
+Paraiba,3.0,2002-3
+Paraiba,0.0,2003-3
+Paraiba,3.0,2004-3
+Paraiba,13.0,2005-3
+Paraiba,4.0,2006-3
+Paraiba,1.0,2007-3
+Paraiba,8.0,2008-3
+Paraiba,2.0,2009-3
+Paraiba,16.0,2010-3
+Paraiba,6.0,2011-3
+Paraiba,4.0,2012-3
+Paraiba,3.0,2013-3
+Paraiba,18.0,2014-3
+Paraiba,7.0,2015-3
+Paraiba,1.0,2016-3
+Paraiba,2.0,2017-3
+Paraiba,0.0,1998-4
+Paraiba,3.0,1999-4
+Paraiba,1.0,2000-4
+Paraiba,0.0,2001-4
+Paraiba,1.0,2002-4
+Paraiba,0.0,2003-4
+Paraiba,3.0,2004-4
+Paraiba,2.0,2005-4
+Paraiba,0.0,2006-4
+Paraiba,0.0,2007-4
+Paraiba,0.0,2008-4
+Paraiba,1.0,2009-4
+Paraiba,2.0,2010-4
+Paraiba,2.0,2011-4
+Paraiba,13.0,2012-4
+Paraiba,6.0,2013-4
+Paraiba,8.0,2014-4
+Paraiba,11.0,2015-4
+Paraiba,1.0,2016-4
+Paraiba,1.0,2017-4
+Paraiba,0.0,1998-5
+Paraiba,0.0,1999-5
+Paraiba,0.0,2000-5
+Paraiba,4.0,2001-5
+Paraiba,1.0,2002-5
+Paraiba,0.0,2003-5
+Paraiba,1.0,2004-5
+Paraiba,0.0,2005-5
+Paraiba,0.0,2006-5
+Paraiba,0.0,2007-5
+Paraiba,0.0,2008-5
+Paraiba,0.0,2009-5
+Paraiba,10.0,2010-5
+Paraiba,0.0,2011-5
+Paraiba,10.0,2012-5
+Paraiba,3.0,2013-5
+Paraiba,1.0,2014-5
+Paraiba,6.0,2015-5
+Paraiba,1.0,2016-5
+Paraiba,1.0,2017-5
+Paraiba,3.0,1998-6
+Paraiba,1.0,1999-6
+Paraiba,2.0,2000-6
+Paraiba,0.0,2001-6
+Paraiba,1.0,2002-6
+Paraiba,0.0,2003-6
+Paraiba,0.0,2004-6
+Paraiba,0.0,2005-6
+Paraiba,0.0,2006-6
+Paraiba,0.0,2007-6
+Paraiba,0.0,2008-6
+Paraiba,0.0,2009-6
+Paraiba,3.0,2010-6
+Paraiba,2.0,2011-6
+Paraiba,5.0,2012-6
+Paraiba,3.0,2013-6
+Paraiba,1.0,2014-6
+Paraiba,0.0,2015-6
+Paraiba,4.0,2016-6
+Paraiba,0.0,2017-6
+Paraiba,0.0,1998-7
+Paraiba,1.0,1999-7
+Paraiba,0.0,2000-7
+Paraiba,8.0,2001-7
+Paraiba,8.0,2002-7
+Paraiba,6.0,2003-7
+Paraiba,1.0,2004-7
+Paraiba,0.0,2005-7
+Paraiba,1.0,2006-7
+Paraiba,1.0,2007-7
+Paraiba,0.0,2008-7
+Paraiba,3.0,2009-7
+Paraiba,7.0,2010-7
+Paraiba,6.0,2011-7
+Paraiba,5.0,2012-7
+Paraiba,1.0,2013-7
+Paraiba,9.0,2014-7
+Paraiba,3.0,2015-7
+Paraiba,22.0,2016-7
+Paraiba,2.0,2017-7
+Paraiba,3.0,1998-8
+Paraiba,4.0,1999-8
+Paraiba,7.0,2000-8
+Paraiba,34.0,2001-8
+Paraiba,38.0,2002-8
+Paraiba,14.0,2003-8
+Paraiba,18.0,2004-8
+Paraiba,0.0,2005-8
+Paraiba,3.0,2006-8
+Paraiba,8.0,2007-8
+Paraiba,1.0,2008-8
+Paraiba,4.0,2009-8
+Paraiba,9.0,2010-8
+Paraiba,12.0,2011-8
+Paraiba,13.0,2012-8
+Paraiba,3.0,2013-8
+Paraiba,30.0,2014-8
+Paraiba,5.0,2015-8
+Paraiba,50.0,2016-8
+Paraiba,3.0,2017-8
+Paraiba,50.0,1998-9
+Paraiba,14.0,1999-9
+Paraiba,9.0,2000-9
+Paraiba,98.0,2001-9
+Paraiba,63.0,2002-9
+Paraiba,81.0,2003-9
+Paraiba,34.0,2004-9
+Paraiba,13.0,2005-9
+Paraiba,27.0,2006-9
+Paraiba,22.0,2007-9
+Paraiba,21.0,2008-9
+Paraiba,28.0,2009-9
+Paraiba,37.0,2010-9
+Paraiba,55.0,2011-9
+Paraiba,71.0,2012-9
+Paraiba,25.0,2013-9
+Paraiba,51.0,2014-9
+Paraiba,48.0,2015-9
+Paraiba,131.0,2016-9
+Paraiba,30.0,2017-9
+Paraiba,179.0,1998-10
+Paraiba,48.0,1999-10
+Paraiba,125.0,2000-10
+Paraiba,279.0,2001-10
+Paraiba,193.0,2002-10
+Paraiba,381.0,2003-10
+Paraiba,190.0,2004-10
+Paraiba,155.0,2005-10
+Paraiba,135.0,2006-10
+Paraiba,111.0,2007-10
+Paraiba,80.0,2008-10
+Paraiba,117.0,2009-10
+Paraiba,150.0,2010-10
+Paraiba,200.0,2011-10
+Paraiba,136.0,2012-10
+Paraiba,58.0,2013-10
+Paraiba,70.0,2014-10
+Paraiba,121.0,2015-10
+Paraiba,304.0,2016-10
+Paraiba,123.0,2017-10
+Paraiba,46.0,1998-11
+Paraiba,38.0,1999-11
+Paraiba,65.0,2000-11
+Paraiba,294.0,2001-11
+Paraiba,238.0,2002-11
+Paraiba,538.0,2003-11
+Paraiba,331.0,2004-11
+Paraiba,280.0,2005-11
+Paraiba,215.0,2006-11
+Paraiba,256.0,2007-11
+Paraiba,175.0,2008-11
+Paraiba,428.0,2009-11
+Paraiba,451.0,2010-11
+Paraiba,359.0,2011-11
+Paraiba,130.0,2012-11
+Paraiba,95.0,2013-11
+Paraiba,111.0,2014-11
+Paraiba,206.0,2015-11
+Paraiba,132.0,2016-11
+Paraiba,101.0,2017-11
+Paraiba,51.0,1998-12
+Paraiba,40.0,1999-12
+Paraiba,34.0,2000-12
+Paraiba,70.0,2001-12
+Paraiba,163.0,2002-12
+Paraiba,288.0,2003-12
+Paraiba,351.0,2004-12
+Paraiba,159.0,2005-12
+Paraiba,196.0,2006-12
+Paraiba,133.0,2007-12
+Paraiba,187.0,2008-12
+Paraiba,270.0,2009-12
+Paraiba,65.0,2010-12
+Paraiba,179.0,2011-12
+Paraiba,62.0,2012-12
+Paraiba,78.0,2013-12
+Paraiba,62.0,2014-12
+Paraiba,122.0,2015-12
+Paraiba,8.0,2016-12
+Paraiba,0.0,1998-1
+Paraiba,7.0,1999-1
+Paraiba,49.0,2000-1
+Paraiba,32.0,2001-1
+Paraiba,47.0,2002-1
+Paraiba,109.0,2003-1
+Paraiba,88.0,2004-1
+Paraiba,55.0,2005-1
+Paraiba,78.0,2006-1
+Paraiba,11.0,2007-1
+Paraiba,35.0,2008-1
+Paraiba,35.0,2009-1
+Paraiba,18.0,2010-1
+Paraiba,35.0,2011-1
+Paraiba,31.0,2012-1
+Paraiba,28.0,2013-1
+Paraiba,86.0,2014-1
+Paraiba,120.0,2015-1
+Paraiba,113.0,2016-1
+Paraiba,55.0,2017-1
+Paraiba,0.0,1998-2
+Paraiba,22.0,1999-2
+Paraiba,67.0,2000-2
+Paraiba,8.0,2001-2
+Paraiba,24.0,2002-2
+Paraiba,46.0,2003-2
+Paraiba,42.0,2004-2
+Paraiba,77.0,2005-2
+Paraiba,60.0,2006-2
+Paraiba,32.0,2007-2
+Paraiba,38.0,2008-2
+Paraiba,21.0,2009-2
+Paraiba,46.0,2010-2
+Paraiba,8.0,2011-2
+Paraiba,40.0,2012-2
+Paraiba,9.0,2013-2
+Paraiba,52.0,2014-2
+Paraiba,58.0,2015-2
+Paraiba,31.0,2016-2
+Paraiba,60.0,2017-2
+Paraiba,0.0,1998-3
+Paraiba,40.0,1999-3
+Paraiba,52.0,2000-3
+Paraiba,12.0,2001-3
+Paraiba,18.0,2002-3
+Paraiba,76.0,2003-3
+Paraiba,83.0,2004-3
+Paraiba,84.0,2005-3
+Paraiba,56.0,2006-3
+Paraiba,54.0,2007-3
+Paraiba,43.0,2008-3
+Paraiba,57.0,2009-3
+Paraiba,22.0,2010-3
+Paraiba,21.0,2011-3
+Paraiba,55.0,2012-3
+Paraiba,18.0,2013-3
+Paraiba,42.0,2014-3
+Paraiba,55.0,2015-3
+Paraiba,63.0,2016-3
+Paraiba,43.0,2017-3
+Paraiba,0.0,1998-4
+Paraiba,39.0,1999-4
+Paraiba,51.0,2000-4
+Paraiba,43.0,2001-4
+Paraiba,84.0,2002-4
+Paraiba,130.0,2003-4
+Paraiba,68.0,2004-4
+Paraiba,22.0,2005-4
+Paraiba,49.0,2006-4
+Paraiba,14.0,2007-4
+Paraiba,62.0,2008-4
+Paraiba,80.0,2009-4
+Paraiba,71.0,2010-4
+Paraiba,38.0,2011-4
+Paraiba,38.0,2012-4
+Paraiba,72.0,2013-4
+Paraiba,38.0,2014-4
+Paraiba,83.0,2015-4
+Paraiba,167.0,2016-4
+Paraiba,77.0,2017-4
+Paraiba,0.0,1998-5
+Paraiba,57.0,1999-5
+Paraiba,43.0,2000-5
+Paraiba,26.0,2001-5
+Paraiba,65.0,2002-5
+Paraiba,115.0,2003-5
+Paraiba,9.0,2004-5
+Paraiba,125.0,2005-5
+Paraiba,90.0,2006-5
+Paraiba,14.0,2007-5
+Paraiba,41.0,2008-5
+Paraiba,117.0,2009-5
+Paraiba,39.0,2010-5
+Paraiba,97.0,2011-5
+Paraiba,86.0,2012-5
+Paraiba,85.0,2013-5
+Paraiba,109.0,2014-5
+Paraiba,77.0,2015-5
+Paraiba,72.0,2016-5
+Paraiba,49.0,2017-5
+Paraiba,36.0,1998-6
+Paraiba,31.0,1999-6
+Paraiba,53.0,2000-6
+Paraiba,43.0,2001-6
+Paraiba,115.0,2002-6
+Paraiba,159.0,2003-6
+Paraiba,147.0,2004-6
+Paraiba,114.0,2005-6
+Paraiba,62.0,2006-6
+Paraiba,57.0,2007-6
+Paraiba,17.0,2008-6
+Paraiba,105.0,2009-6
+Paraiba,55.0,2010-6
+Paraiba,162.0,2011-6
+Paraiba,77.0,2012-6
+Paraiba,52.0,2013-6
+Paraiba,112.0,2014-6
+Paraiba,201.0,2015-6
+Paraiba,238.0,2016-6
+Paraiba,169.0,2017-6
+Paraiba,59.0,1998-7
+Paraiba,94.0,1999-7
+Paraiba,98.0,2000-7
+Paraiba,122.0,2001-7
+Paraiba,172.0,2002-7
+Paraiba,101.0,2003-7
+Paraiba,148.0,2004-7
+Paraiba,155.0,2005-7
+Paraiba,139.0,2006-7
+Paraiba,60.0,2007-7
+Paraiba,87.0,2008-7
+Paraiba,34.0,2009-7
+Paraiba,196.0,2010-7
+Paraiba,262.0,2011-7
+Paraiba,111.0,2012-7
+Paraiba,168.0,2013-7
+Paraiba,215.0,2014-7
+Paraiba,137.0,2015-7
+Paraiba,504.0,2016-7
+Paraiba,891.0,2017-7
+Paraiba,42.0,1998-8
+Paraiba,938.0,1999-8
+Paraiba,849.0,2000-8
+Paraiba,342.0,2001-8
+Paraiba,1.5930000000000002,2002-8
+Paraiba,1.896,2003-8
+Paraiba,1.237,2004-8
+Paraiba,800.0,2005-8
+Paraiba,844.0,2006-8
+Paraiba,580.0,2007-8
+Paraiba,205.0,2008-8
+Paraiba,844.0,2009-8
+Paraiba,733.0,2010-8
+Paraiba,435.0,2011-8
+Paraiba,522.0,2012-8
+Paraiba,481.0,2013-8
+Paraiba,646.0,2014-8
+Paraiba,651.0,2015-8
+Paraiba,1.01,2016-8
+Paraiba,987.0,2017-8
+Paraiba,61.0,1998-9
+Paraiba,878.0,1999-9
+Paraiba,381.0,2000-9
+Paraiba,258.0,2001-9
+Paraiba,1.071,2002-9
+Paraiba,2.4459999999999997,2003-9
+Paraiba,1.36,2004-9
+Paraiba,386.0,2005-9
+Paraiba,866.0,2006-9
+Paraiba,960.0,2007-9
+Paraiba,413.0,2008-9
+Paraiba,149.0,2009-9
+Paraiba,270.0,2010-9
+Paraiba,913.0,2011-9
+Paraiba,459.0,2012-9
+Paraiba,476.0,2013-9
+Paraiba,443.0,2014-9
+Paraiba,599.0,2015-9
+Paraiba,1.371,2016-9
+Paraiba,1.706,2017-9
+Paraiba,61.0,1998-10
+Paraiba,452.0,1999-10
+Paraiba,658.0,2000-10
+Paraiba,209.0,2001-10
+Paraiba,399.0,2002-10
+Paraiba,1.228,2003-10
+Paraiba,666.0,2004-10
+Paraiba,157.0,2005-10
+Paraiba,327.0,2006-10
+Paraiba,194.0,2007-10
+Paraiba,78.0,2008-10
+Paraiba,424.0,2009-10
+Paraiba,230.0,2010-10
+Paraiba,256.0,2011-10
+Paraiba,145.0,2012-10
+Paraiba,233.0,2013-10
+Paraiba,411.0,2014-10
+Paraiba,158.0,2015-10
+Paraiba,193.0,2016-10
+Paraiba,134.0,2017-10
+Paraiba,143.0,1998-11
+Paraiba,447.0,1999-11
+Paraiba,85.0,2000-11
+Paraiba,89.0,2001-11
+Paraiba,425.0,2002-11
+Paraiba,503.0,2003-11
+Paraiba,388.0,2004-11
+Paraiba,597.0,2005-11
+Paraiba,60.0,2006-11
+Paraiba,59.0,2007-11
+Paraiba,39.0,2008-11
+Paraiba,90.0,2009-11
+Paraiba,183.0,2010-11
+Paraiba,138.0,2011-11
+Paraiba,142.0,2012-11
+Paraiba,126.0,2013-11
+Paraiba,68.0,2014-11
+Paraiba,18.0,2015-11
+Paraiba,275.0,2016-11
+Paraiba,292.0,2017-11
+Paraiba,82.0,1998-12
+Paraiba,254.0,1999-12
+Paraiba,159.0,2000-12
+Paraiba,85.0,2001-12
+Paraiba,165.0,2002-12
+Paraiba,171.0,2003-12
+Paraiba,151.0,2004-12
+Paraiba,40.0,2005-12
+Paraiba,6.0,2006-12
+Paraiba,22.0,2007-12
+Paraiba,62.0,2008-12
+Paraiba,30.0,2009-12
+Paraiba,37.0,2010-12
+Paraiba,78.0,2011-12
+Paraiba,54.0,2012-12
+Paraiba,155.0,2013-12
+Paraiba,78.0,2014-12
+Paraiba,30.0,2015-12
+Paraiba,45.0,2016-12
+Pernambuco,0.0,1998-1
+Pernambuco,102.0,1999-1
+Pernambuco,3.0,2000-1
+Pernambuco,7.0,2001-1
+Pernambuco,10.0,2002-1
+Pernambuco,188.0,2003-1
+Pernambuco,29.0,2004-1
+Pernambuco,221.0,2005-1
+Pernambuco,148.0,2006-1
+Pernambuco,156.0,2007-1
+Pernambuco,170.0,2008-1
+Pernambuco,256.0,2009-1
+Pernambuco,47.0,2010-1
+Pernambuco,49.0,2011-1
+Pernambuco,146.0,2012-1
+Pernambuco,55.0,2013-1
+Pernambuco,99.0,2014-1
+Pernambuco,109.0,2015-1
+Pernambuco,24.0,2016-1
+Pernambuco,52.0,2017-1
+Pernambuco,0.0,1998-2
+Pernambuco,13.0,1999-2
+Pernambuco,4.0,2000-2
+Pernambuco,2.0,2001-2
+Pernambuco,19.0,2002-2
+Pernambuco,35.0,2003-2
+Pernambuco,8.0,2004-2
+Pernambuco,33.0,2005-2
+Pernambuco,41.0,2006-2
+Pernambuco,21.0,2007-2
+Pernambuco,48.0,2008-2
+Pernambuco,28.0,2009-2
+Pernambuco,33.0,2010-2
+Pernambuco,25.0,2011-2
+Pernambuco,64.0,2012-2
+Pernambuco,29.0,2013-2
+Pernambuco,25.0,2014-2
+Pernambuco,55.0,2015-2
+Pernambuco,19.0,2016-2
+Pernambuco,23.0,2017-2
+Pernambuco,0.0,1998-3
+Pernambuco,27.0,1999-3
+Pernambuco,14.0,2000-3
+Pernambuco,0.0,2001-3
+Pernambuco,24.0,2002-3
+Pernambuco,9.0,2003-3
+Pernambuco,6.0,2004-3
+Pernambuco,45.0,2005-3
+Pernambuco,18.0,2006-3
+Pernambuco,4.0,2007-3
+Pernambuco,32.0,2008-3
+Pernambuco,15.0,2009-3
+Pernambuco,59.0,2010-3
+Pernambuco,39.0,2011-3
+Pernambuco,44.0,2012-3
+Pernambuco,40.0,2013-3
+Pernambuco,36.0,2014-3
+Pernambuco,33.0,2015-3
+Pernambuco,4.0,2016-3
+Pernambuco,7.0,2017-3
+Pernambuco,0.0,1998-4
+Pernambuco,2.0,1999-4
+Pernambuco,1.0,2000-4
+Pernambuco,2.0,2001-4
+Pernambuco,5.0,2002-4
+Pernambuco,7.0,2003-4
+Pernambuco,5.0,2004-4
+Pernambuco,1.0,2005-4
+Pernambuco,2.0,2006-4
+Pernambuco,1.0,2007-4
+Pernambuco,5.0,2008-4
+Pernambuco,3.0,2009-4
+Pernambuco,2.0,2010-4
+Pernambuco,22.0,2011-4
+Pernambuco,46.0,2012-4
+Pernambuco,11.0,2013-4
+Pernambuco,10.0,2014-4
+Pernambuco,30.0,2015-4
+Pernambuco,8.0,2016-4
+Pernambuco,9.0,2017-4
+Pernambuco,0.0,1998-5
+Pernambuco,6.0,1999-5
+Pernambuco,7.0,2000-5
+Pernambuco,5.0,2001-5
+Pernambuco,13.0,2002-5
+Pernambuco,1.0,2003-5
+Pernambuco,2.0,2004-5
+Pernambuco,1.0,2005-5
+Pernambuco,1.0,2006-5
+Pernambuco,0.0,2007-5
+Pernambuco,0.0,2008-5
+Pernambuco,0.0,2009-5
+Pernambuco,8.0,2010-5
+Pernambuco,1.0,2011-5
+Pernambuco,36.0,2012-5
+Pernambuco,9.0,2013-5
+Pernambuco,4.0,2014-5
+Pernambuco,17.0,2015-5
+Pernambuco,6.0,2016-5
+Pernambuco,13.0,2017-5
+Pernambuco,1.0,1998-6
+Pernambuco,7.0,1999-6
+Pernambuco,4.0,2000-6
+Pernambuco,2.0,2001-6
+Pernambuco,1.0,2002-6
+Pernambuco,2.0,2003-6
+Pernambuco,4.0,2004-6
+Pernambuco,3.0,2005-6
+Pernambuco,0.0,2006-6
+Pernambuco,1.0,2007-6
+Pernambuco,0.0,2008-6
+Pernambuco,1.0,2009-6
+Pernambuco,1.0,2010-6
+Pernambuco,4.0,2011-6
+Pernambuco,12.0,2012-6
+Pernambuco,12.0,2013-6
+Pernambuco,3.0,2014-6
+Pernambuco,3.0,2015-6
+Pernambuco,4.0,2016-6
+Pernambuco,5.0,2017-6
+Pernambuco,5.0,1998-7
+Pernambuco,2.0,1999-7
+Pernambuco,0.0,2000-7
+Pernambuco,6.0,2001-7
+Pernambuco,8.0,2002-7
+Pernambuco,5.0,2003-7
+Pernambuco,13.0,2004-7
+Pernambuco,1.0,2005-7
+Pernambuco,1.0,2006-7
+Pernambuco,3.0,2007-7
+Pernambuco,0.0,2008-7
+Pernambuco,1.0,2009-7
+Pernambuco,7.0,2010-7
+Pernambuco,2.0,2011-7
+Pernambuco,11.0,2012-7
+Pernambuco,4.0,2013-7
+Pernambuco,11.0,2014-7
+Pernambuco,13.0,2015-7
+Pernambuco,17.0,2016-7
+Pernambuco,2.0,2017-7
+Pernambuco,12.0,1998-8
+Pernambuco,3.0,1999-8
+Pernambuco,31.0,2000-8
+Pernambuco,27.0,2001-8
+Pernambuco,37.0,2002-8
+Pernambuco,26.0,2003-8
+Pernambuco,41.0,2004-8
+Pernambuco,10.0,2005-8
+Pernambuco,8.0,2006-8
+Pernambuco,20.0,2007-8
+Pernambuco,2.0,2008-8
+Pernambuco,10.0,2009-8
+Pernambuco,29.0,2010-8
+Pernambuco,27.0,2011-8
+Pernambuco,27.0,2012-8
+Pernambuco,14.0,2013-8
+Pernambuco,23.0,2014-8
+Pernambuco,21.0,2015-8
+Pernambuco,42.0,2016-8
+Pernambuco,20.0,2017-8
+Pernambuco,177.0,1998-9
+Pernambuco,64.0,1999-9
+Pernambuco,130.0,2000-9
+Pernambuco,298.0,2001-9
+Pernambuco,374.0,2002-9
+Pernambuco,510.0,2003-9
+Pernambuco,192.0,2004-9
+Pernambuco,154.0,2005-9
+Pernambuco,147.0,2006-9
+Pernambuco,164.0,2007-9
+Pernambuco,92.0,2008-9
+Pernambuco,164.0,2009-9
+Pernambuco,179.0,2010-9
+Pernambuco,243.0,2011-9
+Pernambuco,192.0,2012-9
+Pernambuco,143.0,2013-9
+Pernambuco,63.0,2014-9
+Pernambuco,116.0,2015-9
+Pernambuco,171.0,2016-9
+Pernambuco,69.0,2017-9
+Pernambuco,372.0,1998-10
+Pernambuco,180.0,1999-10
+Pernambuco,411.0,2000-10
+Pernambuco,461.0,2001-10
+Pernambuco,638.0,2002-10
+Pernambuco,859.0,2003-10
+Pernambuco,545.0,2004-10
+Pernambuco,408.0,2005-10
+Pernambuco,310.0,2006-10
+Pernambuco,702.0,2007-10
+Pernambuco,274.0,2008-10
+Pernambuco,254.0,2009-10
+Pernambuco,347.0,2010-10
+Pernambuco,461.0,2011-10
+Pernambuco,222.0,2012-10
+Pernambuco,161.0,2013-10
+Pernambuco,174.0,2014-10
+Pernambuco,194.0,2015-10
+Pernambuco,319.0,2016-10
+Pernambuco,256.0,2017-10
+Pernambuco,141.0,1998-11
+Pernambuco,41.0,1999-11
+Pernambuco,64.0,2000-11
+Pernambuco,208.0,2001-11
+Pernambuco,521.0,2002-11
+Pernambuco,560.0,2003-11
+Pernambuco,465.0,2004-11
+Pernambuco,452.0,2005-11
+Pernambuco,385.0,2006-11
+Pernambuco,359.0,2007-11
+Pernambuco,363.0,2008-11
+Pernambuco,486.0,2009-11
+Pernambuco,831.0,2010-11
+Pernambuco,352.0,2011-11
+Pernambuco,181.0,2012-11
+Pernambuco,110.0,2013-11
+Pernambuco,111.0,2014-11
+Pernambuco,315.0,2015-11
+Pernambuco,191.0,2016-11
+Pernambuco,66.0,2017-11
+Pernambuco,59.0,1998-12
+Pernambuco,16.0,1999-12
+Pernambuco,22.0,2000-12
+Pernambuco,62.0,2001-12
+Pernambuco,259.0,2002-12
+Pernambuco,229.0,2003-12
+Pernambuco,373.0,2004-12
+Pernambuco,191.0,2005-12
+Pernambuco,207.0,2006-12
+Pernambuco,200.0,2007-12
+Pernambuco,203.0,2008-12
+Pernambuco,351.0,2009-12
+Pernambuco,117.0,2010-12
+Pernambuco,364.0,2011-12
+Pernambuco,108.0,2012-12
+Pernambuco,141.0,2013-12
+Pernambuco,101.0,2014-12
+Pernambuco,176.0,2015-12
+Pernambuco,161.0,2016-12
+Piau,0.0,1998-1
+Piau,21.0,1999-1
+Piau,5.0,2000-1
+Piau,29.0,2001-1
+Piau,33.0,2002-1
+Piau,86.0,2003-1
+Piau,42.0,2004-1
+Piau,94.0,2005-1
+Piau,133.0,2006-1
+Piau,123.0,2007-1
+Piau,61.0,2008-1
+Piau,79.0,2009-1
+Piau,99.0,2010-1
+Piau,39.0,2011-1
+Piau,80.0,2012-1
+Piau,72.0,2013-1
+Piau,79.0,2014-1
+Piau,92.0,2015-1
+Piau,94.0,2016-1
+Piau,85.0,2017-1
+Piau,0.0,1998-2
+Piau,22.0,1999-2
+Piau,12.0,2000-2
+Piau,0.0,2001-2
+Piau,160.0,2002-2
+Piau,3.0,2003-2
+Piau,20.0,2004-2
+Piau,26.0,2005-2
+Piau,23.0,2006-2
+Piau,11.0,2007-2
+Piau,21.0,2008-2
+Piau,19.0,2009-2
+Piau,54.0,2010-2
+Piau,11.0,2011-2
+Piau,31.0,2012-2
+Piau,68.0,2013-2
+Piau,14.0,2014-2
+Piau,38.0,2015-2
+Piau,97.0,2016-2
+Piau,24.0,2017-2
+Piau,0.0,1998-3
+Piau,4.0,1999-3
+Piau,14.0,2000-3
+Piau,2.0,2001-3
+Piau,63.0,2002-3
+Piau,15.0,2003-3
+Piau,27.0,2004-3
+Piau,13.0,2005-3
+Piau,18.0,2006-3
+Piau,31.0,2007-3
+Piau,4.0,2008-3
+Piau,17.0,2009-3
+Piau,47.0,2010-3
+Piau,15.0,2011-3
+Piau,71.0,2012-3
+Piau,14.0,2013-3
+Piau,88.0,2014-3
+Piau,35.0,2015-3
+Piau,53.0,2016-3
+Piau,25.0,2017-3
+Piau,0.0,1998-4
+Piau,10.0,1999-4
+Piau,15.0,2000-4
+Piau,1.0,2001-4
+Piau,87.0,2002-4
+Piau,22.0,2003-4
+Piau,10.0,2004-4
+Piau,3.0,2005-4
+Piau,1.0,2006-4
+Piau,9.0,2007-4
+Piau,7.0,2008-4
+Piau,8.0,2009-4
+Piau,56.0,2010-4
+Piau,16.0,2011-4
+Piau,119.0,2012-4
+Piau,34.0,2013-4
+Piau,63.0,2014-4
+Piau,50.0,2015-4
+Piau,35.0,2016-4
+Piau,25.0,2017-4
+Piau,0.0,1998-5
+Piau,8.0,1999-5
+Piau,25.0,2000-5
+Piau,36.0,2001-5
+Piau,84.0,2002-5
+Piau,13.0,2003-5
+Piau,80.0,2004-5
+Piau,22.0,2005-5
+Piau,0.0,2006-5
+Piau,52.0,2007-5
+Piau,12.0,2008-5
+Piau,12.0,2009-5
+Piau,231.0,2010-5
+Piau,77.0,2011-5
+Piau,334.0,2012-5
+Piau,40.0,2013-5
+Piau,138.0,2014-5
+Piau,66.0,2015-5
+Piau,60.0,2016-5
+Piau,36.0,2017-5
+Piau,46.0,1998-6
+Piau,47.0,1999-6
+Piau,18.0,2000-6
+Piau,87.0,2001-6
+Piau,161.0,2002-6
+Piau,88.0,2003-6
+Piau,239.0,2004-6
+Piau,171.0,2005-6
+Piau,40.0,2006-6
+Piau,303.0,2007-6
+Piau,33.0,2008-6
+Piau,56.0,2009-6
+Piau,208.0,2010-6
+Piau,462.0,2011-6
+Piau,834.0,2012-6
+Piau,263.0,2013-6
+Piau,373.0,2014-6
+Piau,283.0,2015-6
+Piau,153.0,2016-6
+Piau,193.0,2017-6
+Piau,189.0,1998-7
+Piau,123.0,1999-7
+Piau,75.0,2000-7
+Piau,337.0,2001-7
+Piau,534.0,2002-7
+Piau,407.0,2003-7
+Piau,564.0,2004-7
+Piau,445.0,2005-7
+Piau,150.0,2006-7
+Piau,919.0,2007-7
+Piau,97.0,2008-7
+Piau,302.0,2009-7
+Piau,1.696,2010-7
+Piau,864.0,2011-7
+Piau,1.755,2012-7
+Piau,361.0,2013-7
+Piau,1.177,2014-7
+Piau,690.0,2015-7
+Piau,754.0,2016-7
+Piau,643.0,2017-7
+Piau,711.0,1998-8
+Piau,499.0,1999-8
+Piau,415.0,2000-8
+Piau,1.133,2001-8
+Piau,2.28,2002-8
+Piau,864.0,2003-8
+Piau,1.002,2004-8
+Piau,943.0,2005-8
+Piau,911.0,2006-8
+Piau,3.551,2007-8
+Piau,290.0,2008-8
+Piau,790.0,2009-8
+Piau,4.035,2010-8
+Piau,1.9580000000000002,2011-8
+Piau,3.614,2012-8
+Piau,1.015,2013-8
+Piau,2.265,2014-8
+Piau,2.057,2015-8
+Piau,1.6469999999999998,2016-8
+Piau,1.5719999999999998,2017-8
+Piau,1.9909999999999999,1998-9
+Piau,872.0,1999-9
+Piau,1.099,2000-9
+Piau,2.401,2001-9
+Piau,2.475,2002-9
+Piau,3.3989999999999996,2003-9
+Piau,2.662,2004-9
+Piau,3.136,2005-9
+Piau,1.618,2006-9
+Piau,4.078,2007-9
+Piau,1.472,2008-9
+Piau,1.709,2009-9
+Piau,5.392,2010-9
+Piau,4.402,2011-9
+Piau,4.479,2012-9
+Piau,2.311,2013-9
+Piau,2.536,2014-9
+Piau,5.827999999999999,2015-9
+Piau,1.3940000000000001,2016-9
+Piau,3.4219999999999997,2017-9
+Piau,2.5860000000000003,1998-10
+Piau,1.4380000000000002,1999-10
+Piau,2.5580000000000003,2000-10
+Piau,3.742,2001-10
+Piau,2.7569999999999997,2002-10
+Piau,2.332,2003-10
+Piau,2.144,2004-10
+Piau,3.263,2005-10
+Piau,1.443,2006-10
+Piau,2.331,2007-10
+Piau,1.83,2008-10
+Piau,913.0,2009-10
+Piau,3.863,2010-10
+Piau,1.484,2011-10
+Piau,2.506,2012-10
+Piau,1.2690000000000001,2013-10
+Piau,1.788,2014-10
+Piau,4.0680000000000005,2015-10
+Piau,2.5980000000000003,2016-10
+Piau,3.0039999999999996,2017-10
+Piau,424.0,1998-11
+Piau,334.0,1999-11
+Piau,450.0,2000-11
+Piau,1.484,2001-11
+Piau,1.1740000000000002,2002-11
+Piau,1.248,2003-11
+Piau,1.798,2004-11
+Piau,1.599,2005-11
+Piau,740.0,2006-11
+Piau,939.0,2007-11
+Piau,594.0,2008-11
+Piau,1.3359999999999999,2009-11
+Piau,1.4169999999999998,2010-11
+Piau,825.0,2011-11
+Piau,447.0,2012-11
+Piau,640.0,2013-11
+Piau,717.0,2014-11
+Piau,897.0,2015-11
+Piau,1.126,2016-11
+Piau,449.0,2017-11
+Piau,119.0,1998-12
+Piau,74.0,1999-12
+Piau,79.0,2000-12
+Piau,230.0,2001-12
+Piau,373.0,2002-12
+Piau,459.0,2003-12
+Piau,788.0,2004-12
+Piau,486.0,2005-12
+Piau,339.0,2006-12
+Piau,317.0,2007-12
+Piau,329.0,2008-12
+Piau,570.0,2009-12
+Piau,357.0,2010-12
+Piau,362.0,2011-12
+Piau,334.0,2012-12
+Piau,468.0,2013-12
+Piau,346.0,2014-12
+Piau,626.0,2015-12
+Piau,374.0,2016-12
+Rio,0.0,1998-1
+Rio,0.0,1999-1
+Rio,0.0,2000-1
+Rio,0.0,2001-1
+Rio,0.0,2002-1
+Rio,0.0,2003-1
+Rio,1.0,2004-1
+Rio,5.0,2005-1
+Rio,12.0,2006-1
+Rio,0.0,2007-1
+Rio,1.0,2008-1
+Rio,3.0,2009-1
+Rio,13.0,2010-1
+Rio,10.0,2011-1
+Rio,12.0,2012-1
+Rio,9.0,2013-1
+Rio,35.0,2014-1
+Rio,97.0,2015-1
+Rio,9.0,2016-1
+Rio,15.0,2017-1
+Rio,0.0,1998-2
+Rio,0.0,1999-2
+Rio,1.0,2000-2
+Rio,3.0,2001-2
+Rio,1.0,2002-2
+Rio,10.0,2003-2
+Rio,8.0,2004-2
+Rio,4.0,2005-2
+Rio,7.0,2006-2
+Rio,15.0,2007-2
+Rio,2.0,2008-2
+Rio,5.0,2009-2
+Rio,73.0,2010-2
+Rio,36.0,2011-2
+Rio,11.0,2012-2
+Rio,12.0,2013-2
+Rio,116.0,2014-2
+Rio,36.0,2015-2
+Rio,16.0,2016-2
+Rio,34.0,2017-2
+Rio,0.0,1998-3
+Rio,0.0,1999-3
+Rio,0.0,2000-3
+Rio,0.0,2001-3
+Rio,1.0,2002-3
+Rio,23.0,2003-3
+Rio,4.0,2004-3
+Rio,7.0,2005-3
+Rio,8.0,2006-3
+Rio,27.0,2007-3
+Rio,2.0,2008-3
+Rio,5.0,2009-3
+Rio,10.0,2010-3
+Rio,7.0,2011-3
+Rio,20.0,2012-3
+Rio,9.0,2013-3
+Rio,38.0,2014-3
+Rio,23.0,2015-3
+Rio,16.0,2016-3
+Rio,10.0,2017-3
+Rio,0.0,1998-4
+Rio,1.0,1999-4
+Rio,2.0,2000-4
+Rio,2.0,2001-4
+Rio,8.0,2002-4
+Rio,11.0,2003-4
+Rio,3.0,2004-4
+Rio,1.0,2005-4
+Rio,8.0,2006-4
+Rio,9.0,2007-4
+Rio,2.0,2008-4
+Rio,1.0,2009-4
+Rio,10.0,2010-4
+Rio,12.0,2011-4
+Rio,12.0,2012-4
+Rio,9.0,2013-4
+Rio,25.0,2014-4
+Rio,24.0,2015-4
+Rio,45.0,2016-4
+Rio,12.0,2017-4
+Rio,0.0,1998-5
+Rio,7.0,1999-5
+Rio,5.0,2000-5
+Rio,4.0,2001-5
+Rio,4.0,2002-5
+Rio,1.0,2003-5
+Rio,0.0,2004-5
+Rio,11.0,2005-5
+Rio,4.0,2006-5
+Rio,2.0,2007-5
+Rio,0.0,2008-5
+Rio,37.0,2009-5
+Rio,6.0,2010-5
+Rio,17.0,2011-5
+Rio,18.0,2012-5
+Rio,16.0,2013-5
+Rio,20.0,2014-5
+Rio,21.0,2015-5
+Rio,30.0,2016-5
+Rio,15.0,2017-5
+Rio,3.0,1998-6
+Rio,8.0,1999-6
+Rio,14.0,2000-6
+Rio,13.0,2001-6
+Rio,13.0,2002-6
+Rio,13.0,2003-6
+Rio,19.0,2004-6
+Rio,16.0,2005-6
+Rio,19.0,2006-6
+Rio,3.0,2007-6
+Rio,4.0,2008-6
+Rio,33.0,2009-6
+Rio,7.0,2010-6
+Rio,33.0,2011-6
+Rio,14.0,2012-6
+Rio,17.0,2013-6
+Rio,54.0,2014-6
+Rio,33.0,2015-6
+Rio,37.0,2016-6
+Rio,68.0,2017-6
+Rio,21.0,1998-7
+Rio,14.0,1999-7
+Rio,22.0,2000-7
+Rio,57.0,2001-7
+Rio,17.0,2002-7
+Rio,42.0,2003-7
+Rio,23.0,2004-7
+Rio,20.0,2005-7
+Rio,54.0,2006-7
+Rio,15.0,2007-7
+Rio,14.0,2008-7
+Rio,56.0,2009-7
+Rio,55.0,2010-7
+Rio,121.0,2011-7
+Rio,50.0,2012-7
+Rio,58.0,2013-7
+Rio,62.0,2014-7
+Rio,74.0,2015-7
+Rio,131.0,2016-7
+Rio,70.0,2017-7
+Rio,21.0,1998-8
+Rio,88.0,1999-8
+Rio,34.0,2000-8
+Rio,129.0,2001-8
+Rio,184.0,2002-8
+Rio,191.0,2003-8
+Rio,74.0,2004-8
+Rio,98.0,2005-8
+Rio,79.0,2006-8
+Rio,189.0,2007-8
+Rio,19.0,2008-8
+Rio,91.0,2009-8
+Rio,316.0,2010-8
+Rio,250.0,2011-8
+Rio,72.0,2012-8
+Rio,74.0,2013-8
+Rio,199.0,2014-8
+Rio,158.0,2015-8
+Rio,241.0,2016-8
+Rio,164.0,2017-8
+Rio,44.0,1998-9
+Rio,192.0,1999-9
+Rio,16.0,2000-9
+Rio,60.0,2001-9
+Rio,45.0,2002-9
+Rio,166.0,2003-9
+Rio,205.0,2004-9
+Rio,46.0,2005-9
+Rio,197.0,2006-9
+Rio,223.0,2007-9
+Rio,132.0,2008-9
+Rio,90.0,2009-9
+Rio,353.0,2010-9
+Rio,510.0,2011-9
+Rio,172.0,2012-9
+Rio,117.0,2013-9
+Rio,318.0,2014-9
+Rio,85.0,2015-9
+Rio,195.0,2016-9
+Rio,728.0,2017-9
+Rio,6.0,1998-10
+Rio,30.0,1999-10
+Rio,25.0,2000-10
+Rio,33.0,2001-10
+Rio,313.0,2002-10
+Rio,81.0,2003-10
+Rio,26.0,2004-10
+Rio,116.0,2005-10
+Rio,12.0,2006-10
+Rio,137.0,2007-10
+Rio,42.0,2008-10
+Rio,18.0,2009-10
+Rio,35.0,2010-10
+Rio,114.0,2011-10
+Rio,163.0,2012-10
+Rio,44.0,2013-10
+Rio,500.0,2014-10
+Rio,96.0,2015-10
+Rio,30.0,2016-10
+Rio,238.0,2017-10
+Rio,6.0,1998-11
+Rio,16.0,1999-11
+Rio,2.0,2000-11
+Rio,4.0,2001-11
+Rio,11.0,2002-11
+Rio,5.0,2003-11
+Rio,49.0,2004-11
+Rio,12.0,2005-11
+Rio,1.0,2006-11
+Rio,1.0,2007-11
+Rio,0.0,2008-11
+Rio,27.0,2009-11
+Rio,23.0,2010-11
+Rio,20.0,2011-11
+Rio,13.0,2012-11
+Rio,28.0,2013-11
+Rio,36.0,2014-11
+Rio,6.0,2015-11
+Rio,19.0,2016-11
+Rio,43.0,2017-11
+Rio,1.0,1998-12
+Rio,0.0,1999-12
+Rio,0.0,2000-12
+Rio,2.0,2001-12
+Rio,8.0,2002-12
+Rio,10.0,2003-12
+Rio,9.0,2004-12
+Rio,2.0,2005-12
+Rio,0.0,2006-12
+Rio,0.0,2007-12
+Rio,6.0,2008-12
+Rio,1.0,2009-12
+Rio,10.0,2010-12
+Rio,3.0,2011-12
+Rio,18.0,2012-12
+Rio,12.0,2013-12
+Rio,25.0,2014-12
+Rio,11.0,2015-12
+Rio,5.0,2016-12
+Rio,0.0,1998-1
+Rio,32.0,1999-1
+Rio,1.0,2000-1
+Rio,2.0,2001-1
+Rio,4.0,2002-1
+Rio,113.0,2003-1
+Rio,44.0,2004-1
+Rio,153.0,2005-1
+Rio,93.0,2006-1
+Rio,63.0,2007-1
+Rio,70.0,2008-1
+Rio,110.0,2009-1
+Rio,32.0,2010-1
+Rio,15.0,2011-1
+Rio,72.0,2012-1
+Rio,25.0,2013-1
+Rio,34.0,2014-1
+Rio,45.0,2015-1
+Rio,15.0,2016-1
+Rio,28.0,2017-1
+Rio,0.0,1998-2
+Rio,11.0,1999-2
+Rio,7.0,2000-2
+Rio,0.0,2001-2
+Rio,18.0,2002-2
+Rio,9.0,2003-2
+Rio,5.0,2004-2
+Rio,42.0,2005-2
+Rio,21.0,2006-2
+Rio,9.0,2007-2
+Rio,25.0,2008-2
+Rio,8.0,2009-2
+Rio,12.0,2010-2
+Rio,5.0,2011-2
+Rio,13.0,2012-2
+Rio,24.0,2013-2
+Rio,8.0,2014-2
+Rio,15.0,2015-2
+Rio,2.0,2016-2
+Rio,10.0,2017-2
+Rio,0.0,1998-3
+Rio,9.0,1999-3
+Rio,11.0,2000-3
+Rio,0.0,2001-3
+Rio,3.0,2002-3
+Rio,1.0,2003-3
+Rio,1.0,2004-3
+Rio,15.0,2005-3
+Rio,8.0,2006-3
+Rio,7.0,2007-3
+Rio,3.0,2008-3
+Rio,2.0,2009-3
+Rio,23.0,2010-3
+Rio,3.0,2011-3
+Rio,2.0,2012-3
+Rio,6.0,2013-3
+Rio,6.0,2014-3
+Rio,3.0,2015-3
+Rio,1.0,2016-3
+Rio,3.0,2017-3
+Rio,0.0,1998-4
+Rio,21.0,1999-4
+Rio,16.0,2000-4
+Rio,10.0,2001-4
+Rio,0.0,2002-4
+Rio,2.0,2003-4
+Rio,3.0,2004-4
+Rio,2.0,2005-4
+Rio,2.0,2006-4
+Rio,1.0,2007-4
+Rio,0.0,2008-4
+Rio,1.0,2009-4
+Rio,7.0,2010-4
+Rio,0.0,2011-4
+Rio,4.0,2012-4
+Rio,7.0,2013-4
+Rio,2.0,2014-4
+Rio,4.0,2015-4
+Rio,0.0,2016-4
+Rio,6.0,2017-4
+Rio,0.0,1998-5
+Rio,1.0,1999-5
+Rio,3.0,2000-5
+Rio,56.0,2001-5
+Rio,6.0,2002-5
+Rio,0.0,2003-5
+Rio,2.0,2004-5
+Rio,3.0,2005-5
+Rio,0.0,2006-5
+Rio,2.0,2007-5
+Rio,0.0,2008-5
+Rio,0.0,2009-5
+Rio,3.0,2010-5
+Rio,0.0,2011-5
+Rio,14.0,2012-5
+Rio,2.0,2013-5
+Rio,2.0,2014-5
+Rio,4.0,2015-5
+Rio,1.0,2016-5
+Rio,2.0,2017-5
+Rio,1.0,1998-6
+Rio,4.0,1999-6
+Rio,8.0,2000-6
+Rio,13.0,2001-6
+Rio,1.0,2002-6
+Rio,1.0,2003-6
+Rio,2.0,2004-6
+Rio,0.0,2005-6
+Rio,0.0,2006-6
+Rio,0.0,2007-6
+Rio,0.0,2008-6
+Rio,0.0,2009-6
+Rio,1.0,2010-6
+Rio,1.0,2011-6
+Rio,5.0,2012-6
+Rio,1.0,2013-6
+Rio,2.0,2014-6
+Rio,5.0,2015-6
+Rio,4.0,2016-6
+Rio,3.0,2017-6
+Rio,5.0,1998-7
+Rio,7.0,1999-7
+Rio,5.0,2000-7
+Rio,25.0,2001-7
+Rio,7.0,2002-7
+Rio,7.0,2003-7
+Rio,5.0,2004-7
+Rio,2.0,2005-7
+Rio,0.0,2006-7
+Rio,7.0,2007-7
+Rio,0.0,2008-7
+Rio,0.0,2009-7
+Rio,7.0,2010-7
+Rio,0.0,2011-7
+Rio,3.0,2012-7
+Rio,0.0,2013-7
+Rio,2.0,2014-7
+Rio,3.0,2015-7
+Rio,13.0,2016-7
+Rio,4.0,2017-7
+Rio,4.0,1998-8
+Rio,40.0,1999-8
+Rio,29.0,2000-8
+Rio,55.0,2001-8
+Rio,48.0,2002-8
+Rio,97.0,2003-8
+Rio,15.0,2004-8
+Rio,9.0,2005-8
+Rio,13.0,2006-8
+Rio,26.0,2007-8
+Rio,2.0,2008-8
+Rio,1.0,2009-8
+Rio,24.0,2010-8
+Rio,10.0,2011-8
+Rio,23.0,2012-8
+Rio,2.0,2013-8
+Rio,21.0,2014-8
+Rio,16.0,2015-8
+Rio,24.0,2016-8
+Rio,21.0,2017-8
+Rio,51.0,1998-9
+Rio,35.0,1999-9
+Rio,17.0,2000-9
+Rio,45.0,2001-9
+Rio,52.0,2002-9
+Rio,112.0,2003-9
+Rio,47.0,2004-9
+Rio,37.0,2005-9
+Rio,50.0,2006-9
+Rio,50.0,2007-9
+Rio,17.0,2008-9
+Rio,29.0,2009-9
+Rio,50.0,2010-9
+Rio,22.0,2011-9
+Rio,41.0,2012-9
+Rio,7.0,2013-9
+Rio,30.0,2014-9
+Rio,36.0,2015-9
+Rio,44.0,2016-9
+Rio,48.0,2017-9
+Rio,55.0,1998-10
+Rio,40.0,1999-10
+Rio,28.0,2000-10
+Rio,34.0,2001-10
+Rio,140.0,2002-10
+Rio,276.0,2003-10
+Rio,89.0,2004-10
+Rio,168.0,2005-10
+Rio,85.0,2006-10
+Rio,88.0,2007-10
+Rio,53.0,2008-10
+Rio,84.0,2009-10
+Rio,111.0,2010-10
+Rio,76.0,2011-10
+Rio,74.0,2012-10
+Rio,71.0,2013-10
+Rio,75.0,2014-10
+Rio,129.0,2015-10
+Rio,129.0,2016-10
+Rio,85.0,2017-10
+Rio,41.0,1998-11
+Rio,62.0,1999-11
+Rio,9.0,2000-11
+Rio,41.0,2001-11
+Rio,178.0,2002-11
+Rio,366.0,2003-11
+Rio,164.0,2004-11
+Rio,249.0,2005-11
+Rio,148.0,2006-11
+Rio,130.0,2007-11
+Rio,82.0,2008-11
+Rio,172.0,2009-11
+Rio,212.0,2010-11
+Rio,144.0,2011-11
+Rio,69.0,2012-11
+Rio,77.0,2013-11
+Rio,124.0,2014-11
+Rio,105.0,2015-11
+Rio,93.0,2016-11
+Rio,89.0,2017-11
+Rio,19.0,1998-12
+Rio,29.0,1999-12
+Rio,11.0,2000-12
+Rio,20.0,2001-12
+Rio,222.0,2002-12
+Rio,278.0,2003-12
+Rio,284.0,2004-12
+Rio,149.0,2005-12
+Rio,101.0,2006-12
+Rio,80.0,2007-12
+Rio,126.0,2008-12
+Rio,221.0,2009-12
+Rio,54.0,2010-12
+Rio,125.0,2011-12
+Rio,75.0,2012-12
+Rio,46.0,2013-12
+Rio,47.0,2014-12
+Rio,74.0,2015-12
+Rio,75.0,2016-12
+Rio,0.0,1998-1
+Rio,63.0,1999-1
+Rio,126.0,2000-1
+Rio,12.0,2001-1
+Rio,265.0,2002-1
+Rio,58.0,2003-1
+Rio,70.0,2004-1
+Rio,152.0,2005-1
+Rio,46.0,2006-1
+Rio,37.0,2007-1
+Rio,42.0,2008-1
+Rio,65.0,2009-1
+Rio,22.0,2010-1
+Rio,33.0,2011-1
+Rio,61.0,2012-1
+Rio,22.0,2013-1
+Rio,53.0,2014-1
+Rio,51.0,2015-1
+Rio,68.0,2016-1
+Rio,28.0,2017-1
+Rio,0.0,1998-2
+Rio,35.0,1999-2
+Rio,43.0,2000-2
+Rio,32.0,2001-2
+Rio,38.0,2002-2
+Rio,13.0,2003-2
+Rio,52.0,2004-2
+Rio,36.0,2005-2
+Rio,34.0,2006-2
+Rio,24.0,2007-2
+Rio,30.0,2008-2
+Rio,15.0,2009-2
+Rio,23.0,2010-2
+Rio,26.0,2011-2
+Rio,39.0,2012-2
+Rio,43.0,2013-2
+Rio,37.0,2014-2
+Rio,41.0,2015-2
+Rio,55.0,2016-2
+Rio,31.0,2017-2
+Rio,0.0,1998-3
+Rio,38.0,1999-3
+Rio,51.0,2000-3
+Rio,11.0,2001-3
+Rio,26.0,2002-3
+Rio,27.0,2003-3
+Rio,149.0,2004-3
+Rio,153.0,2005-3
+Rio,76.0,2006-3
+Rio,8.0,2007-3
+Rio,38.0,2008-3
+Rio,41.0,2009-3
+Rio,21.0,2010-3
+Rio,31.0,2011-3
+Rio,50.0,2012-3
+Rio,44.0,2013-3
+Rio,58.0,2014-3
+Rio,108.0,2015-3
+Rio,30.0,2016-3
+Rio,34.0,2017-3
+Rio,0.0,1998-4
+Rio,12.0,1999-4
+Rio,1.0,2000-4
+Rio,3.0,2001-4
+Rio,6.0,2002-4
+Rio,30.0,2003-4
+Rio,98.0,2004-4
+Rio,14.0,2005-4
+Rio,59.0,2006-4
+Rio,4.0,2007-4
+Rio,110.0,2008-4
+Rio,145.0,2009-4
+Rio,72.0,2010-4
+Rio,41.0,2011-4
+Rio,41.0,2012-4
+Rio,47.0,2013-4
+Rio,60.0,2014-4
+Rio,175.0,2015-4
+Rio,32.0,2016-4
+Rio,51.0,2017-4
+Rio,0.0,1998-5
+Rio,13.0,1999-5
+Rio,4.0,2000-5
+Rio,4.0,2001-5
+Rio,7.0,2002-5
+Rio,18.0,2003-5
+Rio,4.0,2004-5
+Rio,24.0,2005-5
+Rio,24.0,2006-5
+Rio,3.0,2007-5
+Rio,20.0,2008-5
+Rio,177.0,2009-5
+Rio,9.0,2010-5
+Rio,20.0,2011-5
+Rio,112.0,2012-5
+Rio,14.0,2013-5
+Rio,63.0,2014-5
+Rio,169.0,2015-5
+Rio,37.0,2016-5
+Rio,43.0,2017-5
+Rio,0.0,1998-6
+Rio,9.0,1999-6
+Rio,0.0,2000-6
+Rio,1.0,2001-6
+Rio,4.0,2002-6
+Rio,14.0,2003-6
+Rio,52.0,2004-6
+Rio,50.0,2005-6
+Rio,7.0,2006-6
+Rio,10.0,2007-6
+Rio,16.0,2008-6
+Rio,30.0,2009-6
+Rio,4.0,2010-6
+Rio,12.0,2011-6
+Rio,86.0,2012-6
+Rio,10.0,2013-6
+Rio,62.0,2014-6
+Rio,68.0,2015-6
+Rio,261.0,2016-6
+Rio,103.0,2017-6
+Rio,0.0,1998-7
+Rio,10.0,1999-7
+Rio,6.0,2000-7
+Rio,6.0,2001-7
+Rio,93.0,2002-7
+Rio,55.0,2003-7
+Rio,156.0,2004-7
+Rio,47.0,2005-7
+Rio,45.0,2006-7
+Rio,7.0,2007-7
+Rio,25.0,2008-7
+Rio,47.0,2009-7
+Rio,34.0,2010-7
+Rio,45.0,2011-7
+Rio,134.0,2012-7
+Rio,42.0,2013-7
+Rio,209.0,2014-7
+Rio,60.0,2015-7
+Rio,865.0,2016-7
+Rio,885.0,2017-7
+Rio,9.0,1998-8
+Rio,24.0,1999-8
+Rio,18.0,2000-8
+Rio,36.0,2001-8
+Rio,824.0,2002-8
+Rio,1.419,2003-8
+Rio,403.0,2004-8
+Rio,120.0,2005-8
+Rio,642.0,2006-8
+Rio,258.0,2007-8
+Rio,56.0,2008-8
+Rio,1.057,2009-8
+Rio,267.0,2010-8
+Rio,116.0,2011-8
+Rio,410.0,2012-8
+Rio,156.0,2013-8
+Rio,1.168,2014-8
+Rio,414.0,2015-8
+Rio,1.111,2016-8
+Rio,819.0,2017-8
+Rio,60.0,1998-9
+Rio,19.0,1999-9
+Rio,27.0,2000-9
+Rio,2.0,2001-9
+Rio,226.0,2002-9
+Rio,828.0,2003-9
+Rio,431.0,2004-9
+Rio,189.0,2005-9
+Rio,444.0,2006-9
+Rio,573.0,2007-9
+Rio,97.0,2008-9
+Rio,39.0,2009-9
+Rio,250.0,2010-9
+Rio,449.0,2011-9
+Rio,113.0,2012-9
+Rio,290.0,2013-9
+Rio,224.0,2014-9
+Rio,222.0,2015-9
+Rio,628.0,2016-9
+Rio,343.0,2017-9
+Rio,169.0,1998-10
+Rio,56.0,1999-10
+Rio,10.0,2000-10
+Rio,13.0,2001-10
+Rio,10.0,2002-10
+Rio,360.0,2003-10
+Rio,680.0,2004-10
+Rio,83.0,2005-10
+Rio,160.0,2006-10
+Rio,21.0,2007-10
+Rio,135.0,2008-10
+Rio,148.0,2009-10
+Rio,95.0,2010-10
+Rio,74.0,2011-10
+Rio,91.0,2012-10
+Rio,104.0,2013-10
+Rio,110.0,2014-10
+Rio,70.0,2015-10
+Rio,93.0,2016-10
+Rio,101.0,2017-10
+Rio,28.0,1998-11
+Rio,103.0,1999-11
+Rio,18.0,2000-11
+Rio,49.0,2001-11
+Rio,117.0,2002-11
+Rio,121.0,2003-11
+Rio,161.0,2004-11
+Rio,227.0,2005-11
+Rio,27.0,2006-11
+Rio,13.0,2007-11
+Rio,14.0,2008-11
+Rio,4.0,2009-11
+Rio,90.0,2010-11
+Rio,117.0,2011-11
+Rio,74.0,2012-11
+Rio,110.0,2013-11
+Rio,68.0,2014-11
+Rio,30.0,2015-11
+Rio,105.0,2016-11
+Rio,137.0,2017-11
+Rio,605.0,1998-12
+Rio,1.11,1999-12
+Rio,80.0,2000-12
+Rio,80.0,2001-12
+Rio,45.0,2002-12
+Rio,98.0,2003-12
+Rio,99.0,2004-12
+Rio,35.0,2005-12
+Rio,15.0,2006-12
+Rio,25.0,2007-12
+Rio,32.0,2008-12
+Rio,15.0,2009-12
+Rio,103.0,2010-12
+Rio,69.0,2011-12
+Rio,38.0,2012-12
+Rio,62.0,2013-12
+Rio,31.0,2014-12
+Rio,42.0,2015-12
+Rio,79.0,2016-12
+Rondonia,0.0,1998-1
+Rondonia,1.0,1999-1
+Rondonia,0.0,2000-1
+Rondonia,0.0,2001-1
+Rondonia,6.0,2002-1
+Rondonia,62.0,2003-1
+Rondonia,30.0,2004-1
+Rondonia,99.0,2005-1
+Rondonia,16.0,2006-1
+Rondonia,33.0,2007-1
+Rondonia,4.0,2008-1
+Rondonia,17.0,2009-1
+Rondonia,18.0,2010-1
+Rondonia,1.0,2011-1
+Rondonia,2.0,2012-1
+Rondonia,7.0,2013-1
+Rondonia,12.0,2014-1
+Rondonia,30.0,2015-1
+Rondonia,93.0,2016-1
+Rondonia,44.0,2017-1
+Rondonia,0.0,1998-2
+Rondonia,1.0,1999-2
+Rondonia,6.0,2000-2
+Rondonia,2.0,2001-2
+Rondonia,8.0,2002-2
+Rondonia,10.0,2003-2
+Rondonia,12.0,2004-2
+Rondonia,42.0,2005-2
+Rondonia,17.0,2006-2
+Rondonia,8.0,2007-2
+Rondonia,7.0,2008-2
+Rondonia,1.0,2009-2
+Rondonia,9.0,2010-2
+Rondonia,2.0,2011-2
+Rondonia,9.0,2012-2
+Rondonia,8.0,2013-2
+Rondonia,5.0,2014-2
+Rondonia,22.0,2015-2
+Rondonia,88.0,2016-2
+Rondonia,10.0,2017-2
+Rondonia,0.0,1998-3
+Rondonia,8.0,1999-3
+Rondonia,9.0,2000-3
+Rondonia,0.0,2001-3
+Rondonia,1.0,2002-3
+Rondonia,13.0,2003-3
+Rondonia,20.0,2004-3
+Rondonia,17.0,2005-3
+Rondonia,15.0,2006-3
+Rondonia,20.0,2007-3
+Rondonia,2.0,2008-3
+Rondonia,12.0,2009-3
+Rondonia,11.0,2010-3
+Rondonia,6.0,2011-3
+Rondonia,6.0,2012-3
+Rondonia,23.0,2013-3
+Rondonia,13.0,2014-3
+Rondonia,15.0,2015-3
+Rondonia,25.0,2016-3
+Rondonia,21.0,2017-3
+Rondonia,0.0,1998-4
+Rondonia,3.0,1999-4
+Rondonia,0.0,2000-4
+Rondonia,0.0,2001-4
+Rondonia,3.0,2002-4
+Rondonia,10.0,2003-4
+Rondonia,14.0,2004-4
+Rondonia,7.0,2005-4
+Rondonia,0.0,2006-4
+Rondonia,0.0,2007-4
+Rondonia,8.0,2008-4
+Rondonia,3.0,2009-4
+Rondonia,19.0,2010-4
+Rondonia,8.0,2011-4
+Rondonia,12.0,2012-4
+Rondonia,9.0,2013-4
+Rondonia,15.0,2014-4
+Rondonia,15.0,2015-4
+Rondonia,59.0,2016-4
+Rondonia,19.0,2017-4
+Rondonia,0.0,1998-5
+Rondonia,3.0,1999-5
+Rondonia,13.0,2000-5
+Rondonia,5.0,2001-5
+Rondonia,10.0,2002-5
+Rondonia,21.0,2003-5
+Rondonia,9.0,2004-5
+Rondonia,38.0,2005-5
+Rondonia,7.0,2006-5
+Rondonia,4.0,2007-5
+Rondonia,1.0,2008-5
+Rondonia,6.0,2009-5
+Rondonia,41.0,2010-5
+Rondonia,54.0,2011-5
+Rondonia,22.0,2012-5
+Rondonia,9.0,2013-5
+Rondonia,28.0,2014-5
+Rondonia,13.0,2015-5
+Rondonia,44.0,2016-5
+Rondonia,31.0,2017-5
+Rondonia,26.0,1998-6
+Rondonia,10.0,1999-6
+Rondonia,54.0,2000-6
+Rondonia,31.0,2001-6
+Rondonia,141.0,2002-6
+Rondonia,74.0,2003-6
+Rondonia,151.0,2004-6
+Rondonia,153.0,2005-6
+Rondonia,40.0,2006-6
+Rondonia,71.0,2007-6
+Rondonia,11.0,2008-6
+Rondonia,13.0,2009-6
+Rondonia,44.0,2010-6
+Rondonia,130.0,2011-6
+Rondonia,32.0,2012-6
+Rondonia,22.0,2013-6
+Rondonia,92.0,2014-6
+Rondonia,119.0,2015-6
+Rondonia,170.0,2016-6
+Rondonia,192.0,2017-6
+Rondonia,365.0,1998-7
+Rondonia,135.0,1999-7
+Rondonia,117.0,2000-7
+Rondonia,74.0,2001-7
+Rondonia,539.0,2002-7
+Rondonia,516.0,2003-7
+Rondonia,1.2329999999999999,2004-7
+Rondonia,798.0,2005-7
+Rondonia,314.0,2006-7
+Rondonia,187.0,2007-7
+Rondonia,138.0,2008-7
+Rondonia,110.0,2009-7
+Rondonia,747.0,2010-7
+Rondonia,293.0,2011-7
+Rondonia,205.0,2012-7
+Rondonia,117.0,2013-7
+Rondonia,192.0,2014-7
+Rondonia,423.0,2015-7
+Rondonia,969.0,2016-7
+Rondonia,1.28,2017-7
+Rondonia,2.254,1998-8
+Rondonia,1.976,1999-8
+Rondonia,2.197,2000-8
+Rondonia,2.1319999999999997,2001-8
+Rondonia,3.465,2002-8
+Rondonia,7.06,2003-8
+Rondonia,6.893,2004-8
+Rondonia,6.672000000000001,2005-8
+Rondonia,3.1239999999999997,2006-8
+Rondonia,4.7860000000000005,2007-8
+Rondonia,1.251,2008-8
+Rondonia,484.0,2009-8
+Rondonia,4.388,2010-8
+Rondonia,1.161,2011-8
+Rondonia,2.209,2012-8
+Rondonia,885.0,2013-8
+Rondonia,3.0380000000000003,2014-8
+Rondonia,3.762,2015-8
+Rondonia,3.675,2016-8
+Rondonia,4.287,2017-8
+Rondonia,3.753,1998-9
+Rondonia,3.062,1999-9
+Rondonia,2.438,2000-9
+Rondonia,1.9269999999999998,2001-9
+Rondonia,7.067,2002-9
+Rondonia,6.89,2003-9
+Rondonia,13.05,2004-9
+Rondonia,13.972000000000001,2005-9
+Rondonia,9.92,2006-9
+Rondonia,6.832000000000001,2007-9
+Rondonia,3.7260000000000004,2008-9
+Rondonia,1.869,2009-9
+Rondonia,4.893,2010-9
+Rondonia,1.7819999999999998,2011-9
+Rondonia,2.471,2012-9
+Rondonia,1.776,2013-9
+Rondonia,2.8,2014-9
+Rondonia,6.129,2015-9
+Rondonia,4.208,2016-9
+Rondonia,5.638,2017-9
+Rondonia,483.0,1998-10
+Rondonia,1.8840000000000001,1999-10
+Rondonia,644.0,2000-10
+Rondonia,796.0,2001-10
+Rondonia,3.554,2002-10
+Rondonia,4.962,2003-10
+Rondonia,3.094,2004-10
+Rondonia,2.559,2005-10
+Rondonia,1.148,2006-10
+Rondonia,2.023,2007-10
+Rondonia,1.482,2008-10
+Rondonia,1.444,2009-10
+Rondonia,1.307,2010-10
+Rondonia,822.0,2011-10
+Rondonia,1.229,2012-10
+Rondonia,555.0,2013-10
+Rondonia,1.063,2014-10
+Rondonia,2.5980000000000003,2015-10
+Rondonia,1.844,2016-10
+Rondonia,2.19,2017-10
+Rondonia,3.0,1998-11
+Rondonia,41.0,1999-11
+Rondonia,13.0,2000-11
+Rondonia,91.0,2001-11
+Rondonia,639.0,2002-11
+Rondonia,526.0,2003-11
+Rondonia,452.0,2004-11
+Rondonia,465.0,2005-11
+Rondonia,253.0,2006-11
+Rondonia,53.0,2007-11
+Rondonia,78.0,2008-11
+Rondonia,128.0,2009-11
+Rondonia,238.0,2010-11
+Rondonia,245.0,2011-11
+Rondonia,174.0,2012-11
+Rondonia,108.0,2013-11
+Rondonia,202.0,2014-11
+Rondonia,1.002,2015-11
+Rondonia,401.0,2016-11
+Rondonia,372.0,2017-11
+Rondonia,33.0,1998-12
+Rondonia,0.0,1999-12
+Rondonia,7.0,2000-12
+Rondonia,1.0,2001-12
+Rondonia,91.0,2002-12
+Rondonia,214.0,2003-12
+Rondonia,208.0,2004-12
+Rondonia,36.0,2005-12
+Rondonia,4.0,2006-12
+Rondonia,6.0,2007-12
+Rondonia,2.0,2008-12
+Rondonia,9.0,2009-12
+Rondonia,158.0,2010-12
+Rondonia,37.0,2011-12
+Rondonia,50.0,2012-12
+Rondonia,143.0,2013-12
+Rondonia,144.0,2014-12
+Rondonia,282.0,2015-12
+Rondonia,148.0,2016-12
+Roraima,0.0,1998-1
+Roraima,15.0,1999-1
+Roraima,18.0,2000-1
+Roraima,101.0,2001-1
+Roraima,302.0,2002-1
+Roraima,547.0,2003-1
+Roraima,355.0,2004-1
+Roraima,106.0,2005-1
+Roraima,70.0,2006-1
+Roraima,194.0,2007-1
+Roraima,245.0,2008-1
+Roraima,45.0,2009-1
+Roraima,351.0,2010-1
+Roraima,225.0,2011-1
+Roraima,217.0,2012-1
+Roraima,397.0,2013-1
+Roraima,355.0,2014-1
+Roraima,330.0,2015-1
+Roraima,1.754,2016-1
+Roraima,108.0,2017-1
+Roraima,0.0,1998-2
+Roraima,20.0,1999-2
+Roraima,57.0,2000-2
+Roraima,646.0,2001-2
+Roraima,476.0,2002-2
+Roraima,767.0,2003-2
+Roraima,259.0,2004-2
+Roraima,105.0,2005-2
+Roraima,283.0,2006-2
+Roraima,796.0,2007-2
+Roraima,138.0,2008-2
+Roraima,153.0,2009-2
+Roraima,470.0,2010-2
+Roraima,112.0,2011-2
+Roraima,130.0,2012-2
+Roraima,62.0,2013-2
+Roraima,226.0,2014-2
+Roraima,418.0,2015-2
+Roraima,171.0,2016-2
+Roraima,129.0,2017-2
+Roraima,0.0,1998-3
+Roraima,98.0,1999-3
+Roraima,125.0,2000-3
+Roraima,1.1079999999999999,2001-3
+Roraima,820.0,2002-3
+Roraima,1.131,2003-3
+Roraima,276.0,2004-3
+Roraima,244.0,2005-3
+Roraima,385.0,2006-3
+Roraima,665.0,2007-3
+Roraima,422.0,2008-3
+Roraima,176.0,2009-3
+Roraima,417.0,2010-3
+Roraima,91.0,2011-3
+Roraima,99.0,2012-3
+Roraima,179.0,2013-3
+Roraima,494.0,2014-3
+Roraima,163.0,2015-3
+Roraima,1.081,2016-3
+Roraima,216.0,2017-3
+Roraima,0.0,1998-4
+Roraima,16.0,1999-4
+Roraima,0.0,2000-4
+Roraima,380.0,2001-4
+Roraima,41.0,2002-4
+Roraima,268.0,2003-4
+Roraima,182.0,2004-4
+Roraima,22.0,2005-4
+Roraima,201.0,2006-4
+Roraima,58.0,2007-4
+Roraima,175.0,2008-4
+Roraima,115.0,2009-4
+Roraima,15.0,2010-4
+Roraima,108.0,2011-4
+Roraima,25.0,2012-4
+Roraima,87.0,2013-4
+Roraima,162.0,2014-4
+Roraima,278.0,2015-4
+Roraima,126.0,2016-4
+Roraima,51.0,2017-4
+Roraima,0.0,1998-5
+Roraima,0.0,1999-5
+Roraima,7.0,2000-5
+Roraima,9.0,2001-5
+Roraima,0.0,2002-5
+Roraima,0.0,2003-5
+Roraima,2.0,2004-5
+Roraima,1.0,2005-5
+Roraima,0.0,2006-5
+Roraima,0.0,2007-5
+Roraima,8.0,2008-5
+Roraima,219.0,2009-5
+Roraima,3.0,2010-5
+Roraima,4.0,2011-5
+Roraima,18.0,2012-5
+Roraima,4.0,2013-5
+Roraima,58.0,2014-5
+Roraima,12.0,2015-5
+Roraima,22.0,2016-5
+Roraima,29.0,2017-5
+Roraima,0.0,1998-6
+Roraima,3.0,1999-6
+Roraima,0.0,2000-6
+Roraima,1.0,2001-6
+Roraima,0.0,2002-6
+Roraima,0.0,2003-6
+Roraima,6.0,2004-6
+Roraima,5.0,2005-6
+Roraima,0.0,2006-6
+Roraima,1.0,2007-6
+Roraima,0.0,2008-6
+Roraima,16.0,2009-6
+Roraima,0.0,2010-6
+Roraima,6.0,2011-6
+Roraima,22.0,2012-6
+Roraima,6.0,2013-6
+Roraima,4.0,2014-6
+Roraima,3.0,2015-6
+Roraima,7.0,2016-6
+Roraima,4.0,2017-6
+Roraima,1.0,1998-7
+Roraima,4.0,1999-7
+Roraima,0.0,2000-7
+Roraima,1.0,2001-7
+Roraima,7.0,2002-7
+Roraima,0.0,2003-7
+Roraima,2.0,2004-7
+Roraima,2.0,2005-7
+Roraima,0.0,2006-7
+Roraima,3.0,2007-7
+Roraima,0.0,2008-7
+Roraima,18.0,2009-7
+Roraima,1.0,2010-7
+Roraima,9.0,2011-7
+Roraima,2.0,2012-7
+Roraima,4.0,2013-7
+Roraima,9.0,2014-7
+Roraima,5.0,2015-7
+Roraima,0.0,2016-7
+Roraima,3.0,2017-7
+Roraima,0.0,1998-8
+Roraima,1.0,1999-8
+Roraima,9.0,2000-8
+Roraima,4.0,2001-8
+Roraima,7.0,2002-8
+Roraima,2.0,2003-8
+Roraima,18.0,2004-8
+Roraima,9.0,2005-8
+Roraima,4.0,2006-8
+Roraima,2.0,2007-8
+Roraima,4.0,2008-8
+Roraima,29.0,2009-8
+Roraima,3.0,2010-8
+Roraima,39.0,2011-8
+Roraima,4.0,2012-8
+Roraima,3.0,2013-8
+Roraima,12.0,2014-8
+Roraima,11.0,2015-8
+Roraima,11.0,2016-8
+Roraima,35.0,2017-8
+Roraima,2.0,1998-9
+Roraima,3.0,1999-9
+Roraima,12.0,2000-9
+Roraima,1.0,2001-9
+Roraima,48.0,2002-9
+Roraima,6.0,2003-9
+Roraima,9.0,2004-9
+Roraima,72.0,2005-9
+Roraima,40.0,2006-9
+Roraima,9.0,2007-9
+Roraima,17.0,2008-9
+Roraima,117.0,2009-9
+Roraima,18.0,2010-9
+Roraima,53.0,2011-9
+Roraima,67.0,2012-9
+Roraima,18.0,2013-9
+Roraima,67.0,2014-9
+Roraima,77.0,2015-9
+Roraima,19.0,2016-9
+Roraima,43.0,2017-9
+Roraima,1.0,1998-10
+Roraima,10.0,1999-10
+Roraima,25.0,2000-10
+Roraima,13.0,2001-10
+Roraima,191.0,2002-10
+Roraima,14.0,2003-10
+Roraima,53.0,2004-10
+Roraima,88.0,2005-10
+Roraima,135.0,2006-10
+Roraima,15.0,2007-10
+Roraima,78.0,2008-10
+Roraima,197.0,2009-10
+Roraima,64.0,2010-10
+Roraima,65.0,2011-10
+Roraima,152.0,2012-10
+Roraima,63.0,2013-10
+Roraima,61.0,2014-10
+Roraima,181.0,2015-10
+Roraima,101.0,2016-10
+Roraima,156.0,2017-10
+Roraima,1.0,1998-11
+Roraima,15.0,1999-11
+Roraima,32.0,2000-11
+Roraima,76.0,2001-11
+Roraima,133.0,2002-11
+Roraima,27.0,2003-11
+Roraima,135.0,2004-11
+Roraima,135.0,2005-11
+Roraima,26.0,2006-11
+Roraima,112.0,2007-11
+Roraima,39.0,2008-11
+Roraima,312.0,2009-11
+Roraima,27.0,2010-11
+Roraima,121.0,2011-11
+Roraima,187.0,2012-11
+Roraima,106.0,2013-11
+Roraima,143.0,2014-11
+Roraima,280.0,2015-11
+Roraima,71.0,2016-11
+Roraima,327.0,2017-11
+Roraima,16.0,1998-12
+Roraima,35.0,1999-12
+Roraima,77.0,2000-12
+Roraima,76.0,2001-12
+Roraima,199.0,2002-12
+Roraima,157.0,2003-12
+Roraima,160.0,2004-12
+Roraima,71.0,2005-12
+Roraima,101.0,2006-12
+Roraima,8.0,2007-12
+Roraima,5.0,2008-12
+Roraima,290.0,2009-12
+Roraima,73.0,2010-12
+Roraima,249.0,2011-12
+Roraima,78.0,2012-12
+Roraima,65.0,2013-12
+Roraima,277.0,2014-12
+Roraima,304.0,2015-12
+Roraima,136.0,2016-12
+Santa Catarina,0.0,1998-1
+Santa Catarina,11.0,1999-1
+Santa Catarina,14.0,2000-1
+Santa Catarina,11.0,2001-1
+Santa Catarina,22.0,2002-1
+Santa Catarina,45.0,2003-1
+Santa Catarina,37.0,2004-1
+Santa Catarina,46.0,2005-1
+Santa Catarina,41.0,2006-1
+Santa Catarina,9.0,2007-1
+Santa Catarina,25.0,2008-1
+Santa Catarina,21.0,2009-1
+Santa Catarina,2.0,2010-1
+Santa Catarina,9.0,2011-1
+Santa Catarina,14.0,2012-1
+Santa Catarina,18.0,2013-1
+Santa Catarina,58.0,2014-1
+Santa Catarina,28.0,2015-1
+Santa Catarina,53.0,2016-1
+Santa Catarina,46.0,2017-1
+Santa Catarina,0.0,1998-2
+Santa Catarina,2.0,1999-2
+Santa Catarina,8.0,2000-2
+Santa Catarina,0.0,2001-2
+Santa Catarina,5.0,2002-2
+Santa Catarina,43.0,2003-2
+Santa Catarina,29.0,2004-2
+Santa Catarina,46.0,2005-2
+Santa Catarina,18.0,2006-2
+Santa Catarina,14.0,2007-2
+Santa Catarina,29.0,2008-2
+Santa Catarina,7.0,2009-2
+Santa Catarina,15.0,2010-2
+Santa Catarina,1.0,2011-2
+Santa Catarina,13.0,2012-2
+Santa Catarina,12.0,2013-2
+Santa Catarina,27.0,2014-2
+Santa Catarina,23.0,2015-2
+Santa Catarina,10.0,2016-2
+Santa Catarina,31.0,2017-2
+Santa Catarina,0.0,1998-3
+Santa Catarina,7.0,1999-3
+Santa Catarina,46.0,2000-3
+Santa Catarina,1.0,2001-3
+Santa Catarina,12.0,2002-3
+Santa Catarina,58.0,2003-3
+Santa Catarina,73.0,2004-3
+Santa Catarina,92.0,2005-3
+Santa Catarina,48.0,2006-3
+Santa Catarina,23.0,2007-3
+Santa Catarina,14.0,2008-3
+Santa Catarina,33.0,2009-3
+Santa Catarina,9.0,2010-3
+Santa Catarina,8.0,2011-3
+Santa Catarina,65.0,2012-3
+Santa Catarina,14.0,2013-3
+Santa Catarina,15.0,2014-3
+Santa Catarina,37.0,2015-3
+Santa Catarina,21.0,2016-3
+Santa Catarina,12.0,2017-3
+Santa Catarina,0.0,1998-4
+Santa Catarina,0.0,1999-4
+Santa Catarina,7.0,2000-4
+Santa Catarina,1.0,2001-4
+Santa Catarina,7.0,2002-4
+Santa Catarina,120.0,2003-4
+Santa Catarina,59.0,2004-4
+Santa Catarina,25.0,2005-4
+Santa Catarina,30.0,2006-4
+Santa Catarina,2.0,2007-4
+Santa Catarina,31.0,2008-4
+Santa Catarina,57.0,2009-4
+Santa Catarina,19.0,2010-4
+Santa Catarina,5.0,2011-4
+Santa Catarina,40.0,2012-4
+Santa Catarina,46.0,2013-4
+Santa Catarina,34.0,2014-4
+Santa Catarina,32.0,2015-4
+Santa Catarina,36.0,2016-4
+Santa Catarina,26.0,2017-4
+Santa Catarina,0.0,1998-5
+Santa Catarina,1.0,1999-5
+Santa Catarina,0.0,2000-5
+Santa Catarina,2.0,2001-5
+Santa Catarina,3.0,2002-5
+Santa Catarina,84.0,2003-5
+Santa Catarina,2.0,2004-5
+Santa Catarina,21.0,2005-5
+Santa Catarina,33.0,2006-5
+Santa Catarina,2.0,2007-5
+Santa Catarina,15.0,2008-5
+Santa Catarina,33.0,2009-5
+Santa Catarina,1.0,2010-5
+Santa Catarina,16.0,2011-5
+Santa Catarina,60.0,2012-5
+Santa Catarina,52.0,2013-5
+Santa Catarina,42.0,2014-5
+Santa Catarina,70.0,2015-5
+Santa Catarina,26.0,2016-5
+Santa Catarina,36.0,2017-5
+Santa Catarina,2.0,1998-6
+Santa Catarina,0.0,1999-6
+Santa Catarina,2.0,2000-6
+Santa Catarina,1.0,2001-6
+Santa Catarina,0.0,2002-6
+Santa Catarina,68.0,2003-6
+Santa Catarina,127.0,2004-6
+Santa Catarina,58.0,2005-6
+Santa Catarina,32.0,2006-6
+Santa Catarina,11.0,2007-6
+Santa Catarina,2.0,2008-6
+Santa Catarina,14.0,2009-6
+Santa Catarina,1.0,2010-6
+Santa Catarina,26.0,2011-6
+Santa Catarina,42.0,2012-6
+Santa Catarina,31.0,2013-6
+Santa Catarina,3.0,2014-6
+Santa Catarina,104.0,2015-6
+Santa Catarina,79.0,2016-6
+Santa Catarina,70.0,2017-6
+Santa Catarina,0.0,1998-7
+Santa Catarina,2.0,1999-7
+Santa Catarina,21.0,2000-7
+Santa Catarina,5.0,2001-7
+Santa Catarina,82.0,2002-7
+Santa Catarina,43.0,2003-7
+Santa Catarina,94.0,2004-7
+Santa Catarina,90.0,2005-7
+Santa Catarina,74.0,2006-7
+Santa Catarina,12.0,2007-7
+Santa Catarina,46.0,2008-7
+Santa Catarina,26.0,2009-7
+Santa Catarina,31.0,2010-7
+Santa Catarina,31.0,2011-7
+Santa Catarina,42.0,2012-7
+Santa Catarina,69.0,2013-7
+Santa Catarina,82.0,2014-7
+Santa Catarina,45.0,2015-7
+Santa Catarina,480.0,2016-7
+Santa Catarina,591.0,2017-7
+Santa Catarina,0.0,1998-8
+Santa Catarina,51.0,1999-8
+Santa Catarina,69.0,2000-8
+Santa Catarina,24.0,2001-8
+Santa Catarina,702.0,2002-8
+Santa Catarina,1.5130000000000001,2003-8
+Santa Catarina,728.0,2004-8
+Santa Catarina,391.0,2005-8
+Santa Catarina,728.0,2006-8
+Santa Catarina,462.0,2007-8
+Santa Catarina,51.0,2008-8
+Santa Catarina,759.0,2009-8
+Santa Catarina,511.0,2010-8
+Santa Catarina,175.0,2011-8
+Santa Catarina,398.0,2012-8
+Santa Catarina,236.0,2013-8
+Santa Catarina,459.0,2014-8
+Santa Catarina,379.0,2015-8
+Santa Catarina,765.0,2016-8
+Santa Catarina,713.0,2017-8
+Santa Catarina,6.0,1998-9
+Santa Catarina,101.0,1999-9
+Santa Catarina,36.0,2000-9
+Santa Catarina,18.0,2001-9
+Santa Catarina,416.0,2002-9
+Santa Catarina,1.339,2003-9
+Santa Catarina,755.0,2004-9
+Santa Catarina,116.0,2005-9
+Santa Catarina,530.0,2006-9
+Santa Catarina,617.0,2007-9
+Santa Catarina,233.0,2008-9
+Santa Catarina,47.0,2009-9
+Santa Catarina,198.0,2010-9
+Santa Catarina,450.0,2011-9
+Santa Catarina,188.0,2012-9
+Santa Catarina,303.0,2013-9
+Santa Catarina,208.0,2014-9
+Santa Catarina,156.0,2015-9
+Santa Catarina,644.0,2016-9
+Santa Catarina,626.0,2017-9
+Santa Catarina,4.0,1998-10
+Santa Catarina,16.0,1999-10
+Santa Catarina,55.0,2000-10
+Santa Catarina,26.0,2001-10
+Santa Catarina,42.0,2002-10
+Santa Catarina,669.0,2003-10
+Santa Catarina,704.0,2004-10
+Santa Catarina,197.0,2005-10
+Santa Catarina,269.0,2006-10
+Santa Catarina,35.0,2007-10
+Santa Catarina,56.0,2008-10
+Santa Catarina,252.0,2009-10
+Santa Catarina,76.0,2010-10
+Santa Catarina,102.0,2011-10
+Santa Catarina,34.0,2012-10
+Santa Catarina,107.0,2013-10
+Santa Catarina,122.0,2014-10
+Santa Catarina,21.0,2015-10
+Santa Catarina,56.0,2016-10
+Santa Catarina,51.0,2017-10
+Santa Catarina,21.0,1998-11
+Santa Catarina,84.0,1999-11
+Santa Catarina,19.0,2000-11
+Santa Catarina,66.0,2001-11
+Santa Catarina,348.0,2002-11
+Santa Catarina,347.0,2003-11
+Santa Catarina,279.0,2004-11
+Santa Catarina,384.0,2005-11
+Santa Catarina,45.0,2006-11
+Santa Catarina,26.0,2007-11
+Santa Catarina,16.0,2008-11
+Santa Catarina,61.0,2009-11
+Santa Catarina,88.0,2010-11
+Santa Catarina,79.0,2011-11
+Santa Catarina,72.0,2012-11
+Santa Catarina,84.0,2013-11
+Santa Catarina,43.0,2014-11
+Santa Catarina,9.0,2015-11
+Santa Catarina,156.0,2016-11
+Santa Catarina,152.0,2017-11
+Santa Catarina,26.0,1998-12
+Santa Catarina,89.0,1999-12
+Santa Catarina,29.0,2000-12
+Santa Catarina,45.0,2001-12
+Santa Catarina,76.0,2002-12
+Santa Catarina,129.0,2003-12
+Santa Catarina,68.0,2004-12
+Santa Catarina,17.0,2005-12
+Santa Catarina,7.0,2006-12
+Santa Catarina,17.0,2007-12
+Santa Catarina,29.0,2008-12
+Santa Catarina,20.0,2009-12
+Santa Catarina,23.0,2010-12
+Santa Catarina,24.0,2011-12
+Santa Catarina,32.0,2012-12
+Santa Catarina,74.0,2013-12
+Santa Catarina,45.0,2014-12
+Santa Catarina,19.0,2015-12
+Santa Catarina,20.0,2016-12
+Sao Paulo,0.0,1998-1
+Sao Paulo,7.0,1999-1
+Sao Paulo,36.0,2000-1
+Sao Paulo,26.0,2001-1
+Sao Paulo,19.0,2002-1
+Sao Paulo,59.0,2003-1
+Sao Paulo,37.0,2004-1
+Sao Paulo,26.0,2005-1
+Sao Paulo,76.0,2006-1
+Sao Paulo,14.0,2007-1
+Sao Paulo,34.0,2008-1
+Sao Paulo,12.0,2009-1
+Sao Paulo,45.0,2010-1
+Sao Paulo,75.0,2011-1
+Sao Paulo,38.0,2012-1
+Sao Paulo,36.0,2013-1
+Sao Paulo,99.0,2014-1
+Sao Paulo,120.0,2015-1
+Sao Paulo,85.0,2016-1
+Sao Paulo,28.0,2017-1
+Sao Paulo,0.0,1998-2
+Sao Paulo,47.0,1999-2
+Sao Paulo,25.0,2000-2
+Sao Paulo,25.0,2001-2
+Sao Paulo,19.0,2002-2
+Sao Paulo,137.0,2003-2
+Sao Paulo,41.0,2004-2
+Sao Paulo,78.0,2005-2
+Sao Paulo,59.0,2006-2
+Sao Paulo,96.0,2007-2
+Sao Paulo,30.0,2008-2
+Sao Paulo,65.0,2009-2
+Sao Paulo,152.0,2010-2
+Sao Paulo,73.0,2011-2
+Sao Paulo,81.0,2012-2
+Sao Paulo,100.0,2013-2
+Sao Paulo,112.0,2014-2
+Sao Paulo,69.0,2015-2
+Sao Paulo,188.0,2016-2
+Sao Paulo,107.0,2017-2
+Sao Paulo,0.0,1998-3
+Sao Paulo,78.0,1999-3
+Sao Paulo,26.0,2000-3
+Sao Paulo,35.0,2001-3
+Sao Paulo,111.0,2002-3
+Sao Paulo,86.0,2003-3
+Sao Paulo,73.0,2004-3
+Sao Paulo,73.0,2005-3
+Sao Paulo,106.0,2006-3
+Sao Paulo,152.0,2007-3
+Sao Paulo,72.0,2008-3
+Sao Paulo,55.0,2009-3
+Sao Paulo,111.0,2010-3
+Sao Paulo,45.0,2011-3
+Sao Paulo,99.0,2012-3
+Sao Paulo,57.0,2013-3
+Sao Paulo,75.0,2014-3
+Sao Paulo,68.0,2015-3
+Sao Paulo,82.0,2016-3
+Sao Paulo,103.0,2017-3
+Sao Paulo,0.0,1998-4
+Sao Paulo,291.0,1999-4
+Sao Paulo,102.0,2000-4
+Sao Paulo,61.0,2001-4
+Sao Paulo,178.0,2002-4
+Sao Paulo,106.0,2003-4
+Sao Paulo,36.0,2004-4
+Sao Paulo,62.0,2005-4
+Sao Paulo,63.0,2006-4
+Sao Paulo,44.0,2007-4
+Sao Paulo,84.0,2008-4
+Sao Paulo,67.0,2009-4
+Sao Paulo,91.0,2010-4
+Sao Paulo,52.0,2011-4
+Sao Paulo,82.0,2012-4
+Sao Paulo,103.0,2013-4
+Sao Paulo,103.0,2014-4
+Sao Paulo,76.0,2015-4
+Sao Paulo,307.0,2016-4
+Sao Paulo,41.0,2017-4
+Sao Paulo,0.0,1998-5
+Sao Paulo,500.0,1999-5
+Sao Paulo,300.0,2000-5
+Sao Paulo,211.0,2001-5
+Sao Paulo,319.0,2002-5
+Sao Paulo,69.0,2003-5
+Sao Paulo,60.0,2004-5
+Sao Paulo,212.0,2005-5
+Sao Paulo,88.0,2006-5
+Sao Paulo,69.0,2007-5
+Sao Paulo,40.0,2008-5
+Sao Paulo,142.0,2009-5
+Sao Paulo,150.0,2010-5
+Sao Paulo,136.0,2011-5
+Sao Paulo,82.0,2012-5
+Sao Paulo,118.0,2013-5
+Sao Paulo,181.0,2014-5
+Sao Paulo,65.0,2015-5
+Sao Paulo,139.0,2016-5
+Sao Paulo,43.0,2017-5
+Sao Paulo,451.0,1998-6
+Sao Paulo,522.0,1999-6
+Sao Paulo,606.0,2000-6
+Sao Paulo,346.0,2001-6
+Sao Paulo,562.0,2002-6
+Sao Paulo,132.0,2003-6
+Sao Paulo,231.0,2004-6
+Sao Paulo,236.0,2005-6
+Sao Paulo,97.0,2006-6
+Sao Paulo,91.0,2007-6
+Sao Paulo,25.0,2008-6
+Sao Paulo,125.0,2009-6
+Sao Paulo,143.0,2010-6
+Sao Paulo,210.0,2011-6
+Sao Paulo,30.0,2012-6
+Sao Paulo,47.0,2013-6
+Sao Paulo,331.0,2014-6
+Sao Paulo,147.0,2015-6
+Sao Paulo,197.0,2016-6
+Sao Paulo,217.0,2017-6
+Sao Paulo,596.0,1998-7
+Sao Paulo,684.0,1999-7
+Sao Paulo,770.0,2000-7
+Sao Paulo,538.0,2001-7
+Sao Paulo,448.0,2002-7
+Sao Paulo,171.0,2003-7
+Sao Paulo,342.0,2004-7
+Sao Paulo,284.0,2005-7
+Sao Paulo,245.0,2006-7
+Sao Paulo,94.0,2007-7
+Sao Paulo,126.0,2008-7
+Sao Paulo,110.0,2009-7
+Sao Paulo,600.0,2010-7
+Sao Paulo,479.0,2011-7
+Sao Paulo,179.0,2012-7
+Sao Paulo,181.0,2013-7
+Sao Paulo,476.0,2014-7
+Sao Paulo,149.0,2015-7
+Sao Paulo,687.0,2016-7
+Sao Paulo,802.0,2017-7
+Sao Paulo,581.0,1998-8
+Sao Paulo,1.2109999999999999,1999-8
+Sao Paulo,915.0,2000-8
+Sao Paulo,595.0,2001-8
+Sao Paulo,719.0,2002-8
+Sao Paulo,934.0,2003-8
+Sao Paulo,794.0,2004-8
+Sao Paulo,522.0,2005-8
+Sao Paulo,572.0,2006-8
+Sao Paulo,470.0,2007-8
+Sao Paulo,153.0,2008-8
+Sao Paulo,289.0,2009-8
+Sao Paulo,1.8090000000000002,2010-8
+Sao Paulo,1.067,2011-8
+Sao Paulo,435.0,2012-8
+Sao Paulo,497.0,2013-8
+Sao Paulo,1.4580000000000002,2014-8
+Sao Paulo,643.0,2015-8
+Sao Paulo,797.0,2016-8
+Sao Paulo,981.0,2017-8
+Sao Paulo,525.0,1998-9
+Sao Paulo,911.0,1999-9
+Sao Paulo,582.0,2000-9
+Sao Paulo,425.0,2001-9
+Sao Paulo,302.0,2002-9
+Sao Paulo,977.0,2003-9
+Sao Paulo,809.0,2004-9
+Sao Paulo,231.0,2005-9
+Sao Paulo,694.0,2006-9
+Sao Paulo,495.0,2007-9
+Sao Paulo,486.0,2008-9
+Sao Paulo,116.0,2009-9
+Sao Paulo,1.6769999999999998,2010-9
+Sao Paulo,1.1079999999999999,2011-9
+Sao Paulo,813.0,2012-9
+Sao Paulo,560.0,2013-9
+Sao Paulo,882.0,2014-9
+Sao Paulo,368.0,2015-9
+Sao Paulo,490.0,2016-9
+Sao Paulo,2.8680000000000003,2017-9
+Sao Paulo,434.0,1998-10
+Sao Paulo,763.0,1999-10
+Sao Paulo,647.0,2000-10
+Sao Paulo,444.0,2001-10
+Sao Paulo,733.0,2002-10
+Sao Paulo,422.0,2003-10
+Sao Paulo,195.0,2004-10
+Sao Paulo,221.0,2005-10
+Sao Paulo,153.0,2006-10
+Sao Paulo,281.0,2007-10
+Sao Paulo,87.0,2008-10
+Sao Paulo,64.0,2009-10
+Sao Paulo,260.0,2010-10
+Sao Paulo,188.0,2011-10
+Sao Paulo,206.0,2012-10
+Sao Paulo,127.0,2013-10
+Sao Paulo,887.0,2014-10
+Sao Paulo,213.0,2015-10
+Sao Paulo,177.0,2016-10
+Sao Paulo,179.0,2017-10
+Sao Paulo,488.0,1998-11
+Sao Paulo,398.0,1999-11
+Sao Paulo,96.0,2000-11
+Sao Paulo,168.0,2001-11
+Sao Paulo,72.0,2002-11
+Sao Paulo,155.0,2003-11
+Sao Paulo,144.0,2004-11
+Sao Paulo,163.0,2005-11
+Sao Paulo,43.0,2006-11
+Sao Paulo,50.0,2007-11
+Sao Paulo,20.0,2008-11
+Sao Paulo,83.0,2009-11
+Sao Paulo,104.0,2010-11
+Sao Paulo,87.0,2011-11
+Sao Paulo,50.0,2012-11
+Sao Paulo,120.0,2013-11
+Sao Paulo,56.0,2014-11
+Sao Paulo,21.0,2015-11
+Sao Paulo,39.0,2016-11
+Sao Paulo,37.0,2017-11
+Sao Paulo,121.0,1998-12
+Sao Paulo,47.0,1999-12
+Sao Paulo,23.0,2000-12
+Sao Paulo,52.0,2001-12
+Sao Paulo,57.0,2002-12
+Sao Paulo,58.0,2003-12
+Sao Paulo,102.0,2004-12
+Sao Paulo,15.0,2005-12
+Sao Paulo,13.0,2006-12
+Sao Paulo,21.0,2007-12
+Sao Paulo,36.0,2008-12
+Sao Paulo,37.0,2009-12
+Sao Paulo,52.0,2010-12
+Sao Paulo,53.0,2011-12
+Sao Paulo,64.0,2012-12
+Sao Paulo,109.0,2013-12
+Sao Paulo,57.0,2014-12
+Sao Paulo,45.0,2015-12
+Sao Paulo,47.0,2016-12
+Sergipe,0.0,1998-1
+Sergipe,36.0,1999-1
+Sergipe,1.0,2000-1
+Sergipe,2.0,2001-1
+Sergipe,1.0,2002-1
+Sergipe,198.0,2003-1
+Sergipe,16.0,2004-1
+Sergipe,80.0,2005-1
+Sergipe,36.0,2006-1
+Sergipe,56.0,2007-1
+Sergipe,100.0,2008-1
+Sergipe,60.0,2009-1
+Sergipe,29.0,2010-1
+Sergipe,36.0,2011-1
+Sergipe,39.0,2012-1
+Sergipe,34.0,2013-1
+Sergipe,20.0,2014-1
+Sergipe,44.0,2015-1
+Sergipe,9.0,2016-1
+Sergipe,31.0,2017-1
+Sergipe,0.0,1998-2
+Sergipe,25.0,1999-2
+Sergipe,6.0,2000-2
+Sergipe,2.0,2001-2
+Sergipe,6.0,2002-2
+Sergipe,50.0,2003-2
+Sergipe,10.0,2004-2
+Sergipe,19.0,2005-2
+Sergipe,36.0,2006-2
+Sergipe,22.0,2007-2
+Sergipe,67.0,2008-2
+Sergipe,64.0,2009-2
+Sergipe,33.0,2010-2
+Sergipe,31.0,2011-2
+Sergipe,34.0,2012-2
+Sergipe,47.0,2013-2
+Sergipe,18.0,2014-2
+Sergipe,40.0,2015-2
+Sergipe,22.0,2016-2
+Sergipe,18.0,2017-2
+Sergipe,0.0,1998-3
+Sergipe,18.0,1999-3
+Sergipe,6.0,2000-3
+Sergipe,1.0,2001-3
+Sergipe,7.0,2002-3
+Sergipe,62.0,2003-3
+Sergipe,36.0,2004-3
+Sergipe,28.0,2005-3
+Sergipe,41.0,2006-3
+Sergipe,2.0,2007-3
+Sergipe,43.0,2008-3
+Sergipe,29.0,2009-3
+Sergipe,44.0,2010-3
+Sergipe,47.0,2011-3
+Sergipe,71.0,2012-3
+Sergipe,67.0,2013-3
+Sergipe,33.0,2014-3
+Sergipe,49.0,2015-3
+Sergipe,26.0,2016-3
+Sergipe,16.0,2017-3
+Sergipe,0.0,1998-4
+Sergipe,6.0,1999-4
+Sergipe,1.0,2000-4
+Sergipe,0.0,2001-4
+Sergipe,12.0,2002-4
+Sergipe,48.0,2003-4
+Sergipe,13.0,2004-4
+Sergipe,8.0,2005-4
+Sergipe,9.0,2006-4
+Sergipe,1.0,2007-4
+Sergipe,2.0,2008-4
+Sergipe,19.0,2009-4
+Sergipe,1.0,2010-4
+Sergipe,12.0,2011-4
+Sergipe,40.0,2012-4
+Sergipe,15.0,2013-4
+Sergipe,7.0,2014-4
+Sergipe,35.0,2015-4
+Sergipe,14.0,2016-4
+Sergipe,8.0,2017-4
+Sergipe,0.0,1998-5
+Sergipe,0.0,1999-5
+Sergipe,0.0,2000-5
+Sergipe,3.0,2001-5
+Sergipe,0.0,2002-5
+Sergipe,2.0,2003-5
+Sergipe,5.0,2004-5
+Sergipe,0.0,2005-5
+Sergipe,0.0,2006-5
+Sergipe,0.0,2007-5
+Sergipe,0.0,2008-5
+Sergipe,0.0,2009-5
+Sergipe,0.0,2010-5
+Sergipe,0.0,2011-5
+Sergipe,17.0,2012-5
+Sergipe,1.0,2013-5
+Sergipe,1.0,2014-5
+Sergipe,11.0,2015-5
+Sergipe,9.0,2016-5
+Sergipe,1.0,2017-5
+Sergipe,0.0,1998-6
+Sergipe,0.0,1999-6
+Sergipe,0.0,2000-6
+Sergipe,0.0,2001-6
+Sergipe,0.0,2002-6
+Sergipe,0.0,2003-6
+Sergipe,0.0,2004-6
+Sergipe,0.0,2005-6
+Sergipe,0.0,2006-6
+Sergipe,0.0,2007-6
+Sergipe,0.0,2008-6
+Sergipe,2.0,2009-6
+Sergipe,0.0,2010-6
+Sergipe,1.0,2011-6
+Sergipe,3.0,2012-6
+Sergipe,1.0,2013-6
+Sergipe,0.0,2014-6
+Sergipe,3.0,2015-6
+Sergipe,1.0,2016-6
+Sergipe,0.0,2017-6
+Sergipe,0.0,1998-7
+Sergipe,0.0,1999-7
+Sergipe,0.0,2000-7
+Sergipe,0.0,2001-7
+Sergipe,0.0,2002-7
+Sergipe,0.0,2003-7
+Sergipe,0.0,2004-7
+Sergipe,0.0,2005-7
+Sergipe,0.0,2006-7
+Sergipe,0.0,2007-7
+Sergipe,0.0,2008-7
+Sergipe,0.0,2009-7
+Sergipe,0.0,2010-7
+Sergipe,0.0,2011-7
+Sergipe,1.0,2012-7
+Sergipe,0.0,2013-7
+Sergipe,0.0,2014-7
+Sergipe,0.0,2015-7
+Sergipe,0.0,2016-7
+Sergipe,0.0,2017-7
+Sergipe,0.0,1998-8
+Sergipe,0.0,1999-8
+Sergipe,0.0,2000-8
+Sergipe,0.0,2001-8
+Sergipe,2.0,2002-8
+Sergipe,0.0,2003-8
+Sergipe,0.0,2004-8
+Sergipe,0.0,2005-8
+Sergipe,0.0,2006-8
+Sergipe,0.0,2007-8
+Sergipe,0.0,2008-8
+Sergipe,0.0,2009-8
+Sergipe,0.0,2010-8
+Sergipe,1.0,2011-8
+Sergipe,0.0,2012-8
+Sergipe,0.0,2013-8
+Sergipe,0.0,2014-8
+Sergipe,0.0,2015-8
+Sergipe,6.0,2016-8
+Sergipe,0.0,2017-8
+Sergipe,0.0,1998-9
+Sergipe,0.0,1999-9
+Sergipe,0.0,2000-9
+Sergipe,1.0,2001-9
+Sergipe,0.0,2002-9
+Sergipe,3.0,2003-9
+Sergipe,0.0,2004-9
+Sergipe,2.0,2005-9
+Sergipe,0.0,2006-9
+Sergipe,0.0,2007-9
+Sergipe,0.0,2008-9
+Sergipe,1.0,2009-9
+Sergipe,0.0,2010-9
+Sergipe,0.0,2011-9
+Sergipe,1.0,2012-9
+Sergipe,1.0,2013-9
+Sergipe,4.0,2014-9
+Sergipe,1.0,2015-9
+Sergipe,2.0,2016-9
+Sergipe,0.0,2017-9
+Sergipe,0.0,1998-10
+Sergipe,0.0,1999-10
+Sergipe,3.0,2000-10
+Sergipe,5.0,2001-10
+Sergipe,20.0,2002-10
+Sergipe,2.0,2003-10
+Sergipe,3.0,2004-10
+Sergipe,11.0,2005-10
+Sergipe,3.0,2006-10
+Sergipe,3.0,2007-10
+Sergipe,0.0,2008-10
+Sergipe,1.0,2009-10
+Sergipe,1.0,2010-10
+Sergipe,5.0,2011-10
+Sergipe,1.0,2012-10
+Sergipe,3.0,2013-10
+Sergipe,3.0,2014-10
+Sergipe,6.0,2015-10
+Sergipe,10.0,2016-10
+Sergipe,0.0,2017-10
+Sergipe,12.0,1998-11
+Sergipe,3.0,1999-11
+Sergipe,0.0,2000-11
+Sergipe,5.0,2001-11
+Sergipe,57.0,2002-11
+Sergipe,2.0,2003-11
+Sergipe,41.0,2004-11
+Sergipe,23.0,2005-11
+Sergipe,5.0,2006-11
+Sergipe,7.0,2007-11
+Sergipe,17.0,2008-11
+Sergipe,9.0,2009-11
+Sergipe,16.0,2010-11
+Sergipe,4.0,2011-11
+Sergipe,6.0,2012-11
+Sergipe,7.0,2013-11
+Sergipe,9.0,2014-11
+Sergipe,47.0,2015-11
+Sergipe,17.0,2016-11
+Sergipe,1.0,2017-11
+Sergipe,8.0,1998-12
+Sergipe,5.0,1999-12
+Sergipe,0.0,2000-12
+Sergipe,5.0,2001-12
+Sergipe,103.0,2002-12
+Sergipe,36.0,2003-12
+Sergipe,66.0,2004-12
+Sergipe,29.0,2005-12
+Sergipe,17.0,2006-12
+Sergipe,33.0,2007-12
+Sergipe,14.0,2008-12
+Sergipe,21.0,2009-12
+Sergipe,19.0,2010-12
+Sergipe,36.0,2011-12
+Sergipe,18.0,2012-12
+Sergipe,9.0,2013-12
+Sergipe,9.0,2014-12
+Sergipe,63.0,2015-12
+Sergipe,36.0,2016-12
+Tocantins,0.0,1998-1
+Tocantins,36.0,1999-1
+Tocantins,15.0,2000-1
+Tocantins,19.0,2001-1
+Tocantins,35.0,2002-1
+Tocantins,35.0,2003-1
+Tocantins,40.0,2004-1
+Tocantins,66.0,2005-1
+Tocantins,91.0,2006-1
+Tocantins,34.0,2007-1
+Tocantins,28.0,2008-1
+Tocantins,43.0,2009-1
+Tocantins,79.0,2010-1
+Tocantins,14.0,2011-1
+Tocantins,12.0,2012-1
+Tocantins,50.0,2013-1
+Tocantins,89.0,2014-1
+Tocantins,186.0,2015-1
+Tocantins,42.0,2016-1
+Tocantins,61.0,2017-1
+Tocantins,0.0,1998-2
+Tocantins,1.0,1999-2
+Tocantins,6.0,2000-2
+Tocantins,6.0,2001-2
+Tocantins,48.0,2002-2
+Tocantins,15.0,2003-2
+Tocantins,7.0,2004-2
+Tocantins,27.0,2005-2
+Tocantins,14.0,2006-2
+Tocantins,8.0,2007-2
+Tocantins,6.0,2008-2
+Tocantins,21.0,2009-2
+Tocantins,32.0,2010-2
+Tocantins,13.0,2011-2
+Tocantins,45.0,2012-2
+Tocantins,37.0,2013-2
+Tocantins,73.0,2014-2
+Tocantins,65.0,2015-2
+Tocantins,383.0,2016-2
+Tocantins,25.0,2017-2
+Tocantins,0.0,1998-3
+Tocantins,1.0,1999-3
+Tocantins,4.0,2000-3
+Tocantins,0.0,2001-3
+Tocantins,33.0,2002-3
+Tocantins,19.0,2003-3
+Tocantins,23.0,2004-3
+Tocantins,13.0,2005-3
+Tocantins,11.0,2006-3
+Tocantins,99.0,2007-3
+Tocantins,4.0,2008-3
+Tocantins,23.0,2009-3
+Tocantins,120.0,2010-3
+Tocantins,16.0,2011-3
+Tocantins,80.0,2012-3
+Tocantins,60.0,2013-3
+Tocantins,58.0,2014-3
+Tocantins,85.0,2015-3
+Tocantins,165.0,2016-3
+Tocantins,98.0,2017-3
+Tocantins,0.0,1998-4
+Tocantins,9.0,1999-4
+Tocantins,0.0,2000-4
+Tocantins,19.0,2001-4
+Tocantins,37.0,2002-4
+Tocantins,64.0,2003-4
+Tocantins,52.0,2004-4
+Tocantins,52.0,2005-4
+Tocantins,4.0,2006-4
+Tocantins,22.0,2007-4
+Tocantins,46.0,2008-4
+Tocantins,5.0,2009-4
+Tocantins,419.0,2010-4
+Tocantins,106.0,2011-4
+Tocantins,226.0,2012-4
+Tocantins,130.0,2013-4
+Tocantins,187.0,2014-4
+Tocantins,88.0,2015-4
+Tocantins,369.0,2016-4
+Tocantins,164.0,2017-4
+Tocantins,0.0,1998-5
+Tocantins,24.0,1999-5
+Tocantins,69.0,2000-5
+Tocantins,48.0,2001-5
+Tocantins,138.0,2002-5
+Tocantins,96.0,2003-5
+Tocantins,350.0,2004-5
+Tocantins,236.0,2005-5
+Tocantins,35.0,2006-5
+Tocantins,250.0,2007-5
+Tocantins,81.0,2008-5
+Tocantins,91.0,2009-5
+Tocantins,580.0,2010-5
+Tocantins,354.0,2011-5
+Tocantins,467.0,2012-5
+Tocantins,373.0,2013-5
+Tocantins,618.0,2014-5
+Tocantins,512.0,2015-5
+Tocantins,778.0,2016-5
+Tocantins,576.0,2017-5
+Tocantins,252.0,1998-6
+Tocantins,113.0,1999-6
+Tocantins,278.0,2000-6
+Tocantins,305.0,2001-6
+Tocantins,396.0,2002-6
+Tocantins,329.0,2003-6
+Tocantins,1.079,2004-6
+Tocantins,669.0,2005-6
+Tocantins,289.0,2006-6
+Tocantins,591.0,2007-6
+Tocantins,282.0,2008-6
+Tocantins,421.0,2009-6
+Tocantins,767.0,2010-6
+Tocantins,717.0,2011-6
+Tocantins,922.0,2012-6
+Tocantins,873.0,2013-6
+Tocantins,1.3719999999999999,2014-6
+Tocantins,1.15,2015-6
+Tocantins,1.148,2016-6
+Tocantins,1.32,2017-6
+Tocantins,640.0,1998-7
+Tocantins,373.0,1999-7
+Tocantins,500.0,2000-7
+Tocantins,830.0,2001-7
+Tocantins,976.0,2002-7
+Tocantins,762.0,2003-7
+Tocantins,1.389,2004-7
+Tocantins,1.082,2005-7
+Tocantins,430.0,2006-7
+Tocantins,982.0,2007-7
+Tocantins,441.0,2008-7
+Tocantins,989.0,2009-7
+Tocantins,2.408,2010-7
+Tocantins,1.001,2011-7
+Tocantins,1.693,2012-7
+Tocantins,1.393,2013-7
+Tocantins,1.4040000000000001,2014-7
+Tocantins,1.217,2015-7
+Tocantins,2.737,2016-7
+Tocantins,2.397,2017-7
+Tocantins,3.747,1998-8
+Tocantins,1.284,1999-8
+Tocantins,1.949,2000-8
+Tocantins,2.242,2001-8
+Tocantins,3.0269999999999997,2002-8
+Tocantins,1.339,2003-8
+Tocantins,1.776,2004-8
+Tocantins,1.84,2005-8
+Tocantins,1.2770000000000001,2006-8
+Tocantins,4.747,2007-8
+Tocantins,845.0,2008-8
+Tocantins,1.124,2009-8
+Tocantins,7.865,2010-8
+Tocantins,1.6680000000000001,2011-8
+Tocantins,4.28,2012-8
+Tocantins,1.81,2013-8
+Tocantins,2.917,2014-8
+Tocantins,2.54,2015-8
+Tocantins,3.213,2016-8
+Tocantins,3.536,2017-8
+Tocantins,5.149,1998-9
+Tocantins,3.415,1999-9
+Tocantins,2.552,2000-9
+Tocantins,4.8389999999999995,2001-9
+Tocantins,5.314,2002-9
+Tocantins,4.637,2003-9
+Tocantins,5.308,2004-9
+Tocantins,5.319,2005-9
+Tocantins,2.9789999999999996,2006-9
+Tocantins,6.829,2007-9
+Tocantins,2.39,2008-9
+Tocantins,2.017,2009-9
+Tocantins,10.172,2010-9
+Tocantins,4.658,2011-9
+Tocantins,7.46,2012-9
+Tocantins,2.445,2013-9
+Tocantins,3.52,2014-9
+Tocantins,5.51,2015-9
+Tocantins,3.245,2016-9
+Tocantins,10.737,2017-9
+Tocantins,1.7380000000000002,1998-10
+Tocantins,1.3780000000000001,1999-10
+Tocantins,1.053,2000-10
+Tocantins,684.0,2001-10
+Tocantins,1.537,2002-10
+Tocantins,1.339,2003-10
+Tocantins,1.6580000000000001,2004-10
+Tocantins,2.9130000000000003,2005-10
+Tocantins,1.176,2006-10
+Tocantins,2.252,2007-10
+Tocantins,2.832,2008-10
+Tocantins,718.0,2009-10
+Tocantins,2.272,2010-10
+Tocantins,1.591,2011-10
+Tocantins,3.68,2012-10
+Tocantins,2.155,2013-10
+Tocantins,4.0,2014-10
+Tocantins,4.843999999999999,2015-10
+Tocantins,2.032,2016-10
+Tocantins,2.969,2017-10
+Tocantins,1.0,1998-11
+Tocantins,29.0,1999-11
+Tocantins,96.0,2000-11
+Tocantins,100.0,2001-11
+Tocantins,207.0,2002-11
+Tocantins,146.0,2003-11
+Tocantins,424.0,2004-11
+Tocantins,271.0,2005-11
+Tocantins,108.0,2006-11
+Tocantins,147.0,2007-11
+Tocantins,104.0,2008-11
+Tocantins,251.0,2009-11
+Tocantins,283.0,2010-11
+Tocantins,144.0,2011-11
+Tocantins,179.0,2012-11
+Tocantins,345.0,2013-11
+Tocantins,451.0,2014-11
+Tocantins,833.0,2015-11
+Tocantins,623.0,2016-11
+Tocantins,434.0,2017-11
+Tocantins,9.0,1998-12
+Tocantins,16.0,1999-12
+Tocantins,20.0,2000-12
+Tocantins,21.0,2001-12
+Tocantins,39.0,2002-12
+Tocantins,109.0,2003-12
+Tocantins,96.0,2004-12
+Tocantins,53.0,2005-12
+Tocantins,15.0,2006-12
+Tocantins,13.0,2007-12
+Tocantins,7.0,2008-12
+Tocantins,46.0,2009-12
+Tocantins,72.0,2010-12
+Tocantins,105.0,2011-12
+Tocantins,128.0,2012-12
+Tocantins,85.0,2013-12
+Tocantins,223.0,2014-12
+Tocantins,373.0,2015-12
+Tocantins,119.0,2016-12
