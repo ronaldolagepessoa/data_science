@@ -1,0 +1,16 @@
+nome,disciplina,nota_final,freq
+Ronaldo,A,10,1.0
+Hugo,A,9,0.9
+Victor,A,10,0.95
+João,A,8,0.9
+Gabriel,A,7,0.8
+Ronaldo,B,9,0.85
+Hugo,B,8,0.8
+Victor,B,8,0.75
+João,B,10,0.9
+Gabriel,B,10,0.9
+Ronaldo,C,9,1.0
+Hugo,C,9,1.0
+Victor,C,9,0.75
+João,C,8,0.8
+Gabriel,C,9,0.9
